@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingtao Pei on Yuwei Wu</title>
+    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/mingtao-pei/</link>
+    <description>Recent content in Mingtao Pei on Yuwei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/mingtao-pei/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep manifold learning of symmetric positive definite matrices with application to face recognition</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/dong-2017-deep/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/dong-2017-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online discriminative tracking with active example selection</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2015-online/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2015-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust discriminative tracking via landmark-based label propagation</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2015-robust/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2015-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle type classification using a semisupervised convolutional neural network</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/dong-2015-vehicle/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/dong-2015-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling semi-supervised learning and example selection for online object tracking</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2014-coupling/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2014-coupling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landmark-based inductive model for robust discriminative tracking</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2014-landmark/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2014-landmark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

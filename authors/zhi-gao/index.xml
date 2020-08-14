@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi Gao on Yuwei Wu</title>
+    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/zhi-gao/</link>
+    <description>Recent content in Zhi Gao on Yuwei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/zhi-gao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep convolutional network with locality and sparsity constraints for texture classification</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/bu-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/bu-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning a robust representation via a deep network on symmetric positive definite manifolds</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Metric for Similarity-based Classification on the SPD Manifold</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/zhi-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/zhi-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set-to-Set Distance Metric Learning on SPD Manifolds</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2018-set/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2018-set/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

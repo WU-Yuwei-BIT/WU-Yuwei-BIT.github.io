@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuwei Wu</title>
+    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/yuwei-wu/</link>
+    <description>Recent content on Yuwei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/yuwei-wu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adversarial 3D convolutional auto-encoder for   Abnormal Event Detection in Videos</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint3/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint1/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Shape Reconstruction From Images in the Frequency Domain</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/shen-20193-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/shen-20193-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codebook-Free Compact Descriptor for Scalable Visual Search</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2019-codebook/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2019-codebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep convolutional network with locality and sparsity constraints for texture classification</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/bu-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/bu-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning a robust representation via a deep network on symmetric positive definite manifolds</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Distracter-Resistive Tracker via Learning a Multi-Component Discriminative Dictionary</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/shen-2019-robust/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/shen-2019-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Metric for Similarity-based Classification on the SPD Manifold</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/zhi-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/zhi-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Deep Quantization for Object Instance Search</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wei-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wei-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep stereo matching with explicit cost aggregation sub-architecture</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group-sensitive triplet embedding for vehicle reidentification</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/bai-2018-group/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/bai-2018-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing reconstruction bias hashing via joint projection learning and quantization</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/duan-2018-minimizing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/duan-2018-minimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set-to-Set Distance Metric Learning on SPD Manifolds</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2018-set/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2018-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Action Localization in Untrimmed Videos Using Action Pattern Trees</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/song-2018-temporal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/song-2018-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid data association framework for robust online multi-object tracking</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2017-hybrid/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2017-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact discriminative object representation via weakly supervised learning for real-time visual tracking</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/shen-2017-compact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/shen-2017-compact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep manifold learning of symmetric positive definite matrices with application to face recognition</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/dong-2017-deep/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/dong-2017-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient object instance search using fuzzy objects matching</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2017-efficient/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2017-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hope: Hierarchical object prototype encoding for efficient object instance search in videos</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2017-hope/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2017-hope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A compact binary aggregated descriptor via dual selection for visual search</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2016-compact/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2016-compact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative action states discovery for online action recognition</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/hu-2016-discriminative/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/hu-2016-discriminative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning a Multi-class Discriminative Dictionary with Nonredundancy Constraints for Visual Classification</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/liu-2016-learning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/liu-2016-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifold kernel sparse representation of symmetric positive-definite matrices and its applications</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2015-manifold/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2015-manifold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online discriminative tracking with active example selection</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2015-online/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2015-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust discriminative tracking via landmark-based label propagation</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2015-robust/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2015-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle type classification using a semisupervised convolutional neural network</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/dong-2015-vehicle/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/dong-2015-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling semi-supervised learning and example selection for online object tracking</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2014-coupling/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yang-2014-coupling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landmark-based inductive model for robust discriminative tracking</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2014-landmark/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2014-landmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape constraints for the left ventricle segmentation from cardiac cine mri based on snake models</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wang-2014-shape/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wang-2014-shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive diffusion flow active contours for image segmentation</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2013-adaptive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2013-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metric learning based structural appearance model for robust visual tracking</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2013-metric/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2013-metric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation of the left ventricle in cardiac cine MRI using a shape-constrained snake model</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2013-segmentation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2013-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive diffusion flow for parametric active contours</title>
+      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2010-adaptive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2010-adaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
