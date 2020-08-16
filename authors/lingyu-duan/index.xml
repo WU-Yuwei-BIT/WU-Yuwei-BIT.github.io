@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lingyu Duan on Yuwei Wu</title>
+    <link>http://iitlab.bit.edu.cn/authors/lingyu-duan/</link>
+    <description>Recent content in Lingyu Duan on Yuwei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/lingyu-duan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robust Distracter-Resistive Tracker via Learning a Multi-Component Discriminative Dictionary</title>
+      <link>http://iitlab.bit.edu.cn/publication/shen-2019-robust/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/shen-2019-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Distracter-Resistive Tracker via Learning a Multi-Component Discriminative Dictionary</title>
+      <link>http://iitlab.bit.edu.cn/publication/shen-2018-robust/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/shen-2018-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A compact binary aggregated descriptor via dual selection for visual search</title>
+      <link>http://iitlab.bit.edu.cn/publication/wu-2016-compact/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/wu-2016-compact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

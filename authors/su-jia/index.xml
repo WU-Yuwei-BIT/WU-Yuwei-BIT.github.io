@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Su Jia on Yuwei Wu</title>
+    <link>http://iitlab.bit.edu.cn/authors/su-jia/</link>
+    <description>Recent content in Su Jia on Yuwei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/su-jia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep manifold learning of symmetric positive definite matrices with application to face recognition</title>
+      <link>http://iitlab.bit.edu.cn/publication/dong-2017-deep/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/dong-2017-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

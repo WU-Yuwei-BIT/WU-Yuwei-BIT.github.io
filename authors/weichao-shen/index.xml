@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weichao Shen on Yuwei Wu</title>
+    <link>http://iitlab.bit.edu.cn/authors/weichao-shen/</link>
+    <description>Recent content in Weichao Shen on Yuwei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/weichao-shen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems</title>
+      <link>http://iitlab.bit.edu.cn/publication/dong-2020-can/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/dong-2020-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Shape Reconstruction From Images in the Frequency Domain</title>
+      <link>http://iitlab.bit.edu.cn/publication/shen-20193-d/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/shen-20193-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Distracter-Resistive Tracker via Learning a Multi-Component Discriminative Dictionary</title>
+      <link>http://iitlab.bit.edu.cn/publication/shen-2019-robust/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/shen-2019-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Distracter-Resistive Tracker via Learning a Multi-Component Discriminative Dictionary</title>
+      <link>http://iitlab.bit.edu.cn/publication/shen-2018-robust/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/shen-2018-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact discriminative object representation via weakly supervised learning for real-time visual tracking</title>
+      <link>http://iitlab.bit.edu.cn/publication/shen-2017-compact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/shen-2017-compact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

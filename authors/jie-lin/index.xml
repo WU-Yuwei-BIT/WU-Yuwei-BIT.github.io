@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jie Lin on Yuwei Wu</title>
+    <link>http://iitlab.bit.edu.cn/authors/jie-lin/</link>
+    <description>Recent content in Jie Lin on Yuwei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/jie-lin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Codebook-Free Compact Descriptor for Scalable Visual Search</title>
+      <link>http://iitlab.bit.edu.cn/publication/wu-2019-codebook/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/wu-2019-codebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codebook-Free Compact Descriptor for Scalable Visual Search</title>
+      <link>http://iitlab.bit.edu.cn/publication/wu-2018-codebook/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/wu-2018-codebook/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
