@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xingyuan Bu on Yuwei Wu</title>
-    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/xingyuan-bu/</link>
+    <link>http://iitlab.bit.edu.cn/authors/xingyuan-bu/</link>
     <description>Recent content in Xingyuan Bu on Yuwei Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/xingyuan-bu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/xingyuan-bu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep convolutional network with locality and sparsity constraints for texture classification</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/bu-2019-deep/</link>
+      <title>An Orderless Representation using the Deep Convolutional Network for Texture Classification</title>
+      <link>http://iitlab.bit.edu.cn/publication/xingyuan-2019-anorderless/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/bu-2019-deep/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/xingyuan-2019-anorderless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep convolutional network with locality and sparsity constraints for texture classification</title>
+      <link>http://iitlab.bit.edu.cn/publication/bu-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/bu-2019-deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning a robust representation via a deep network on symmetric positive definite manifolds</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2019-learning/</link>
+      <link>http://iitlab.bit.edu.cn/publication/gao-2019-learning/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2019-learning/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/gao-2019-learning/</guid>
       <description></description>
     </item>
     

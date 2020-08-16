@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuwei Wu</title>
-    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/admin/</link>
+    <link>http://iitlab.bit.edu.cn/authors/admin/</link>
     <description>Recent content on Yuwei Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/post/jupyter/</link>
+      <link>http://iitlab.bit.edu.cn/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/post/jupyter/</guid>
+      <guid>http://iitlab.bit.edu.cn/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -76,10 +76,10 @@ rm Untitled.md
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/post/getting-started/</link>
+      <link>http://iitlab.bit.edu.cn/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/post/getting-started/</guid>
+      <guid>http://iitlab.bit.edu.cn/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -158,8 +158,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -171,8 +171,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -184,8 +184,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -197,8 +197,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -210,8 +210,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -223,8 +223,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -236,8 +236,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -249,8 +249,8 @@ rm Untitled.md
         
       
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;http://iitlab.bit.edu.cn/mcislab/~wuyuwei/mcislab/~wuyuwei/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
+  &lt;img src=&#34;http://iitlab.bit.edu.cn/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -293,10 +293,10 @@ rm Untitled.md
     
     <item>
       <title></title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/admin/</link>
+      <link>http://iitlab.bit.edu.cn/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/admin/</guid>
+      <guid>http://iitlab.bit.edu.cn/authors/admin/</guid>
       <description>&lt;p&gt;Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of Technology (BIT), Beijing, China, in 2014, under the supervision of Prof Yunde JIA. He is now an Assistant Professor at School of Computer Science, BIT.  From August 2014 to August 2016, he was a post-doctoral research fellow at Rapid-Rich Object Search (ROSE) Lab, School of Electrical &amp;amp; Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, under the supervision of Prof TAN Yap Peng and Prof &lt;a href=&#34;https://cse.buffalo.edu/~jsyuan/&#34; target=&#34;_blank&#34;&gt;YUAN Junsong&lt;/a&gt;. He received outstanding Ph.D. Thesis award from BIT, and Distinguished Dissertation Award Nominee from China Association for Artificial Intelligence (CAAI).&lt;/p&gt;
 </description>
     </item>

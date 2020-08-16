@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yicheng Huang on Yuwei Wu</title>
-    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/yicheng-huang/</link>
+    <link>http://iitlab.bit.edu.cn/authors/yicheng-huang/</link>
     <description>Recent content in Yicheng Huang on Yuwei Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/yicheng-huang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/yicheng-huang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Codebook-Free Compact Descriptor for Scalable Visual Search</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2019-codebook/</link>
+      <link>http://iitlab.bit.edu.cn/publication/wu-2019-codebook/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wu-2019-codebook/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/wu-2019-codebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codebook-Free Compact Descriptor for Scalable Visual Search</title>
+      <link>http://iitlab.bit.edu.cn/publication/wu-2018-codebook/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/wu-2018-codebook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimizing reconstruction bias hashing via joint projection learning and quantization</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/duan-2018-minimizing/</link>
+      <link>http://iitlab.bit.edu.cn/publication/duan-2018-minimizing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/duan-2018-minimizing/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/duan-2018-minimizing/</guid>
       <description></description>
     </item>
     

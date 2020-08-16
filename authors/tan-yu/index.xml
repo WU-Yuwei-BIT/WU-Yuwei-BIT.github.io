@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tan Yu on Yuwei Wu</title>
-    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/tan-yu/</link>
+    <link>http://iitlab.bit.edu.cn/authors/tan-yu/</link>
     <description>Recent content in Tan Yu on Yuwei Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/tan-yu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/tan-yu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning a robust representation via a deep network on symmetric positive definite manifolds</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2019-learning/</link>
+      <link>http://iitlab.bit.edu.cn/publication/gao-2019-learning/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/gao-2019-learning/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/gao-2019-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Deep Quantization for Object Instance Search</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wei-2019-unsupervised/</link>
+      <link>http://iitlab.bit.edu.cn/publication/wei-2019-unsupervised/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wei-2019-unsupervised/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/wei-2019-unsupervised/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient object instance search using fuzzy objects matching</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2017-efficient/</link>
+      <link>http://iitlab.bit.edu.cn/publication/yu-2017-efficient/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2017-efficient/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/yu-2017-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hope: Hierarchical object prototype encoding for efficient object instance search in videos</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2017-hope/</link>
+      <link>http://iitlab.bit.edu.cn/publication/yu-2017-hope/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/yu-2017-hope/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/yu-2017-hope/</guid>
       <description></description>
     </item>
     

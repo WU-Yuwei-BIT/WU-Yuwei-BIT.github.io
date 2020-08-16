@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Jiang on Yuwei Wu</title>
-    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/wei-jiang/</link>
+    <link>http://iitlab.bit.edu.cn/authors/wei-jiang/</link>
     <description>Recent content in Wei Jiang on Yuwei Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/wei-jiang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/wei-jiang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unsupervised Deep Quantization for Object Instance Search</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wei-2019-unsupervised/</link>
+      <link>http://iitlab.bit.edu.cn/publication/wei-2019-unsupervised/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/wei-2019-unsupervised/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/wei-2019-unsupervised/</guid>
       <description></description>
     </item>
     

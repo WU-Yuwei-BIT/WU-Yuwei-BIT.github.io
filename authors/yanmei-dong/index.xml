@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yanmei Dong on Yuwei Wu</title>
-    <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/yanmei-dong/</link>
+    <link>http://iitlab.bit.edu.cn/authors/yanmei-dong/</link>
     <description>Recent content in Yanmei Dong on Yuwei Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://iitlab.bit.edu.cn/mcislab/~wuyuwei/authors/yanmei-dong/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://iitlab.bit.edu.cn/authors/yanmei-dong/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint2/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems</title>
+      <link>http://iitlab.bit.edu.cn/publication/dong-2020-can/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint2/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/dong-2020-can/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems</title>
-      <link>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint1/</link>
+      <title>Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots</title>
+      <link>http://iitlab.bit.edu.cn/publication/preprint1/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://iitlab.bit.edu.cn/mcislab/~wuyuwei/publication/preprint1/</guid>
+      <guid>http://iitlab.bit.edu.cn/publication/preprint1/</guid>
       <description></description>
     </item>
     
