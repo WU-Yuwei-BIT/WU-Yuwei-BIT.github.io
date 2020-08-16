@@ -6,10 +6,19 @@
     <description>Recent content in Zhi Gao on Yuwei Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="http://iitlab.bit.edu.cn/authors/zhi-gao/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Non-approximate Infinite-dimensional Feature Aggregation via a Factorized Bilinear Model</title>
+      <link>http://iitlab.bit.edu.cn/publication/preprint3/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://iitlab.bit.edu.cn/publication/preprint3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning to Optimize on SPD Manifolds</title>
