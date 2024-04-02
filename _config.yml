@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuwei Wu (武玉伟)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tenured Associate Professor at the School of Computer Science, Beijing Institute of Technology (BIT)."
+  bio              :  # "Tenured Associate Professor at the School of Computer Science, Beijing Institute of Technology (BIT)."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
