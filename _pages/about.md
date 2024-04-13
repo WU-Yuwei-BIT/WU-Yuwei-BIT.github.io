@@ -27,7 +27,7 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 # Recruitment
 I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与机器智能课题组招生V3.pdf))
 
-# 🔥 News
+# News
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2024, congratulations to Yangkai XUE. 
 - *2023.10*: &nbsp;🎉🎉 Zhi GAO received Distinguished Dissertation Award from SIGAICHINA, congratulations!
 - *2023.06*: &nbsp;🎉🎉 Three papers are accepted by ICCV2023, congratulations to Chenrui SHI, Jiaxi ZENG and Chengtang YAO.
@@ -63,7 +63,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - *2019.06*: &nbsp;🎉🎉 Weichao SHEN’s work on 3D shape reconstruction is presented at CVPR'19 as an oral paper.
 - *2019.03*: &nbsp;🎉🎉 One paper is accepted by CVPR'19 as an oral paper, congratulations to Weichao SHEN.
 - *2019.02*: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +80,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
-# 👥 Group Members
+# Group
+
+## Graduate Students
+
 Chuanhao Li (李川皓)
 
 Xu Chen (陈旭)
@@ -125,8 +128,34 @@ Hanwen Zhang (张瀚文)
 
 Wenbo Ye (叶文博)
 
-Quan Chen (陈全)
+## Previous Graduate Students
 
-Wei Wu (吴为)
+**Dr.Zhi Gao** (Ph.D. student of BIT,2023) 
+now: Postdoc Research Fellow, Peking University, Beijing, China
+
+**Dr.Che Sun** (Ph.D. student of BIT,2023; co-supervise with Prof. Yunde Jia) 
+now: Postdoc Research Fellow, Tsinghua University, Beijing, China
+
+**Dr.Chenchen Jing** (Ph.D. student of BIT,2022; co-supervise with Prof. Yunde Jia)
+now: Postdoc Research Fellow, Zhejiang University, Hangzhou, China
+
+**Dr.Weichao Shen** (Ph.D. student of BIT,2021; co-supervise with Prof. Yunde Jia)
+now: Alibaba DAMO Academy for Discovery, Beijing, China
+
+**Wei Jiang** (Master student of BIT,2020)
+now: Alibaba, Beijing, China
+
+**Jindou Dai** (Master student of BIT,2022)
+now: Alibaba, Beijing, China
+
+**Jingyu Su** (Master student of BIT,2022)
+now: Putian University, Putian, China
+
+**Xiangjun Gao** (Master student of BIT,2023)
+now: Ph.D. student of HKUST, Hong Kong, China
+
+**Tianshuo Ma** (Master student of BIT,2023)
+now: CASIC No.3, Beijing, China
+
 
 
