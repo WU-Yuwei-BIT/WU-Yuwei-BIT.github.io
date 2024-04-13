@@ -79,6 +79,14 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# Teaching
+
+School of CS, Beijing Institute of Technology (BIT)
+  **Digital Image Processing**, 2020-present,  1st semester
+
+School of CS, Beijing Institute of Technology (BIT)
+  **Programming Methods and Practice**, 2018-prsent, Summer semester
+
 
 # Group
 
