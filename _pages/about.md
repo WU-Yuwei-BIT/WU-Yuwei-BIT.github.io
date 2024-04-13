@@ -19,7 +19,12 @@ redirect_from:
 
 Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of Technology (BIT), Beijing, China, in 2014, under the supervision of Prof Yunde JIA. He is now a Tenured Associate Professor at School of Computer Science, BIT. From August 2014 to August 2016, he was a post-doctoral research fellow at Rapid-Rich Object Search (ROSE) Lab, School of Electrical & Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, under the supervision of Prof TAN Yap Peng and Prof Junsong Yuan. He received outstanding Ph.D. Thesis award from BIT, and Distinguished Dissertation Award Nominee from China Association for Artificial Intelligence (CAAI). 
 
+# Research Interests
+*Computer Vision*: 3D Vision, Vision Language Processing, etc.
+*Machine Learning*: Riemannian Optimization, Deep Learning, etc. 
 
+# Recruitment
+I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与机器智能课题组招生V3.pdf))
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
