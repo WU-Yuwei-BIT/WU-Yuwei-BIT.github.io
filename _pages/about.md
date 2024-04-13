@@ -84,8 +84,6 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 - School of CS, Beijing Institute of Technology (BIT), **Digital Image Processing**, 2020-present,  1st semester
 
-<br>
-
 - School of CS, Beijing Institute of Technology (BIT), **Programming Methods and Practice**, 2018-present, Summer semester
 
 
