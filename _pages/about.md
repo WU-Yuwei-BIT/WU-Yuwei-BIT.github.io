@@ -85,6 +85,8 @@ School of CS, Beijing Institute of Technology (BIT)
 
   **Digital Image Processing**, 2020-present,  1st semester
 
+<br>
+
 School of CS, Beijing Institute of Technology (BIT)
 
   **Programming Methods and Practice**, 2018-prsent, Summer semester
@@ -145,41 +147,49 @@ Wenbo Ye (叶文博)
 
 now: Postdoc Research Fellow, Peking University, Beijing, China
 
+<br>
 
 **Dr.Che Sun** (Ph.D. student of BIT,2023; co-supervise with Prof. Yunde Jia) 
 
 now: Postdoc Research Fellow, Tsinghua University, Beijing, China
 
+<br>
 
 **Dr.Chenchen Jing** (Ph.D. student of BIT,2022; co-supervise with Prof. Yunde Jia)
 
 now: Postdoc Research Fellow, Zhejiang University, Hangzhou, China
 
+<br>
 
 **Dr.Weichao Shen** (Ph.D. student of BIT,2021; co-supervise with Prof. Yunde Jia)
 
 now: Alibaba DAMO Academy for Discovery, Beijing, China
 
+<br>
 
 **Wei Jiang** (Master student of BIT,2020)
 
 now: Alibaba, Beijing, China
 
+<br>
 
 **Jindou Dai** (Master student of BIT,2022)
 
 now: Alibaba, Beijing, China
 
+<br>
 
 **Jingyu Su** (Master student of BIT,2022)
 
 now: Putian University, Putian, China
 
+<br>
 
 **Xiangjun Gao** (Master student of BIT,2023)
 
 now: Ph.D. student of HKUST, Hong Kong, China
 
+<br>
 
 **Tianshuo Ma** (Master student of BIT,2023)
 
