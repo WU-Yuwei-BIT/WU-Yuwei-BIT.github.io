@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuwei Wu (武玉伟)"
+title                    : "Yuwei WU (武玉伟)"
 description              : "Tenured Associate Professor at the School of Computer Science, Beijing Institute of Technology (BIT)."
 repository               : "WU-Yuwei-BIT/wuyuwei.github.io"
 google_scholar_stats_use_cdn : true
