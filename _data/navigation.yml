@@ -10,13 +10,13 @@ main:
     url: "/#recruitment"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
 
   - title: "Group"
-    url: "/#-group"
+    url: "/#group"
