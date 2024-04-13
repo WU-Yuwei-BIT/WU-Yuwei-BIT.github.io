@@ -89,7 +89,7 @@ School of CS, Beijing Institute of Technology (BIT)
 
 School of CS, Beijing Institute of Technology (BIT)
 
-  **Programming Methods and Practice**, 2018-prsent, Summer semester
+  **Programming Methods and Practice**, 2018-present, Summer semester
 
 
 # Group
