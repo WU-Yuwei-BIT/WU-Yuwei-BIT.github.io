@@ -21,6 +21,7 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 
 # Research Interests
 *Computer Vision*: 3D Vision, Vision Language Processing, etc.
+
 *Machine Learning*: Riemannian Optimization, Deep Learning, etc. 
 
 # Recruitment
