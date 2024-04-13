@@ -82,9 +82,11 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 # Teaching
 
 School of CS, Beijing Institute of Technology (BIT)
+
   **Digital Image Processing**, 2020-present,  1st semester
 
 School of CS, Beijing Institute of Technology (BIT)
+
   **Programming Methods and Practice**, 2018-prsent, Summer semester
 
 
@@ -136,33 +138,51 @@ Hanwen Zhang (张瀚文)
 
 Wenbo Ye (叶文博)
 
+
 ## Previous Graduate Students
 
 **Dr.Zhi Gao** (Ph.D. student of BIT,2023) 
+
 now: Postdoc Research Fellow, Peking University, Beijing, China
 
+
 **Dr.Che Sun** (Ph.D. student of BIT,2023; co-supervise with Prof. Yunde Jia) 
+
 now: Postdoc Research Fellow, Tsinghua University, Beijing, China
 
+
 **Dr.Chenchen Jing** (Ph.D. student of BIT,2022; co-supervise with Prof. Yunde Jia)
+
 now: Postdoc Research Fellow, Zhejiang University, Hangzhou, China
 
+
 **Dr.Weichao Shen** (Ph.D. student of BIT,2021; co-supervise with Prof. Yunde Jia)
+
 now: Alibaba DAMO Academy for Discovery, Beijing, China
 
+
 **Wei Jiang** (Master student of BIT,2020)
+
 now: Alibaba, Beijing, China
+
 
 **Jindou Dai** (Master student of BIT,2022)
+
 now: Alibaba, Beijing, China
 
+
 **Jingyu Su** (Master student of BIT,2022)
+
 now: Putian University, Putian, China
 
+
 **Xiangjun Gao** (Master student of BIT,2023)
+
 now: Ph.D. student of HKUST, Hong Kong, China
 
+
 **Tianshuo Ma** (Master student of BIT,2023)
+
 now: CASIC No.3, Beijing, China
 
 
