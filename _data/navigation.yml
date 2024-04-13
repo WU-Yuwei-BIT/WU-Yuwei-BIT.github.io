@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Biography"
+    url: "/#biography"
+
+  - title: "Research Interests"
+    url: "/#research-interests"
+
+  - title: "Recruitment"
+    url: "/#recruitment"
 
   - title: "News"
     url: "/#-news"
@@ -9,8 +15,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Group Members"
-    url: "/#-group-members"
+  - title: "Teaching"
+    url: "/#-teaching"
 
-  - title: "Teaching Courses"
-    url: "/#-teaching-courses"
+  - title: "Group"
+    url: "/#-group"
