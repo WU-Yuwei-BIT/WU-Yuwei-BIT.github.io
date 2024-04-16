@@ -213,7 +213,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     
     <!-- 第二个成员 -->
      <div class="team-member">
-        <img src="../group/zengjiaxi.jpg" alt="" class="team-member-photo">
+        <img src="../group/zengjiaxi.png" alt="" class="team-member-photo">
         <div><strong>Jiaxi ZENG (曾嘉禧)</strong></div>
         <div>Master student of BIT</div>
         <div>2022--</div>
@@ -228,50 +228,90 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     </div>
 </div>
 
+<!-- 第六行 -->
+<div class="team-members-row">
+    <!-- 第一个成员 -->
+    <div class="team-member">
+        <img src="../group/lizhen.jpg" alt="" class="team-member-photo">
+        <div><strong>Zhen LI (李祯)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2023--</div>
+    </div>
+    
+    <!-- 第二个成员 -->
+     <div class="team-member">
+        <img src="../group/liuzhidan.jpg" alt="" class="team-member-photo">
+        <div><strong>Zhidan LIU (刘志丹)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2023--</div>
+    </div>
+    
+    <!-- 第三个成员 -->
+     <div class="team-member">
+        <img src="../group/maoyuchuan.jpg" alt="" class="team-member-photo">
+        <div><strong>Yuchuan MAO (毛禹川)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2023--</div>
+    </div>
+</div>
 
-Chuanhao Li 
+<!-- 第六行 -->
+<div class="team-members-row">
+    <!-- 第一个成员 -->
+    <div class="team-member">
+        <img src="../group/gaorui.jpg" alt="" class="team-member-photo">
+        <div><strong>Rui GAO (高瑞)</strong></div>
+        <div>Master student of BIT & SMBU</div>
+        <div>2023--</div>
+    </div>
+    
+    <!-- 第二个成员 -->
+     <div class="team-member">
+        <img src="../group/fanyimeng.jpg" alt="" class="team-member-photo">
+        <div><strong>Yimeng FAN (范忆萌)</strong></div>
+        <div>Master student of BIT & SMBU</div>
+        <div>2023--</div>
+    </div>
+    
+    <!-- 第三个成员 -->
+     <div class="team-member">
+        <img src="../group/zhanghanwen.jpg" alt="" class="team-member-photo">
+        <div><strong>Hanwen ZHANG (张瀚文)</strong></div>
+        <div>Master student of BIT & SMBU</div>
+        <div>2023--</div>
+    </div>
+</div>
 
-Xu Chen (陈旭)
+<!-- 第七行 -->
+<div class="team-members-row">
+    <!-- 第一个成员 -->
+    <div class="team-member">
+        <img src="../group/yewenbo.jpg" alt="" class="team-member-photo">
+        <div><strong>Wenbo YE (叶文博)</strong></div>
+        <div>Master student of BIT & SMBU</div>
+        <div>2023--</div>
+    </div>
+    
+    <!-- 第二个成员 -->
+     <div class="team-member">
+        <img src="../group/chenquan.jpg" alt="" class="team-member-photo">
+        <div><strong>Quan CHEN (陈全)</strong></div>
+        <div>Prospective master student of BIT</div>
+        <div>2024--</div>
+    </div>
+    
+    <!-- 第三个成员 -->
+     <div class="team-member">
+        <img src="../group/wuwei.jpg" alt="" class="team-member-photo">
+        <div><strong>Wei WU (吴为)</strong></div>
+        <div>Prospective master student of BIT</div>
+        <div>2024--</div>
+    </div>
+</div>
 
-Chengtang Yao (姚承唐)
 
-Guichen Huang (黄贵宸)
 
-Xiaomeng Fan (范啸猛)
 
-Yi Guo (郭一)
-
-Pengxiang Li (李朋祥)
-
-Mingliang Zhai (翟明亮)
-
-Chenrui Shi (石辰睿)
-
-Zhiyu Yan (晏直誉)
-
-Peilin Yu (余沛霖)
-
-Yangkai Xue (薛阳凯)
-
-Xinyu Liu (刘新宇)
-
-Jiaxi Zeng (曾嘉禧)
-
-Zhaoyi Li (李昭驿)
-
-Zhen Li (李祯)
-
-Zhidan Liu (刘志丹)
-
-Yuchuan Mao (毛禹川)
-
-Rui Gao (高瑞)
-
-Yimeng Fan (范忆萌)
-
-Hanwen Zhang (张瀚文)
-
-Wenbo Ye (叶文博)
 
 <br>
 
