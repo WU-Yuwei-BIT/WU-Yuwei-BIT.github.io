@@ -123,7 +123,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class="team-members-row">
     <!-- 第一个成员 -->
     <div class="team-member">
-        <img src="../group/huangguichen.jpg" alt="" class="team-member-photo">
+        <img src="../group/huangguichen.png" alt="" class="team-member-photo">
         <div><strong>Guichen HUANG (黄贵宸)</strong></div>
         <div>Ph.D. student of BIT</div>
         <div>2021--</div>
@@ -205,7 +205,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class="team-members-row">
     <!-- 第一个成员 -->
     <div class="team-member">
-        <img src="../group/liuxinyu.jpg" alt="" class="team-member-photo">
+        <img src="../group/liuxinyu.png" alt="" class="team-member-photo">
         <div><strong>Xinyu LIU (刘新宇)</strong></div>
         <div>Master student of BIT</div>
         <div>2022--</div>
@@ -213,7 +213,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     
     <!-- 第二个成员 -->
      <div class="team-member">
-        <img src="../group/yupeilin.jpg" alt="" class="team-member-photo">
+        <img src="../group/zengjiaxi.jpg" alt="" class="team-member-photo">
         <div><strong>Jiaxi ZENG (曾嘉禧)</strong></div>
         <div>Master student of BIT</div>
         <div>2022--</div>
