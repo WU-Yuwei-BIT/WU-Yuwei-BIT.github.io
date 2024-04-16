@@ -91,56 +91,17 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 ## Graduate Students
 
-<head>
-    <title>团队成员介绍</title>
-    <style>
-        /* 设置总体样式 */
-        body {
-            font-family: Arial, sans-serif;
-        }
-        
-        /* 设置团队成员行样式 */
-        .team-member {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-        
-        /* 设置照片样式 */
-        .team-member img {
-            width: 100px; /* 照片宽度 */
-            height: 100px; /* 照片高度 */
-            object-fit: cover; /* 让照片在保持宽高比的同时覆盖整个容器 */
-            border-radius: 50%; /* 照片圆形裁剪 */
-            margin-right: 20px; /* 照片与文本之间的间距 */
-        }
-        
-        /* 设置文本区域样式 */
-        .team-member .info {
-            line-height: 1.5;
-        }
-        
-        /* 设置名字的样式 */
-        .team-member .info .name {
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <h1>团队成员介绍</h1>
-    
-    <!-- 第一个成员 -->
-    <div class="team-member">
-        <img src="../group/lichuanhao.jpg" alt="成员照片">
-        <div class="info">
-            <div class="name">Chuanhao LI (李川皓)</div>
-            <div>Ph.D. student of BIT</div>
-            <div>2020--</div>
-        </div>
-    </div>
-    
-    <!-- 可以继续添加其他团队成员 -->
-</body>
+
+# 团队成员介绍
+
+![](../group/lichuanhao.jpg){: .team-member-photo}
+
+**Chuanhao Li**  
+Ph.D. student of BIT  
+2020--
+---
+
+<!-- 可以继续添加其他团队成员 -->
 
 
 Chuanhao Li (李川皓)
