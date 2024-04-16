@@ -91,14 +91,31 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 ## Graduate Students
 
-![](../group/lichuanhao.jpg){: .team-member-photo}
-**Chuanhao Li**  
-Ph.D. student of BIT  
-2020--
-
----
-
-<!-- 可以继续添加其他团队成员 -->
+<div class="team-members-row">
+    <!-- 第一个成员 -->
+    <div class="team-member">
+        ![](../group/lichuanhao.jpg){: .team-member-photo}
+        **Chuanhao LI**  
+        Ph.D. student of BIT  
+        2020--
+    </div>
+    
+    <!-- 第二个成员 -->
+    <div class="team-member">
+        ![](../group/chenxu.jpg){: .team-member-photo}
+        **Xu CHEN**  
+        Ph.D. student of BIT  
+        2020--
+    </div>
+    
+    <!-- 第三个成员 -->
+    <div class="team-member">
+        ![](../group/yaochengtang.jpg){: .team-member-photo}
+        **Chengtang YAO**  
+        Ph.D. student of BIT  
+        2021--
+    </div>
+</div>
 
 
 Chuanhao Li (李川皓)
