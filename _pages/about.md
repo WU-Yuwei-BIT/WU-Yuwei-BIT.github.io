@@ -90,12 +90,13 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 # Group
 
 ## Graduate Students
+
 <!-- 第一行 -->
 <div class="team-members-row">
     <!-- 第一个成员 -->
     <div class="team-member">
         <img src="../group/lichuanhao.jpg" alt="" class="team-member-photo">
-        <div><strong>Chuanhao LI</strong></div>
+        <div><strong>Chuanhao LI (李川皓)</strong></div>
         <div>Ph.D. student of BIT</div>
         <div>2020--</div>
     </div>
@@ -103,7 +104,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     <!-- 第二个成员 -->
     <div class="team-member">
         <img src="../group/chenxu.jpg" alt="" class="team-member-photo">
-        <div><strong>Xu CHEN</strong></div>
+        <div><strong>Xu CHEN (陈旭)</strong></div>
         <div>Ph.D. student of BIT</div>
         <div>2020--</div>
     </div>
@@ -111,14 +112,124 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     <!-- 第三个成员 -->
     <div class="team-member">
         <img src="../group/yaochengtang.jpg" alt="" class="team-member-photo">
-        <div><strong>Chengtang YAO</strong></div>
+        <div><strong>Chengtang YAO (姚承唐)</strong></div>
         <div>Ph.D. student of BIT</div>
         <div>2021--</div>
     </div>
 </div>
 
 
-Chuanhao Li (李川皓)
+<!-- 第二行 -->
+<div class="team-members-row">
+    <!-- 第一个成员 -->
+    <div class="team-member">
+        <img src="../group/huangguichen.jpg" alt="" class="team-member-photo">
+        <div><strong>Guichen HUANG (黄贵宸)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2021--</div>
+    </div>
+    
+    <!-- 第二个成员 -->
+    <div class="team-member">
+        <img src="../group/fanxiaomeng.jpg" alt="" class="team-member-photo">
+        <div><strong>Xiaomeng FAN (范啸猛)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2022--</div>
+    </div>
+    
+    <!-- 第三个成员 -->
+    <div class="team-member">
+        <img src="../group/guoyi.jpg" alt="" class="team-member-photo">
+        <div><strong>Yi GUO (郭一)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2022--</div>
+    </div>
+</div>
+
+<!-- 第三行 -->
+<div class="team-members-row">
+    <!-- 第一个成员 -->
+    <div class="team-member">
+        <img src="../group/lipengxiang.jpg" alt="" class="team-member-photo">
+        <div><strong>Pengxiang LI (李朋祥)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2023--</div>
+    </div>
+    
+    <!-- 第二个成员 -->
+    <div class="team-member">
+        <img src="../group/zhaimingliang.jpg" alt="" class="team-member-photo">
+        <div><strong>Mingliang ZHAI (翟明亮)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2023--</div>
+    </div>
+    
+    <!-- 第三个成员 -->
+    <div class="team-member">
+        <img src="../group/shichenrui.jpg" alt="" class="team-member-photo">
+        <div><strong>Chenrui SHI (石辰睿)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2023--</div>
+    </div>
+</div>
+
+<!-- 第四行 -->
+<div class="team-members-row">
+    <!-- 第一个成员 -->
+    <div class="team-member">
+        <img src="../group/yanzhiyu.jpg" alt="" class="team-member-photo">
+        <div><strong>Zhiyu YAN (晏直誉)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2021--</div>
+    </div>
+    
+    <!-- 第二个成员 -->
+     <div class="team-member">
+        <img src="../group/yupeilin.jpg" alt="" class="team-member-photo">
+        <div><strong>Peilin YU (余沛霖)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2022--</div>
+    </div>
+    
+    <!-- 第三个成员 -->
+     <div class="team-member">
+        <img src="../group/xueyangkai.jpg" alt="" class="team-member-photo">
+        <div><strong>Yangkai XUE (薛阳凯)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2022--</div>
+    </div>
+</div>
+
+
+<!-- 第五行 -->
+<div class="team-members-row">
+    <!-- 第一个成员 -->
+    <div class="team-member">
+        <img src="../group/liuxinyu.jpg" alt="" class="team-member-photo">
+        <div><strong>Xinyu LIU (刘新宇)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2022--</div>
+    </div>
+    
+    <!-- 第二个成员 -->
+     <div class="team-member">
+        <img src="../group/yupeilin.jpg" alt="" class="team-member-photo">
+        <div><strong>Jiaxi ZENG (曾嘉禧)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2022--</div>
+    </div>
+    
+    <!-- 第三个成员 -->
+     <div class="team-member">
+        <img src="../group/lizhaoyi.jpg" alt="" class="team-member-photo">
+        <div><strong>Zhaoyi LI (李昭驿)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2023--</div>
+    </div>
+</div>
+
+
+Chuanhao Li 
 
 Xu Chen (陈旭)
 
