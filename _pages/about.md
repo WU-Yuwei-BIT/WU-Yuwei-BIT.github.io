@@ -90,30 +90,30 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 # Group
 
 ## Graduate Students
-
+<!-- 第一行 -->
 <div class="team-members-row">
     <!-- 第一个成员 -->
     <div class="team-member">
-        ![](../group/lichuanhao.jpg){: .team-member-photo}
-        **Chuanhao LI**  
-        Ph.D. student of BIT  
-        2020--
+        <img src="../group/lichuanhao.jpg" alt="" class="team-member-photo">
+        <div><strong>Chuanhao LI</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2020--</div>
     </div>
     
     <!-- 第二个成员 -->
     <div class="team-member">
-        ![](../group/chenxu.jpg){: .team-member-photo}
-        **Xu CHEN**  
-        Ph.D. student of BIT  
-        2020--
+        <img src="../group/chenxu.jpg" alt="" class="team-member-photo">
+        <div><strong>Xu CHEN</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2020--</div>
     </div>
     
     <!-- 第三个成员 -->
     <div class="team-member">
-        ![](../group/yaochengtang.jpg){: .team-member-photo}
-        **Chengtang YAO**  
-        Ph.D. student of BIT  
-        2021--
+        <img src="../group/yaochengtang.jpg" alt="" class="team-member-photo">
+        <div><strong>Chengtang YAO</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2021--</div>
     </div>
 </div>
 
