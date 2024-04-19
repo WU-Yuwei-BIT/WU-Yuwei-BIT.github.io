@@ -187,7 +187,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 [Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](../paper/NeuRIPS2022_Gao.pdf)
 
 - Zhi Gao, **Yuwei Wu**,Yunde Jia, and Mehrtash Harandi
-- The 36th Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
+- The 36th Annual Conference on Neural Information Processing Systems (NeurIPS), 2022.
 
 </div>
 </div>
