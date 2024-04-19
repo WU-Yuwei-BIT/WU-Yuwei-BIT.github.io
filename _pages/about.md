@@ -137,9 +137,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Data Geometry for Continual Learning](../paper/AAAI2023_Sun.pdf)
+[Exploring Data Geometry for Continual Learning](../paper/CVPR2023_Gao.pdf)
 
-- Che Sun, Chenrui Shi, Yunde Jia, and **Yuwei Wu**
+- Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, and **Yuwei Wu**
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
 </div>
@@ -167,6 +167,31 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to Optimize on Riemannian Manifolds](../paper/TPAMI2013_Gao_Learning_to_Optimize.pdf)
+
+- Zhi Gao, **Yuwei Wu**, Xiaomeng Fan, Mehrtash Harandi, and Yunde Jia
+- IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](../paper/NeuRIPS2022_Gao.pdf)
+
+- Zhi Gao, **Yuwei Wu**,Yunde Jia, and Mehrtash Harandi
+- The 36th Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.
+
+</div>
+</div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
