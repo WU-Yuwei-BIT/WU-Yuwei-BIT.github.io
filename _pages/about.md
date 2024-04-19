@@ -204,6 +204,100 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Global-Aware Registration of Less-Overlap RGB-D Scans](../paper/CVPR2022_Sun.pdf)
+
+- Che Sun, Yunde Jia, Yi Guo, and **Yuwei Wu**
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Maintaining Reasoning Consistency in Compositional Visual Question Answering](../paper/CVPR2022_Jing.pdf)
+
+- Chenchen Jing, Yunde Jia, **Yuwei Wu**, Xinyu Liu, and Qi Wu
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficient Riemannian Meta-Optimization by Implicit Differentiation](../paper/AAAI2022_Fan.pdf)
+
+- Xiaomeng Fan, **Yuwei Wu**, Zhi Gao, Yunde Jia, and Mehrtash Harandi
+- The 36th Annual AAAI Conference on Artificial Intelligence (AAAI), 2022.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing](../paper/AAAI2022_.Jing.pdf)
+
+- Chenchen Jing, Yunde Jia, **Yuwei Wu**, Chuanhao Li, and Qi Wu
+- The 36th Annual AAAI Conference on Artificial Intelligence (AAAI), 2022.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Non-approximate Infinite-dimensional Feature Aggregation via a Factorized Bilinear Model](../paper/PR2022_Dai.pdf)
+
+- Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
+- Pattern Recognition (PR), 2022.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adversarial 3D Convolutional Auto-Encoder for Abnormal Event Detection in Videos](../paper/TMM2021_Sun.pdf)
+
+- Che Sun, Yunde Jia, Hao Song, and **Yuwei Wu**
+- IEEE Trans. on Multimedia (T-MM), 2021.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Curvature Generation in Hyperbolic Spaces for Few-Shot Learning](../paper/TMM2021_Sun.pdf)
+
+- Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
+- IEEE Conference on Computer Vision (ICCV), 2021.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (oral)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Hyperbolic-to-Hyperbolic Graph Convolutional Network](../paper/CVPR2021_Dai.pdf)
+
+- 20.	Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+
+</div>
+</div>
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
