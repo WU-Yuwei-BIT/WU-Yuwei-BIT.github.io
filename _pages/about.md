@@ -58,7 +58,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - *2020.02*: &nbsp;🎉🎉 One paper concerning SPD Riemannian optimization is accepted by CVPR2020, congratulations to Zhi GAO.
 - *2019.11*: &nbsp;🎉🎉 Two papers are accepted by AAAI2020, congratulations to Zhi GAO and Chenchen JING.
 - *2019.11*: &nbsp;🎉🎉 Zhi GAO’s work on the SPD Manifold is accepted by IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), congratulations!
-- *2019.07*: &nbsp;🎉🎉 Lidong YU, Lijia ZHANG, and Wenji WANG successfully defended their Master thesis, and Lidong YU received outstanding Master Thesis award from BIT, congratulations!
+- *2019.07*: &nbsp;🎉🎉 Lidong YU received outstanding Master Thesis award from BIT, congratulations!
 - *2019.06*: &nbsp;🎉🎉 Lidong YU, Lijia ZHANG, and Wenji WANG successfully defended their Master thesis, congratulations!
 - *2019.06*: &nbsp;🎉🎉 Weichao SHEN’s work on 3D shape reconstruction is presented at CVPR'19 as an oral paper.
 - *2019.03*: &nbsp;🎉🎉 One paper is accepted by CVPR'19 as an oral paper, congratulations to Weichao SHEN.
@@ -172,7 +172,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning to Optimize on Riemannian Manifolds](../paper/TPAMI2013_Gao_Learning_to_Optimize.pdf)
+[Learning to Optimize on Riemannian Manifolds](../paper/TPAMI2023_Gao_Learning_to_Optimize.pdf)
 
 - Zhi Gao, **Yuwei Wu**, Xiaomeng Fan, Mehrtash Harandi, and Yunde Jia
 - IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
