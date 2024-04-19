@@ -291,7 +291,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](../paper/CVPR2021_Dai.pdf)
 
-- 20.	Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
+- Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
 
 </div>
