@@ -193,6 +193,17 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evidential Reasoning for Video Anomaly Detection](../paper/ACM_MM2022_Sun.pdf)
+
+- Che Sun, Yunde Jia, and **Yuwei Wu**
+- The 30st ACM International Conference on Multimedia (ACM MM), 2022.
+
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
