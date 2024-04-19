@@ -72,9 +72,33 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 [Residual Hyperbolic Graph Convolution Networks](../paper/AAAI2024_Xue.pdf)
 
 - Yangkai Xue, Jindou Dai, Zhipeng Lu, **Yuwei Wu**, and Yunde Jia
+- The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks](../paper/ICCV2023_Chenrui.pdf)
+
+- Chenrui Shi, Che Sun, Yunde Jia, and **Yuwei Wu**
+- IEEE Conference on Computer Vision (ICCV), 2023.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks](../paper/ICCV2023_Zeng.pdf)
+
+- Jiaxi Zeng, Chengtang Yao, Lidong Yu, Yunde Jia, and **Yuwei Wu**
+- IEEE Conference on Computer Vision (ICCV), 2023.
+
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
