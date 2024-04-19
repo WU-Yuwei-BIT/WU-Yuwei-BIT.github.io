@@ -137,10 +137,33 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Data Geometry for Continual Learning](../paper/CVPR2023_Gao.pdf)
+[Exploring Data Geometry for Continual Learning](../paper/AAAI2023_Sun.pdf)
+
+- Che Sun, Chenrui Shi, Yunde Jia, and **Yuwei Wu**
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Event-Relevant Factors for Video Anomaly Detection](../paper/AAAI2023_Sun.pdf)
 
 - Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, and **Yuwei Wu**
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+- The 37th Annual AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Curvature-Adaptive Meta-Learning for Fast Adaptation to Non-Euclidean Data](../paper/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.pdf)
+
+- Zhi Gao, **Yuwei Wu**, Mehrtash Harandi, and Yunde Jia
+- IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
 
 </div>
 </div>
