@@ -91,10 +91,56 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks](../paper/ICCV2023_Zeng.pdf)
+[Parameterized Cost Volume for Stereo Matching](../paper/ICCV2023_Zeng.pdf)
 
 - Jiaxi Zeng, Chengtang Yao, Lidong Yu, Yunde Jia, and **Yuwei Wu**
 - IEEE Conference on Computer Vision (ICCV), 2023.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sparse Point Guided 3D Lane Detection](../paper/ICCV2023_Yao.pdf)
+
+- Chengtang Yao, Lidong Yu, Yunde Jia, and **Yuwei Wu**
+- IEEE Conference on Computer Vision (ICCV), 2023.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding](../paper/IJCAI2023_Zhai.pdf)
+
+- Mingliang Zhai, Yulin Li, Xiameng Qin, Chen Yi, Qunyi Xie, Chengquan Zhang, Kun Yao, **Yuwei Wu**, and Yunde Jia
+- The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language](../paper/CVPR2023_Chuanhao.pdf)
+
+- Chuanhao Li, Zhen Li, Chenchen Jing, Yunde Jia, and **Yuwei Wu**
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Data Geometry for Continual Learning](../paper/CVPR2023_Gao.pdf)
+
+- Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, and **Yuwei Wu**
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
 </div>
 </div>
