@@ -278,7 +278,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Curvature Generation in Hyperbolic Spaces for Few-Shot Learning](../paper/TMM2021_Sun.pdf)
+[Curvature Generation in Hyperbolic Spaces for Few-Shot Learning](../paper/ICCV2021_Gao.pdf)
 
 - Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
 - IEEE Conference on Computer Vision (ICCV), 2021.
@@ -307,19 +307,6 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Decomposition Model for Stereo Matching](../paper/CVPR2021_Yao.pdf)
-
-- Xiaomeng Fan, Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
-- The 35th Annual AAAI Conference on Artificial Intelligence (AAAI), 2021.
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
