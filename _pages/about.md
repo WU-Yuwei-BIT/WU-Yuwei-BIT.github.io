@@ -150,7 +150,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 [Learning Event-Relevant Factors for Video Anomaly Detection](../paper/AAAI2023_Sun.pdf)
 
-- Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, and **Yuwei Wu**
+- Che Sun, Chenrui Shi, Yunde Jia, and **Yuwei Wu**
 - The 37th Annual AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
 </div>
