@@ -297,6 +297,42 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Decomposition Model for Stereo Matching](../paper/CVPR2021_Yao.pdf)
+
+- Chengtang Yao, Yunde Jia, Huijun Di, Pengxiang Li, and **Yuwei Wu**
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Decomposition Model for Stereo Matching](../paper/CVPR2021_Yao.pdf)
+
+- Xiaomeng Fan, Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
+- The 35th Annual AAAI Conference on Artificial Intelligence (AAAI), 2021.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Decomposition Model for Stereo Matching](../paper/AAAI2021_Fan.pdf)
+
+- Xiaomeng Fan, Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
+- The 35th Annual AAAI Conference on Artificial Intelligence (AAAI), 2021.
+
+</div>
+</div>
+
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
