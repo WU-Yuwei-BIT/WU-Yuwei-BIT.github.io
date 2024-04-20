@@ -368,10 +368,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/pipeline/AAAI2020_Jing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Overcoming Language Priors in VQA via Decomposed Linguistic Representations](../paper/AAAI2020_Jing.pdf)
+**Overcoming Language Priors in VQA via Decomposed Linguistic Representations**
 
 - Chenchen Jing, **Yuwei Wu**, XiaoxunZhang, Yunde Jia, and Qi Wu
-- The 34th Annual AAAI Conference on Artificial Intelligence (AAAI), 2020.
+- AAAI 2020 [[PDF](../paper/AAAI2020_Jing.pdf)]
 
 </div>
 </div>
@@ -380,10 +380,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-NNLS 2020</div><img src='images/pipeline/TNNLS2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Robust Metric for Similarity-based Classification on the SPD Manifold](../paper/TNNLS2020.pdf)
+**A Robust Metric for Similarity-based Classification on the SPD Manifold**
 
 - Zhi Gao, **Yuwei Wu**, Mehrtash Harandi, and Yunde Jia
-- IEEE Trans. on Neural Networks and Learning Systems (T-NNLS), 2020.
+- T-NNLS 2020 [[PDF](../paper/TNNLS2020.pdf)]
 
 </div>
 </div>
@@ -391,18 +391,18 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IFS 2020</div><img src='images/pipeline/TIFS2020_Yao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Face Spoofing Detection Using Relativity Representation on Riemannian Manifold](../paper/TIFS2020_Yao.pdf)
+**Face Spoofing Detection Using Relativity Representation on Riemannian Manifold**
 
 - Chengtang Yao, Yunde Jia, Huijun Di, and **Yuwei Wu**
-- IEEE Trans. on Information Forensics and Security (T-IFS), 2020.
+- T-IFS 2020 [[PDF](../paper/TIFS2020_Yao.pdf)]
 
 </div>
 </div>
 
-- [3D Shape Reconstruction from Images in the Frequency Domain](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf), Weichao Shen, **Yuwei Wu**, and Yunde Jia, CVPR 2019 **(oral)**.
-- [Robust Distracter-Resistive Tracker via Learning A Multi-component Discriminative Dictionary](../paper/TCSVT2019_Shen.pdf), Weichao Shen, **Yuwei Wu**, Junsong Yuan, Ling-Yu Duan, Jian Zhang, and Yunde  Jia, T-CSVT 2019.
-- [Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification](../paper/PR2019_Xingyuan.pdf), Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia, PR 2019.
-- [Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds](../paper/PR2019_Gaozhi.pdf), Zhi Gao, **Yuwei Wu**, Xingyuan Bu, Tan Yu, Junsong Yuan, and Yunde Jia, PR 2019.
+- **3D Shape Reconstruction from Images in the Frequency Domain**, Weichao Shen, **Yuwei Wu**, and Yunde Jia, CVPR 2019 **(oral)** [[PDF](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf)]
+- **Robust Distracter-Resistive Tracker via Learning A Multi-component Discriminative Dictionary**, Weichao Shen, **Yuwei Wu**, Junsong Yuan, Ling-Yu Duan, Jian Zhang, and Yunde  Jia, T-CSVT 2019 [[PDF](../paper/TCSVT2019_Shen.pdf)]
+- **Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification**, Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia, PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)]
+- **Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds**, Zhi Gao, **Yuwei Wu**, Xingyuan Bu, Tan Yu, Junsong Yuan, and Yunde Jia, PR 2019 [[PDF](../paper/PR2019_Gaozhi.pdf)]
 - 
 
 # Teaching
