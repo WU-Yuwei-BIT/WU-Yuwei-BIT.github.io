@@ -126,10 +126,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/pipeline/CVPR2023_Chuanhao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language](../paper/CVPR2023_Chuanhao.pdf)
+**Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language**
 
 - Chuanhao Li, Zhen Li, Chenchen Jing, Yunde Jia, and **Yuwei Wu**
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+- CVPR 2023 [[PDF](../paper/CVPR2023_Chuanhao.pdf)]
 
 </div>
 </div>
@@ -137,10 +137,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/pipeline/CVPR2023_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring Data Geometry for Continual Learning](../paper/CVPR2023_Gao.pdf)
+**Exploring Data Geometry for Continual Learning**
 
 - Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, and **Yuwei Wu**
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+- CVPR 2023 [[PDF](../paper/CVPR2023_Gao.pdf)]
 
 </div>
 </div>
@@ -148,10 +148,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/pipeline/AAAI2023_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Event-Relevant Factors for Video Anomaly Detection](../paper/AAAI2023_Sun.pdf)
+**Learning Event-Relevant Factors for Video Anomaly Detection**
 
 - Che Sun, Chenrui Shi, Yunde Jia, and **Yuwei Wu**
-- The 37th Annual AAAI Conference on Artificial Intelligence (AAAI), 2023.
+- AAAI 2023 [[PDF](../paper/AAAI2023_Sun.pdf)]
 
 </div>
 </div>
@@ -160,10 +160,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/pipeline/TPAMI2023_Gao_Curvature-Adaptive_Meta-Learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Curvature-Adaptive Meta-Learning for Fast Adaptation to Non-Euclidean Data](../paper/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.pdf)
+**Curvature-Adaptive Meta-Learning for Fast Adaptation to Non-Euclidean Data**
 
 - Zhi Gao, **Yuwei Wu**, Mehrtash Harandi, and Yunde Jia
-- IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
+- T-PAMI 2023 [[PDF](../paper/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.pdf)]
 
 </div>
 </div>
@@ -172,10 +172,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/pipeline/TPAMI2013_Gao_Learning_to_Optimize.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning to Optimize on Riemannian Manifolds](../paper/TPAMI2023_Gao_Learning_to_Optimize.pdf)
+**Learning to Optimize on Riemannian Manifolds**
 
 - Zhi Gao, **Yuwei Wu**, Xiaomeng Fan, Mehrtash Harandi, and Yunde Jia
-- IEEE Trans. on Pattern Analysis and Machine Intelligence (T-PAMI), 2023.
+- T-PAMI 2023 [[PDF](../paper/TPAMI2023_Gao_Learning_to_Optimize.pdf)] [[Project](https://github.com/zhigao2017/learningriemannianoptimization)]
 
 </div>
 </div>
@@ -184,10 +184,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/pipeline/NeuRIPS2022_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](../paper/NeuRIPS2022_Gao.pdf)
+**Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds**
 
 - Zhi Gao, **Yuwei Wu**,Yunde Jia, and Mehrtash Harandi
-- The 36th Annual Conference on Neural Information Processing Systems (NeurIPS), 2022.
+- NeurIPS 2022 [[PDF](../paper/NeuRIPS2022_Gao.pdf)] [[Project](https://github.com/zhigao2017/Hyperbolic_Feature_Augmentation)]
 
 </div>
 </div>
@@ -196,10 +196,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/pipeline/ACM_MM2022_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evidential Reasoning for Video Anomaly Detection](../paper/ACM_MM2022_Sun.pdf)
+**Evidential Reasoning for Video Anomaly Detection**
 
 - Che Sun, Yunde Jia, and **Yuwei Wu**
-- The 30th ACM International Conference on Multimedia (ACM MM), 2022.
+- ACM MM 2022 [[PDF](../paper/ACM_MM2022_Sun.pdf)]
 
 </div>
 </div>
@@ -207,10 +207,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/pipeline/CVPR2022_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Global-Aware Registration of Less-Overlap RGB-D Scans](../paper/CVPR2022_Sun.pdf)
+**Global-Aware Registration of Less-Overlap RGB-D Scans**
 
 - Che Sun, Yunde Jia, Yi Guo, and **Yuwei Wu**
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+- CVPR 2022 [[PDF](../paper/CVPR2022_Sun.pdf)]
 
 </div>
 </div>
@@ -218,10 +218,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/pipeline/CVPR2022_Jing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Maintaining Reasoning Consistency in Compositional Visual Question Answering](../paper/CVPR2022_Jing.pdf)
+**Maintaining Reasoning Consistency in Compositional Visual Question Answering**
 
 - Chenchen Jing, Yunde Jia, **Yuwei Wu**, Xinyu Liu, and Qi Wu
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+- CVPR 2022 [[PDF](../paper/CVPR2022_Jing.pdf)] [[Project](https://github.com/jingchenchen/ReasoningConsistency-VQA)]
 
 </div>
 </div>
@@ -230,10 +230,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/pipeline/AAAI2022_Fan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Efficient Riemannian Meta-Optimization by Implicit Differentiation](../paper/AAAI2022_Fan.pdf)
+**Efficient Riemannian Meta-Optimization by Implicit Differentiation**
 
 - Xiaomeng Fan, **Yuwei Wu**, Zhi Gao, Yunde Jia, and Mehrtash Harandi
-- The 36th Annual AAAI Conference on Artificial Intelligence (AAAI), 2022.
+-  AAAI 2022 [[PDF](../paper/AAAI2022_Fan.pdf)] [[Project](https://github.com/XiaomengFanmcislab/I-RMM)]
 
 </div>
 </div>
@@ -242,10 +242,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/pipeline/AAAI2022_.Jing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing](../paper/AAAI2022_.Jing.pdf)
+**Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing**
 
 - Chenchen Jing, Yunde Jia, **Yuwei Wu**, Chuanhao Li, and Qi Wu
-- The 36th Annual AAAI Conference on Artificial Intelligence (AAAI), 2022.
+- AAAI 2022 [[PDF](../paper/AAAI2022_.Jing.pdf)]
 
 </div>
 </div>
@@ -254,10 +254,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2022</div><img src='images/pipeline/PR2022_Dai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Infinite-dimensional feature aggregation via a factorized bilinear model](../paper/PR2022_Dai.pdf)
+**Infinite-dimensional feature aggregation via a factorized bilinear model**
 
 - Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
-- Pattern Recognition (PR), 2022.
+- PR 2022 [[PDF](../paper/PR2022_Dai.pdf)] 
 
 </div>
 </div>
