@@ -349,7 +349,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Learning to Optimize on SPD Manifolds**
 
 - Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
-- CVPR 2020 [[PDF](../paper/CVPR2020_Gao.pdf)]
+- CVPR 2020 [[PDF](../paper/CVPR2020_Gao.pdf)] [[Project](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
 
 </div>
 </div>
@@ -383,7 +383,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **A Robust Metric for Similarity-based Classification on the SPD Manifold**
 
 - Zhi Gao, **Yuwei Wu**, Mehrtash Harandi, and Yunde Jia
-- T-NNLS 2020 [[PDF](../paper/TNNLS2020.pdf)]
+- T-NNLS 2020 [[PDF](../paper/TNNLS2020.pdf)] [[Project](https://github.com/zhigao2017/PSSSD)]
 
 </div>
 </div>
