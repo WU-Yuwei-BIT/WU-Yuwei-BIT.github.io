@@ -403,7 +403,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 - **Robust Distracter-Resistive Tracker via Learning A Multi-component Discriminative Dictionary**, Weichao Shen, **Yuwei Wu**, Junsong Yuan, Ling-Yu Duan, Jian Zhang, and Yunde  Jia, T-CSVT 2019 [[PDF](../paper/TCSVT2019_Shen.pdf)]
 
-- **Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification**, Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia, PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)]
+- **Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification**, Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia, PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)] [[Project](https://github.com/zhigao2017/Kernel-SPD-Pooling)]
 
 - **Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds**, Zhi Gao, **Yuwei Wu**, Xingyuan Bu, Tan Yu, Junsong Yuan, and Yunde Jia, PR 2019 [[PDF](../paper/PR2019_Gaozhi.pdf)]
 
