@@ -266,10 +266,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2021</div><img src='images/pipeline/TMM2021_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adversarial 3D Convolutional Auto-Encoder for Abnormal Event Detection in Videos](../paper/TMM2021_Sun.pdf)
+**Adversarial 3D Convolutional Auto-Encoder for Abnormal Event Detection in Videos**
 
 - Che Sun, Yunde Jia, Hao Song, and **Yuwei Wu**
-- IEEE Trans. on Multimedia (T-MM), 2021.
+- T-MM 2021 [[PDF](../paper/TMM2021_Sun.pdf)]
 
 </div>
 </div>
@@ -278,10 +278,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/pipeline/ICCV2021_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Curvature Generation in Hyperbolic Spaces for Few-Shot Learning](../paper/ICCV2021_Gao.pdf)
+**Curvature Generation in Hyperbolic Spaces for Few-Shot Learning**
 
 - Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
-- IEEE Conference on Computer Vision (ICCV), 2021.
+- ICCV 2021 [[pdf](../paper/ICCV2021_Gao.pdf)] [[Project](https://github.com/zhigao2017/CurvatureGeneration_FSL)]
 
 </div>
 </div>
@@ -289,10 +289,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (oral)</div><img src='images/pipeline/CVPR2021_Dai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Hyperbolic-to-Hyperbolic Graph Convolutional Network](../paper/CVPR2021_Dai.pdf)
+**A Hyperbolic-to-Hyperbolic Graph Convolutional Network**
 
 - Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+- CVPR 2021 [[PDF](../paper/CVPR2021_Dai.pdf)]
 
 </div>
 </div>
@@ -300,10 +300,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/pipeline/CVPR2021_Yao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Decomposition Model for Stereo Matching](../paper/CVPR2021_Yao.pdf)
+**A Decomposition Model for Stereo Matching**
 
 - Chengtang Yao, Yunde Jia, Huijun Di, Pengxiang Li, and **Yuwei Wu**
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+- CVPR 2021 [[PDF](../paper/CVPR2021_Yao.pdf)] [[Project](https://github.com/YaoChengTang/DecNet)]
 
 </div>
 </div>
@@ -311,10 +311,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/pipeline/AAAI2021_Fan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning a Gradient-free Riemannian Optimizer on Tangent Spaces](../paper/AAAI2021_Fan.pdf)
+**Learning a Gradient-free Riemannian Optimizer on Tangent Spaces**
 
 - Xiaomeng Fan, Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
-- The 35th Annual AAAI Conference on Artificial Intelligence (AAAI), 2021.
+- AAAI 2021 [[PDF](../paper/AAAI2021_Fan.pdf)] [[Project](https://github.com/XiaomengFanmcislab/Learning-a-Gradient-free-Riemannian-Optimizer-on-Tangent-Spaces)]
 
 </div>
 </div>
@@ -323,10 +323,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/pipeline/ACM_MM2020_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Scene-Aware Context Reasoning for Unsupervised Abnormal Event Detection in Videos](../paper/ACM_MM2020_Sun.pdf)
+**Scene-Aware Context Reasoning for Unsupervised Abnormal Event Detection in Videos**
 
 - Che Sun, Yunde Jia, Yao Hu, and **Yuwei Wu**
-- The 28th ACM International Conference on Multimedia (ACM MM), 2020.
+- ACM MM 2020 [[PDF](../paper/ACM_MM2020_Sun.pdf)]
 
 </div>
 </div>
@@ -334,10 +334,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/pipeline/ACM_MM2020_Jing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visual-Semantic Graph Matching for Visual Grounding](../paper/ACM_MM2020_Jing.pdf)
+**Visual-Semantic Graph Matching for Visual Grounding**
 
 - Chenchen Jing, **Yuwei Wu**, Yao Hu, Yunde Jia, and Qi Wu
-- The 28th ACM International Conference on Multimedia (ACM MM), 2020.
+- ACM MM 2020 [[PDF](../paper/ACM_MM2020_Jing.pdf)]
 
 </div>
 </div>
@@ -346,10 +346,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/pipeline/CVPR2020_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning to Optimize on SPD Manifolds](../paper/CVPR2020_Gao.pdf)
+**Learning to Optimize on SPD Manifolds**
 
 - Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+- CVPR 2020 [[PDF](../paper/CVPR2020_Gao.pdf)]
 
 </div>
 </div>
@@ -357,10 +357,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/pipeline/AAAI2020_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Revisiting Bilinear Pooling: A Coding Perspective](../paper/AAAI2020_Gao.pdf)
+**Revisiting Bilinear Pooling: A Coding Perspective**
 
 - Zhi Gao, **Yuwei Wu**, XiaoxunZhang, Jindou Dai,Yunde Jia, and Mehrtash Harandi
-- The 34th Annual AAAI Conference on Artificial Intelligence (AAAI), 2020.
+- AAAI 2020 [[PDF](../paper/AAAI2020_Gao.pdf)] [[Project](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
 
 </div>
 </div>
