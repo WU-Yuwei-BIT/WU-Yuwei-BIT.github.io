@@ -145,8 +145,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/pipeline/AAAI2023_Sun.png' alt="sym" ![image](https://github.com/WU-Yuwei-BIT/WU-Yuwei-BIT.github.io/assets/69661843/53ad145a-9ba4-4e67-b76a-8e388b50d594)![image](https://github.com/WU-Yuwei-BIT/WU-Yuwei-BIT.github.io/assets/69661843/e2ede949-b2c2-46b3-a67a-94987359777a)
-"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/pipeline/AAAI2023_Sun.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Event-Relevant Factors for Video Anomaly Detection](../paper/AAAI2023_Sun.pdf)
