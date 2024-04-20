@@ -66,7 +66,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 # Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/pipeline/AAAI2024_Xue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Residual Hyperbolic Graph Convolution Networks](../paper/AAAI2024_Xue.pdf)
@@ -77,7 +77,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Chenrui.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks](../paper/ICCV2023_Chenrui.pdf)
@@ -100,7 +100,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Yao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sparse Point Guided 3D Lane Detection](../paper/ICCV2023_Yao.pdf)
@@ -112,7 +112,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/pipeline/IJCAI2023_Zhai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding](../paper/IJCAI2023_Zhai.pdf)
@@ -123,7 +123,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/pipeline/CVPR2023_Chuanhao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language](../paper/CVPR2023_Chuanhao.pdf)
@@ -134,7 +134,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/pipeline/CVPR2023_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring Data Geometry for Continual Learning](../paper/CVPR2023_Gao.pdf)
@@ -145,7 +145,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/pipeline/AAAI2023_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Event-Relevant Factors for Video Anomaly Detection](../paper/AAAI2023_Sun.pdf)
@@ -157,7 +157,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/pipeline/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Curvature-Adaptive Meta-Learning for Fast Adaptation to Non-Euclidean Data](../paper/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.pdf)
@@ -169,7 +169,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/pipeline/TPAMI2023_Gao_Learning_to_Optimize.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to Optimize on Riemannian Manifolds](../paper/TPAMI2023_Gao_Learning_to_Optimize.pdf)
@@ -181,7 +181,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/pipeline/NeuRIPS2022_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](../paper/NeuRIPS2022_Gao.pdf)
@@ -193,7 +193,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/pipeline/ACM_MM2022_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evidential Reasoning for Video Anomaly Detection](../paper/ACM_MM2022_Sun.pdf)
@@ -204,7 +204,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/pipeline/CVPR2022_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Global-Aware Registration of Less-Overlap RGB-D Scans](../paper/CVPR2022_Sun.pdf)
@@ -215,7 +215,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/pipeline/CVPR2022_Jing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Maintaining Reasoning Consistency in Compositional Visual Question Answering](../paper/CVPR2022_Jing.pdf)
@@ -227,7 +227,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/pipeline/AAAI2022_Fan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Riemannian Meta-Optimization by Implicit Differentiation](../paper/AAAI2022_Fan.pdf)
@@ -239,7 +239,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/pipeline/AAAI2022_.Jing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing](../paper/AAAI2022_.Jing.pdf)
@@ -251,7 +251,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2022</div><img src='images/pipeline/PR2022_Dai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Infinite-dimensional feature aggregation via a factorized bilinear model](../paper/PR2022_Dai.pdf)
@@ -263,7 +263,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-MM 2021</div><img src='images/pipeline/TMM2021_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adversarial 3D Convolutional Auto-Encoder for Abnormal Event Detection in Videos](../paper/TMM2021_Sun.pdf)
@@ -275,7 +275,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/pipeline/ICCV2021_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Curvature Generation in Hyperbolic Spaces for Few-Shot Learning](../paper/ICCV2021_Gao.pdf)
@@ -286,7 +286,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (oral)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (oral)</div><img src='images/pipeline/CVPR2021_Dai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](../paper/CVPR2021_Dai.pdf)
@@ -297,7 +297,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/pipeline/CVPR2021_Yao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Decomposition Model for Stereo Matching](../paper/CVPR2021_Yao.pdf)
@@ -308,7 +308,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/pipeline/AAAI2021_Fan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning a Gradient-free Riemannian Optimizer on Tangent Spaces](../paper/AAAI2021_Fan.pdf)
@@ -320,7 +320,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/pipeline/ACM_MM2020_Sun.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scene-Aware Context Reasoning for Unsupervised Abnormal Event Detection in Videos](../paper/ACM_MM2020_Sun.pdf)
@@ -331,7 +331,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/pipeline/ACM_MM2020_Jing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Visual-Semantic Graph Matching for Visual Grounding](../paper/ACM_MM2020_Jing.pdf)
@@ -343,7 +343,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/pipeline/CVPR2020_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to Optimize on SPD Manifolds](../paper/CVPR2020_Gao.pdf)
@@ -354,7 +354,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/pipeline/AAAI2020_Gao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Revisiting Bilinear Pooling: A Coding Perspective](../paper/AAAI2020_Gao.pdf)
@@ -365,7 +365,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/pipeline/AAAI2020_Jing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcoming Language Priors in VQA via Decomposed Linguistic Representations](../paper/AAAI2020_Jing.pdf)
@@ -377,7 +377,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-NNLS 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-NNLS 2020</div><img src='images/pipeline/TNNLS2020.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Robust Metric for Similarity-based Classification on the SPD Manifold](../paper/TNNLS2020.pdf)
@@ -388,7 +388,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IFS 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IFS 2020</div><img src='images/pipeline/TIFS2020_Yao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Face Spoofing Detection Using Relativity Representation on Riemannian Manifold](../paper/TIFS2020_Yao.pdf)
