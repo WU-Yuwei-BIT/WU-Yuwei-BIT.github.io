@@ -399,10 +399,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-
-- <li><code class="language-plaintext highlighter-rouge">CVPR 2019</code> [3D Shape Reconstruction from Images in the Frequency Domain](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf)
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [3D Shape Reconstruction from Images in the Frequency Domain](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf), Weichao Shen, **Yuwei Wu**, and Yunde Jia, CVPR 2019 **(oral)**
 
 # Teaching
 
