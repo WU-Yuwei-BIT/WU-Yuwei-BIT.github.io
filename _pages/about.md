@@ -618,7 +618,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     <div class="team-member">
         <img src="../group/gaorui.jpg" alt="" class="team-member-photo">
         <div><strong>Rui GAO (高瑞)</strong></div>
-        <div>Master student of BIT & SMBU</div>
+        <div>Master student of BIT</div>
         <div>2023--</div>
     </div>
     
@@ -626,7 +626,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
      <div class="team-member">
         <img src="../group/fanyimeng.jpg" alt="" class="team-member-photo">
         <div><strong>Yimeng FAN (范忆萌)</strong></div>
-        <div>Master student of BIT & SMBU</div>
+        <div>Master student of BIT</div>
         <div>2023--</div>
     </div>
     
@@ -634,7 +634,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
      <div class="team-member">
         <img src="../group/zhanghanwen.jpg" alt="" class="team-member-photo">
         <div><strong>Hanwen ZHANG (张瀚文)</strong></div>
-        <div>Master student of BIT & SMBU</div>
+        <div>Master student of BIT</div>
         <div>2023--</div>
     </div>
 </div>
@@ -645,7 +645,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     <div class="team-member">
         <img src="../group/yewenbo.jpg" alt="" class="team-member-photo">
         <div><strong>Wenbo YE (叶文博)</strong></div>
-        <div>Master student of BIT & SMBU</div>
+        <div>Master student of BIT</div>
         <div>2023--</div>
     </div>
     
