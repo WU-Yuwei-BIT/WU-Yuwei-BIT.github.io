@@ -106,7 +106,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Sparse Point Guided 3D Lane Detection**
 
 - Chengtang Yao, Lidong Yu, Yunde Jia, and **Yuwei Wu**
-- ICCV 2023 [[PDF](../paper/ICCV2023_Yao.pdf)]
+- ICCV 2023 [[PDF](../paper/ICCV2023_Yao.pdf)] [[Project](https://github.com/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection)]
 
 </div>
 </div>
@@ -115,10 +115,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/pipeline/IJCAI2023_Zhai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding](../paper/IJCAI2023_Zhai.pdf)
+**An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding**
 
 - Mingliang Zhai, Yulin Li, Xiameng Qin, Chen Yi, Qunyi Xie, Chengquan Zhang, Kun Yao, **Yuwei Wu**, and Yunde Jia
-- The 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.
+- IJCAI 2023 [[PDF](../paper/IJCAI2023_Zhai.pdf)]
 
 </div>
 </div>
