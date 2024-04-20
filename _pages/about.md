@@ -411,7 +411,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 - **Temporal Action Localization in Untrimmed Videos using Action Pattern Trees**, Hao Song, Xinxiao Wu, Bing Zhu, **Yuwei Wu**, Mei Chen, and Yunde Jia, T-MM 2019 [[PDF](../paper/TMM2019_Temporal_Action_Localization.pdf)]
 
-- **Person-following for Telepresence Robots Using Web Cameras**, Xianda Cheng, Yunde Jia, Jingyu Su, and **Yuwei Wu**, Proc. IROS 2019 [[PDF](../paper/IROS2019.pdf)]
+- **Person-following for Telepresence Robots Using Web Cameras**, Xianda Cheng, Yunde Jia, Jingyu Su, and **Yuwei Wu**, IROS 2019 [[PDF](../paper/IROS2019.pdf)]
 
 - **Minimizing Reconstruction Bias Hashing via Joint Projection and Quantization**, Ling-Yu Duan, **Yuwei Wu**, Yicheng Huang, Zhe Wang, Junsong Yuan, and Wen Gao, T-IP 2018 [[PDF](../paper/TIP2018_Minimizing_Reconstruction_Bias_Hashing.pdf)]
 
@@ -423,7 +423,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 - **HOPE: Hierarchical Object Prototype Encoding for Efficient Object Instance Search in Videos**, Tan Yu, **Yuwei Wu**, Junsong Yuan, CVPR 2017 [[PDF](../paper/CVPR2017_HOPE_Hierarchical_Object_Prototype_Encoding_.pdf)]
 
-- **Efficient Object Instance Search Using Fuzzy Objects Matching**, Tan Yu, **Yuwei Wu**, Sreyasee Das Bhattacharjee, Junsong Yuan, AAAI 2017 [[PDF](cse.buffalo.edu/~jsyuan/papers/2017/Efficient%20Object%20Instance%20Search%20Using%20Fuzzy%20Objects%20Matching.pdf)]
+- **Efficient Object Instance Search Using Fuzzy Objects Matching**, Tan Yu, **Yuwei Wu**, Sreyasee Das Bhattacharjee, Junsong Yuan, AAAI 2017 [[PDF](https://cse.buffalo.edu/~jsyuan/papers/2017/Efficient%20Object%20Instance%20Search%20Using%20Fuzzy%20Objects%20Matching.pdf)]
 
 - **Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition**, Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, **Yuwei Wu**, AAAI 2017 [[PDF](../paper/AAAI2017_Deep_Manifold_Learning_of_Symmetric_Positive_Definite_Matrices.pdf)]
 
