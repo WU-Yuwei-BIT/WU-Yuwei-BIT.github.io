@@ -94,8 +94,8 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 150px;
+            max-width: 30%;
             order: 1;
         }
         
