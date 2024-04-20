@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Biography
-Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of Technology (BIT), Beijing, China, in 2014, under the supervision of Prof Yunde JIA. He is now a Tenured Associate Professor at School of Computer Science, BIT. From August 2014 to August 2016, he was a post-doctoral research fellow at Rapid-Rich Object Search (ROSE) Lab, School of Electrical & Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, under the supervision of Prof TAN Yap Peng and Prof Junsong Yuan. He received outstanding Ph.D. Thesis award from BIT, and Distinguished Dissertation Award Nominee from China Association for Artificial Intelligence (CAAI). 
+Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of Technology (BIT), Beijing, China, in 2014, under the supervision of Prof Yunde JIA. He is now a Tenured Associate Professor at School of Computer Science, BIT. From August 2014 to August 2016, he was a post-doctoral research fellow at Rapid-Rich Object Search (ROSE) Lab, School of Electrical \& Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, under the supervision of Prof TAN Yap Peng and Prof Junsong Yuan. He received outstanding Ph.D. Thesis award from BIT, and Distinguished Dissertation Award Nominee from China Association for Artificial Intelligence (CAAI). 
 
 # Research Interests
 **Computer Vision**: 3D Vision, Vision Language Processing, etc.
