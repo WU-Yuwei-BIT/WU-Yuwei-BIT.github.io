@@ -399,7 +399,11 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-- [3D Shape Reconstruction from Images in the Frequency Domain](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf), Weichao Shen, **Yuwei Wu**, and Yunde Jia, CVPR 2019 **(oral)**
+- [3D Shape Reconstruction from Images in the Frequency Domain](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf), Weichao Shen, **Yuwei Wu**, and Yunde Jia, CVPR 2019 **(oral)**.
+- [Robust Distracter-Resistive Tracker via Learning A Multi-component Discriminative Dictionary](../paper/TCSVT2019_Shen.pdf), Weichao Shen, **Yuwei Wu**, Junsong Yuan, Ling-Yu Duan, Jian Zhang, and Yunde  Jia, T-CSVT 2019.
+- [Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification](../paper/PR2019_Xingyuan.pdf), Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia, PR 2019.
+- [Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds](../paper/PR2019_Gaozhi.pdf), Zhi Gao, **Yuwei Wu**, Xingyuan Bu, Tan Yu, Junsong Yuan, and Yunde Jia, PR 2019.
+- 
 
 # Teaching
 
