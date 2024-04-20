@@ -254,7 +254,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Non-approximate Infinite-dimensional Feature Aggregation via a Factorized Bilinear Model](../paper/PR2022_Dai.pdf)
+[Infinite-dimensional feature aggregation via a factorized bilinear model](../paper/PR2022_Dai.pdf)
 
 - Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
 - Pattern Recognition (PR), 2022.
