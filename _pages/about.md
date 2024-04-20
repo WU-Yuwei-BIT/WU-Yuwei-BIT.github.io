@@ -91,10 +91,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Zeng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Parameterized Cost Volume for Stereo Matching](../paper/ICCV2023_Zeng.pdf)
+**Parameterized Cost Volume for Stereo Matching**
 
 - Jiaxi Zeng, Chengtang Yao, Lidong Yu, Yunde Jia, and **Yuwei Wu**
-- IEEE Conference on Computer Vision (ICCV), 2023.
+- ICCV 2023 [[pdf](../paper/ICCV2023_Zeng.pdf)] [[project](https://github.com/jiaxiZeng/Parameterized-Cost-Volume-for-Stereo-Matching)]
 
 </div>
 </div>
