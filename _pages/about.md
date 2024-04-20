@@ -676,15 +676,15 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 <br>
 
-**Dr.Zhi Gao** (Ph.D. student of BIT,2023) 
-
-now: Postdoc Research Fellow, Peking University, Beijing, China
+<center><strong>Dr.Zhi GAO</strong> (高志)</center> 
+<center>Ph.D. student of BIT,2023</center>
+<center>now: Postdoc Research Fellow, Peking University, Beijing, China</center>
 
 <br>
 
-**Dr.Che Sun** (Ph.D. student of BIT,2023; co-supervise with Prof. Yunde Jia) 
-
-now: Postdoc Research Fellow, Tsinghua University, Beijing, China
+<center><strong>Dr.Che Sun</strong> (孙澈)</center>
+<center>Ph.D. student of BIT,2023 (co-supervise with Prof. Yunde Jia)</center> 
+<center>now: Postdoc Research Fellow, Tsinghua University, Beijing, China </center> 
 
 <br>
 
