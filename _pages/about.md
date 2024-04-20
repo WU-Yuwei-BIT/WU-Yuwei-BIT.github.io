@@ -157,7 +157,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/pipeline/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/pipeline/TPAMI2023_Gao_Curvature-Adaptive_Meta-Learning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Curvature-Adaptive Meta-Learning for Fast Adaptation to Non-Euclidean Data](../paper/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.pdf)
@@ -169,7 +169,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/pipeline/TPAMI2023_Gao_Learning_to_Optimize.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2023</div><img src='images/pipeline/TPAMI2013_Gao_Learning_to_Optimize.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to Optimize on Riemannian Manifolds](../paper/TPAMI2023_Gao_Learning_to_Optimize.pdf)
