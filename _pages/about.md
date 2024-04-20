@@ -199,7 +199,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 [Evidential Reasoning for Video Anomaly Detection](../paper/ACM_MM2022_Sun.pdf)
 
 - Che Sun, Yunde Jia, and **Yuwei Wu**
-- The 30st ACM International Conference on Multimedia (ACM MM), 2022.
+- The 30th ACM International Conference on Multimedia (ACM MM), 2022.
 
 </div>
 </div>
@@ -324,7 +324,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Decomposition Model for Stereo Matching](../paper/AAAI2021_Fan.pdf)
+[Learning a Gradient-free Riemannian Optimizer on Tangent Spaces](../paper/AAAI2021_Fan.pdf)
 
 - Xiaomeng Fan, Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
 - The 35th Annual AAAI Conference on Artificial Intelligence (AAAI), 2021.
@@ -333,6 +333,27 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scene-Aware Context Reasoning for Unsupervised Abnormal Event Detection in Videos](../paper/ACM_MM2020_Sun.pdf)
+
+- Che Sun, Yunde Jia, Yao Hu, and **Yuwei Wu**
+- The 28th ACM International Conference on Multimedia (ACM MM), 2020.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visual-Semantic Graph Matching for Visual Grounding](../paper/ACM_MM2020_Jing.pdf)
+
+- Chenchen Jing, **Yuwei Wu**, Yao Hu, Yunde Jia, and Qi Wu,
+- The 28th ACM International Conference on Multimedia (ACM MM), 2020.
+
+</div>
+</div>
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
