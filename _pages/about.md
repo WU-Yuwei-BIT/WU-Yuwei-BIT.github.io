@@ -349,11 +349,69 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 [Visual-Semantic Graph Matching for Visual Grounding](../paper/ACM_MM2020_Jing.pdf)
 
-- Chenchen Jing, **Yuwei Wu**, Yao Hu, Yunde Jia, and Qi Wu,
+- Chenchen Jing, **Yuwei Wu**, Yao Hu, Yunde Jia, and Qi Wu
 - The 28th ACM International Conference on Multimedia (ACM MM), 2020.
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to Optimize on SPD Manifolds](../paper/CVPR2020_Gao.pdf)
+
+- Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Revisiting Bilinear Pooling: A Coding Perspective](../paper/AAAI2020_Gao.pdf)
+
+- Zhi Gao, **Yuwei Wu**, XiaoxunZhang, Jindou Dai,Yunde Jia, and Mehrtash Harandi
+- The 34th Annual AAAI Conference on Artificial Intelligence (AAAI), 2020.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Overcoming Language Priors in VQA via Decomposed Linguistic Representations](../paper/AAAI2020_Jing.pdf)
+
+- Chenchen Jing, **Yuwei Wu**, XiaoxunZhang, Yunde Jia, and Qi Wu
+- The 34th Annual AAAI Conference on Artificial Intelligence (AAAI), 2020.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-NNLS 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Robust Metric for Similarity-based Classification on the SPD Manifold](../paper/TNNLS2020.pdf)
+
+- Zhi Gao, **Yuwei Wu**, Mehrtash Harandi, and Yunde Jia
+- IEEE Trans. on Neural Networks and Learning Systems (T-NNLS), 2020.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IFS 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Face Spoofing Detection Using Relativity Representation on Riemannian Manifold](../paper/TIFS2020_Yao.pdf)
+
+- Chengtang Yao, Yunde Jia, Huijun Di, and **Yuwei Wu**
+- IEEE Trans. on Information Forensics and Security (T-IFS), 2020.
+
+</div>
+</div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
