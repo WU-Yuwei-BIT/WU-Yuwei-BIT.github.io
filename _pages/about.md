@@ -702,7 +702,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 <br>
 
-<center><strong>Wei JIANG</strong></center>
+<center><strong>Wei JIANG (姜玮)</strong></center>
 <center>Master student of BIT, 2020</center>
 <center>now: Alibaba, Beijing, China</center>
 
