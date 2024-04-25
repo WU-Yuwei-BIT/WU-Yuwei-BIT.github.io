@@ -575,6 +575,93 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2017</div><img src='images/pipeline/CVPR2017_HOPE_Hierarchical_Object_Prototype_Encoding_.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HOPE: Hierarchical Object Prototype Encoding for Efficient Object Instance Search in Videos**
+
+- Tan Yu, **Yuwei Wu**, Junsong Yuan
+- CVPR 2017 [[PDF](../paper/CVPR2017_HOPE_Hierarchical_Object_Prototype_Encoding_.pdf)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2017</div><img src='images/pipeline/AAAI2017_Efficient_Object_Instance_Search_Using_Fuzzy_Objects_Matching.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Efficient Object Instance Search Using Fuzzy Objects Matching**
+
+- Tan Yu, **Yuwei Wu**, Sreyasee Das Bhattacharjee, Junsong Yuan
+- AAAI 2017 [[PDF](https://cse.buffalo.edu/~jsyuan/papers/2017/Efficient%20Object%20Instance%20Search%20Using%20Fuzzy%20Objects%20Matching.pdf)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2017</div><img src='images/pipeline/AAAI2017_Deep_Manifold_Learning_of_Symmetric_Positive_Definite_Matrices.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition**
+
+- Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, **Yuwei Wu**
+- AAAI 2017 [[PDF](../paper/AAAI2017_Deep_Manifold_Learning_of_Symmetric_Positive_Definite_Matrices.pdf)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2016</div><img src='images/pipeline/TCSVT2016_Online_Discriminative_Tracking_with_Active_Example_Selection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Online Discriminative Tracking with Active Example Selection**
+
+- Min Yang, **Yuwei Wu**, Mingtao Pei, Bo Ma, and Yunde Jia
+- T-CSVT 2016 [[PDF](https://drive.google.com/file/d/1H1TPSrGWo-mOXqj9CwPZLvHCrd7O7_nd/view)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IP 2015</div><img src='images/pipeline/TIP2015_Robust_Discriminative_Tracking_via_Landmark-based_Label_Propagation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust Discriminative Tracking via Landmark-based Label Propagation**
+
+- **Yuwei Wu**, Mingtao Pei, Min Yang, Junsong Yuan, and Yunde Jia
+- T-IP 2015 [[PDF](../paper/TIP2015_Robust_Discriminative_Tracking_via_Landmark-based_Label_Propagation.pdf)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IP 2015</div><img src='images/pipeline/TIP2015_Manifold_Kernel_Sparse_Representation_of_Symmetric_Positive-Definite_Matrices_and_Its_Applications.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Manifold kernel Sparse Representation of Symmetric Positive Definite Matrices and Its Applications**
+
+- **Yuwei Wu**, Yunde Jia, Peihua Li, Jian Zhang, and Junsong Yuan
+- T-IP 2015 [[PDF](../paper/TIP2015_Manifold_Kernel_Sparse_Representation_of_Symmetric_Positive-Definite_Matrices_and_Its_Applications.pdf)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2015</div><img src='images/pipeline/TITS2015_Vehicle_Type_Classification_Using_a_Semisupervised.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Vehicle Type Classification Using Semi-Supervised Convolutional Neural Network**
+
+- Zhen Dong, **Yuwei Wu**, Mingtao Pei, and Yunde Jia
+- T-ITS 2015 [[PDF](../paper/TITS2015_Vehicle_Type_Classification_Using_a_Semisupervised.pdf)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2014</div><img src='images/pipeline/TCSVT2014_Metric_learning_based_Structural_Appearance_Model_for_Robust_Visual_Tracking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Metric learning based Structural Appearance Model for Robust Visual Tracking**
+
+- **Yuwei Wu**, Bo Ma, Min Yang, Yunde Jia, and Jian Zhang
+- T-CSVT 2014 [[PDF](https://drive.google.com/file/d/1Sgnz99TFyvrDeOyYN5FISIiMNngNlTBr/view)]
+
+</div>
+</div>
 
  
 
