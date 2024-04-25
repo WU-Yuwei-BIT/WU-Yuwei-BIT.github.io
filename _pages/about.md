@@ -435,7 +435,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification**
   
   - Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia
-  - PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)] [[Project](https://github.com/zhigao2017/Kernel-SPD-Pooling)]
+  - PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)] 
 
   </div>
 </div>
@@ -452,7 +452,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds**
   
   - Zhi Gao, **Yuwei Wu**, Xingyuan Bu, Tan Yu, Junsong Yuan, and Yunde Jia
-  - PR 2019 [[PDF](../paper/PR2019_Gaozhi.pdf)]
+  - PR 2019 [[PDF](../paper/PR2019_Gaozhi.pdf)] [[Project](https://github.com/zhigao2017/Kernel-SPD-Pooling)]
 
   </div>
 </div>
