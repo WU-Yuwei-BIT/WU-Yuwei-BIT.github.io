@@ -286,7 +286,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (oral)</div><img src='images/pipeline/CVPR2021_Dai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (Oral)</div><img src='images/pipeline/CVPR2021_Dai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Hyperbolic-to-Hyperbolic Graph Convolutional Network**
@@ -399,9 +399,184 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-- **3D Shape Reconstruction from Images in the Frequency Domain**, Weichao Shen, **Yuwei Wu**, and Yunde Jia, CVPR 2019 **(oral)** [[PDF](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf)]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/pipeline/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **Robust Distracter-Resistive Tracker via Learning A Multi-component Discriminative Dictionary**, Weichao Shen, **Yuwei Wu**, Junsong Yuan, Ling-Yu Duan, Jian Zhang, and Yunde  Jia, T-CSVT 2019 [[PDF](../paper/TCSVT2019_Shen.pdf)]
+**3D Shape Reconstruction from Images in the Frequency Domain**
+
+- Weichao Shen, **Yuwei Wu**, and Yunde Jia
+- CVPR 2019 **(Oral)** [[PDF](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2019</div><img src='images/pipeline/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust Distracter-Resistive Tracker via Learning A Multi-component Discriminative Dictionary**
+
+- Weichao Shen, **Yuwei Wu**, Junsong Yuan, Ling-Yu Duan, Jian Zhang, and Yunde  Jia
+- T-CSVT 2019 [[PDF](../paper/TCSVT2019_Shen.pdf)]
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">PR 2019</div>
+      <img src='images/pipeline/PR2019_Xingyuan.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification**
+  
+  - Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia
+  - PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)] [[Project](https://github.com/zhigao2017/Kernel-SPD-Pooling)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">PR 2019</div>
+      <img src='images/pipeline/PR2019_Gaozhi.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds**
+  
+  - Zhi Gao, **Yuwei Wu**, Xingyuan Bu, Tan Yu, Junsong Yuan, and Yunde Jia
+  - PR 2019 [[PDF](../paper/PR2019_Gaozhi.pdf)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">T-MM 2019</div>
+      <img src='images/pipeline/TMM2019_Codebook-free_Compact_Descriptor_for_Scalable_Visual_Search.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **A Codebook-free Compact Descriptor via Dual Selection for Visual Search**
+  
+  - **Yuwei Wu**, Feng Gao, Yicheng Huang, Jie Lin, Vijay Chandrasekhar, Junsong Yuan, and Ling-Yu Duan
+  - T-MM 2019 [[PDF](../paper/TMM2019_Codebook-free_Compact_Descriptor_for_Scalable_Visual_Search.pdf)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">T-MM 2019</div>
+      <img src='images/pipeline/TMM2019_Temporal_Action_Localization.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Temporal Action Localization in Untrimmed Videos using Action Pattern Trees**
+  
+  - Hao Song, Xinxiao Wu, Bing Zhu, **Yuwei Wu**, Mei Chen, and Yunde Jia
+  - T-MM 2019 [[PDF](../paper/TMM2019_Temporal_Action_Localization.pdf)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IROS 2019</div>
+      <img src='images/pipeline/IROS2019.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Person-following for Telepresence Robots Using Web Cameras**
+  
+  - Xianda Cheng, Yunde Jia, Jingyu Su, and **Yuwei Wu**
+  - IROS 2019 [[PDF](../paper/IROS2019.pdf)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">T-IP 2018</div>
+      <img src='images/pipeline/TIP2018_Minimizing_Reconstruction_Bias_Hashing.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Minimizing Reconstruction Bias Hashing via Joint Projection and Quantization**
+  
+  - Ling-Yu Duan, **Yuwei Wu**, Yicheng Huang, Zhe Wang, Junsong Yuan, and Wen Gao
+  - T-IP 2018 [[PDF](../paper/TIP2018_Minimizing_Reconstruction_Bias_Hashing.pdf)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">T-MM 2018</div>
+      <img src='images/pipeline/TMM2018_Group-Sensitive_Triplet_Embedding.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Group Sensitive Triplet Embedding for Vehicle Re-identification**
+  
+  - Yan Bai, Yihang Lou, Feng Gao, Shiqi Wang, **Yuwei Wu**, and Ling-Yu Duan
+  - T-MM 2018 [[PDF](../paper/TMM2018_Group-Sensitive_Triplet_Embedding.pdf)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2018</div>
+      <img src='images/pipeline/AAAI2018_Deep_Stereo_Matching_with_Explicit.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Deep Stereo Matching with Explicit Cost Aggregation Sub-Architecture**
+  
+  - Lidong Yu, Yucheng Wang, **Yuwei Wu**, and Yunde Jia
+  - AAAI 2018 [[PDF](../paper/AAAI2018_Deep_Stereo_Matching_with_Explicit.pdf)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">T-IP 2017</div>
+      <img src='images/pipeline/TIP2017_A_Hybrid_Data_Association_Framework.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **A Hybrid Data Association Framework for Robust Online Multi-Object Tracking**
+  
+  - Min Yang, **Yuwei Wu**, and Yunde Jia
+  - T-IP 2017 [[PDF](../paper/TIP2017_A_Hybrid_Data_Association_Framework.pdf)]
+
+  </div>
+</div>
+
+
+ 
 
 - **Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification**, Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia, PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)] [[Project](https://github.com/zhigao2017/Kernel-SPD-Pooling)]
 
