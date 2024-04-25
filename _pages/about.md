@@ -402,6 +402,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/pipeline/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 **3D Shape Reconstruction from Images in the Frequency Domain**
 
 - Weichao Shen, **Yuwei Wu**, and Yunde Jia
@@ -410,7 +411,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2019</div><img src='images/pipeline/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2019</div><img src='images/pipeline/TCSVT2019_Shen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Distracter-Resistive Tracker via Learning A Multi-component Discriminative Dictionary**
@@ -575,7 +576,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2017</div><img src='images/pipeline/CVPR2017_HOPE_Hierarchical_Object_Prototype_Encoding_.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2017</div><img src='images/pipeline/CVPR2017_HOPE_Hierarchical_Object_Prototype_Encoding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HOPE: Hierarchical Object Prototype Encoding for Efficient Object Instance Search in Videos**
