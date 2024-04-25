@@ -666,39 +666,6 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
  
 
-- **Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification**, Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia, PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)] [[Project](https://github.com/zhigao2017/Kernel-SPD-Pooling)]
-
-- **Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds**, Zhi Gao, **Yuwei Wu**, Xingyuan Bu, Tan Yu, Junsong Yuan, and Yunde Jia, PR 2019 [[PDF](../paper/PR2019_Gaozhi.pdf)]
-
-- **A Codebook-free Compact Descriptor via Dual Selection for Visual Search**, **Yuwei Wu**, Feng Gao, Yicheng Huang, Jie Lin, Vijay Chandrasekhar, Junsong Yuan, and Ling-Yu Duan, T-MM 2019 [[PDF](../paper/TMM2019_Codebook-free_Compact_Descriptor_for_Scalable_Visual_Search.pdf)]
-
-- **Temporal Action Localization in Untrimmed Videos using Action Pattern Trees**, Hao Song, Xinxiao Wu, Bing Zhu, **Yuwei Wu**, Mei Chen, and Yunde Jia, T-MM 2019 [[PDF](../paper/TMM2019_Temporal_Action_Localization.pdf)]
-
-- **Person-following for Telepresence Robots Using Web Cameras**, Xianda Cheng, Yunde Jia, Jingyu Su, and **Yuwei Wu**, IROS 2019 [[PDF](../paper/IROS2019.pdf)]
-
-- **Minimizing Reconstruction Bias Hashing via Joint Projection and Quantization**, Ling-Yu Duan, **Yuwei Wu**, Yicheng Huang, Zhe Wang, Junsong Yuan, and Wen Gao, T-IP 2018 [[PDF](../paper/TIP2018_Minimizing_Reconstruction_Bias_Hashing.pdf)]
-
-- **Group Sensitive Triplet Embedding for Vehicle Re-identification**, Yan Bai, Yihang Lou, Feng Gao, Shiqi Wang, **Yuwei Wu**, and Ling-Yu Duan, T-MM 2018 [[PDF](../paper/TMM2018_Group-Sensitive_Triplet_Embedding.pdf)]
-
-- **Deep Stereo Matching with Explicit Cost Aggregation Sub-Architecture**, Lidong Yu, Yucheng Wang, **Yuwei Wu**, and Yunde Jia, AAAI 2018 [[PDF](../paper/AAAI2018_Deep_Stereo_Matching_with_Explicit.pdf)]
-
-- **A Hybrid Data Association Framework for Robust Online Multi-Object Tracking**, Min Yang, **Yuwei Wu**, and Yunde Jia, T-IP 2017 [[PDF](../paper/TIP2017_A_Hybrid_Data_Association_Framework.pdf)]
-
-- **HOPE: Hierarchical Object Prototype Encoding for Efficient Object Instance Search in Videos**, Tan Yu, **Yuwei Wu**, Junsong Yuan, CVPR 2017 [[PDF](../paper/CVPR2017_HOPE_Hierarchical_Object_Prototype_Encoding_.pdf)]
-
-- **Efficient Object Instance Search Using Fuzzy Objects Matching**, Tan Yu, **Yuwei Wu**, Sreyasee Das Bhattacharjee, Junsong Yuan, AAAI 2017 [[PDF](https://cse.buffalo.edu/~jsyuan/papers/2017/Efficient%20Object%20Instance%20Search%20Using%20Fuzzy%20Objects%20Matching.pdf)]
-
-- **Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition**, Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, **Yuwei Wu**, AAAI 2017 [[PDF](../paper/AAAI2017_Deep_Manifold_Learning_of_Symmetric_Positive_Definite_Matrices.pdf)]
-
-- **Online Discriminative Tracking with Active Example Selection**, Min Yang, **Yuwei Wu**, Mingtao Pei, Bo Ma, and Yunde Jia, T-CSVT 2016 [[PDF](https://drive.google.com/file/d/1H1TPSrGWo-mOXqj9CwPZLvHCrd7O7_nd/view)]
-
-- **Robust Discriminative Tracking via Landmark-based Label Propagation**, **Yuwei Wu**, Mingtao Pei, Min Yang, Junsong Yuan, and Yunde Jia, T-IP 2015 [[PDF](../paper/TIP2015_Robust_Discriminative_Tracking_via_Landmark-based_Label_Propagation.pdf)]
-
-- **Manifold kernel Sparse Representation of Symmetric Positive Definite Matrices and Its Applications**, **Yuwei Wu**, Yunde Jia, Peihua Li, Jian Zhang, and Junsong Yuan, T-IP 2015 [[PDF](../paper/TIP2015_Manifold_Kernel_Sparse_Representation_of_Symmetric_Positive-Definite_Matrices_and_Its_Applications.pdf)]
-
-- **Vehicle Type Classification Using Semi-Supervised Convolutional Neural Network**, Zhen Dong, **Yuwei Wu**, Mingtao Pei, and Yunde Jia, T-ITS 2015 [[PDF](../paper/TITS2015_Vehicle_Type_Classification_Using_a_Semisupervised.pdf)]
-
-- **Metric learning based Structural Appearance Model for Robust Visual Tracking**, **Yuwei Wu**, Bo Ma, Min Yang, Yunde Jia, and Jian Zhang, T-CSVT 2014 [[PDF](https://drive.google.com/file/d/1Sgnz99TFyvrDeOyYN5FISIiMNngNlTBr/view)]
 
 # Teaching
 
