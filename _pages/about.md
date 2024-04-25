@@ -587,7 +587,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2017</div><img src='images/pipeline/AAAI2017_Efficient_Object_Instance_Search_Using_Fuzzy_Objects_Matching.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2017</div><img src='images/pipeline/AAAI2017_Efficient.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Efficient Object Instance Search Using Fuzzy Objects Matching**
@@ -609,7 +609,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2016</div><img src='images/pipeline/TCSVT2016_Online_Discriminative_Tracking_with_Active_Example_Selection.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2016</div><img src='images/pipeline/TCSVT2016_Online_Discriminative_Tracking_With_active_example_selection.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Online Discriminative Tracking with Active Example Selection**
@@ -653,7 +653,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2014</div><img src='images/pipeline/TCSVT2014_Metric_learning_based_Structural_Appearance_Model_for_Robust_Visual_Tracking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2014</div><img src='images/pipeline/TCSVT2014_Metric_Learning_based_Structural_Appearance_model_for_robust_visual_tracking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Metric learning based Structural Appearance Model for Robust Visual Tracking**
