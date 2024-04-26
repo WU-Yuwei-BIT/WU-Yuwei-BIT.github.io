@@ -68,38 +68,32 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/pipeline/AAAI2024_Xue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Residual Hyperbolic Graph Convolution Networks**
-
 - Yangkai Xue, Jindou Dai, Zhipeng Lu, **Yuwei Wu**, and Yunde Jia
-- AAAI 2024 [[PDF](../paper/AAAI2024_Xue.pdf)]
-
+- AAAI 2024 
+  
+  [[PDF](../paper/AAAI2024_Xue.pdf)]
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Chenrui.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks**
-
 - Chenrui Shi, Che Sun, Yunde Jia, and **Yuwei Wu**
-- ICCV 2023 [[PDF](../paper/ICCV2023_Chenrui.pdf)]
-
+- ICCV 2023 
+  
+  [[PDF](../paper/ICCV2023_Chenrui.pdf)]
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Zeng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 **Parameterized Cost Volume for Stereo Matching**
-
 - Jiaxi Zeng, Chengtang Yao, Lidong Yu, Yunde Jia, and **Yuwei Wu**
-- ICCV 2023 [[PDF](../paper/ICCV2023_Zeng.pdf)] [[Project](https://github.com/jiaxiZeng/Parameterized-Cost-Volume-for-Stereo-Matching)]
+- ICCV 2023
 
+  [[PDF](../paper/ICCV2023_Zeng.pdf)] [[Project](https://github.com/jiaxiZeng/Parameterized-Cost-Volume-for-Stereo-Matching)]
 </div>
 </div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Yao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
