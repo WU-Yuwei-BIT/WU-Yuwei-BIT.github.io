@@ -68,6 +68,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/pipeline/AAAI2024_Xue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 **Residual Hyperbolic Graph Convolution Networks**
 - Yangkai Xue, Jindou Dai, Zhipeng Lu, **Yuwei Wu**, and Yunde Jia
 - AAAI 2024 
@@ -75,15 +76,18 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   [[PDF](../paper/AAAI2024_Xue.pdf)]
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Chenrui.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks**
+
+  **Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks**
 - Chenrui Shi, Che Sun, Yunde Jia, and **Yuwei Wu**
 - ICCV 2023 
   
   [[PDF](../paper/ICCV2023_Chenrui.pdf)]
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Zeng.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -94,17 +98,18 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   [[PDF](../paper/ICCV2023_Zeng.pdf)] [[Project](https://github.com/jiaxiZeng/Parameterized-Cost-Volume-for-Stereo-Matching)]
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/pipeline/ICCV2023_Yao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Sparse Point Guided 3D Lane Detection**
 
 - Chengtang Yao, Lidong Yu, Yunde Jia, and **Yuwei Wu**
-- ICCV 2023 [[PDF](../paper/ICCV2023_Yao.pdf)] [[Project](https://github.com/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection)]
+- ICCV 2023
 
+  [[PDF](../paper/ICCV2023_Yao.pdf)] [[Project](https://github.com/YaoChengTang/Sparse-Point-Guided-3D-Lane-Detection)]
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/pipeline/IJCAI2023_Zhai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,7 +117,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding**
 
 - Mingliang Zhai, Yulin Li, Xiameng Qin, Chen Yi, Qunyi Xie, Chengquan Zhang, Kun Yao, **Yuwei Wu**, and Yunde Jia
-- IJCAI 2023 [[PDF](../paper/IJCAI2023_Zhai.pdf)]
+- IJCAI 2023
+
+  [[PDF](../paper/IJCAI2023_Zhai.pdf)]
 
 </div>
 </div>
@@ -123,7 +130,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language**
 
 - Chuanhao Li, Zhen Li, Chenchen Jing, Yunde Jia, and **Yuwei Wu**
-- CVPR 2023 [[PDF](../paper/CVPR2023_Chuanhao.pdf)]
+- CVPR 2023
+
+  [[PDF](../paper/CVPR2023_Chuanhao.pdf)]
 
 </div>
 </div>
@@ -134,7 +143,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Exploring Data Geometry for Continual Learning**
 
 - Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, and **Yuwei Wu**
-- CVPR 2023 [[PDF](../paper/CVPR2023_Gao.pdf)]
+- CVPR 2023
+  
+  [[PDF](../paper/CVPR2023_Gao.pdf)]
 
 </div>
 </div>
@@ -145,7 +156,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Learning Event-Relevant Factors for Video Anomaly Detection**
 
 - Che Sun, Chenrui Shi, Yunde Jia, and **Yuwei Wu**
-- AAAI 2023 [[PDF](../paper/AAAI2023_Sun.pdf)]
+- AAAI 2023
+  
+  [[PDF](../paper/AAAI2023_Sun.pdf)]
 
 </div>
 </div>
@@ -157,7 +170,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Curvature-Adaptive Meta-Learning for Fast Adaptation to Non-Euclidean Data**
 
 - Zhi Gao, **Yuwei Wu**, Mehrtash Harandi, and Yunde Jia
-- T-PAMI 2023 [[PDF](../paper/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.pdf)]
+- T-PAMI 2023
+
+  [[PDF](../paper/TPAMI2023_Gao_Curvature-Adaptive-Meta-Learning.pdf)]
 
 </div>
 </div>
@@ -169,7 +184,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Learning to Optimize on Riemannian Manifolds**
 
 - Zhi Gao, **Yuwei Wu**, Xiaomeng Fan, Mehrtash Harandi, and Yunde Jia
-- T-PAMI 2023 [[PDF](../paper/TPAMI2023_Gao_Learning_to_Optimize.pdf)] [[Project](https://github.com/zhigao2017/learningriemannianoptimization)]
+- T-PAMI 2023
+
+  [[PDF](../paper/TPAMI2023_Gao_Learning_to_Optimize.pdf)] [[Project](https://github.com/zhigao2017/learningriemannianoptimization)]
 
 </div>
 </div>
@@ -181,7 +198,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds**
 
 - Zhi Gao, **Yuwei Wu**,Yunde Jia, and Mehrtash Harandi
-- NeurIPS 2022 [[PDF](../paper/NeuRIPS2022_Gao.pdf)] [[Project](https://github.com/zhigao2017/Hyperbolic_Feature_Augmentation)]
+- NeurIPS 2022
+
+  [[PDF](../paper/NeuRIPS2022_Gao.pdf)] [[Project](https://github.com/zhigao2017/Hyperbolic_Feature_Augmentation)]
 
 </div>
 </div>
@@ -193,7 +212,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Evidential Reasoning for Video Anomaly Detection**
 
 - Che Sun, Yunde Jia, and **Yuwei Wu**
-- ACM MM 2022 [[PDF](../paper/ACM_MM2022_Sun.pdf)]
+- ACM MM 2022
+
+  [[PDF](../paper/ACM_MM2022_Sun.pdf)]
 
 </div>
 </div>
@@ -204,7 +225,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Global-Aware Registration of Less-Overlap RGB-D Scans**
 
 - Che Sun, Yunde Jia, Yi Guo, and **Yuwei Wu**
-- CVPR 2022 [[PDF](../paper/CVPR2022_Sun.pdf)]
+- CVPR 2022
+
+  [[PDF](../paper/CVPR2022_Sun.pdf)]
 
 </div>
 </div>
@@ -215,7 +238,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Maintaining Reasoning Consistency in Compositional Visual Question Answering**
 
 - Chenchen Jing, Yunde Jia, **Yuwei Wu**, Xinyu Liu, and Qi Wu
-- CVPR 2022 [[PDF](../paper/CVPR2022_Jing.pdf)] [[Project](https://github.com/jingchenchen/ReasoningConsistency-VQA)]
+- CVPR 2022
+
+  [[PDF](../paper/CVPR2022_Jing.pdf)] [[Project](https://github.com/jingchenchen/ReasoningConsistency-VQA)]
 
 </div>
 </div>
@@ -227,7 +252,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Efficient Riemannian Meta-Optimization by Implicit Differentiation**
 
 - Xiaomeng Fan, **Yuwei Wu**, Zhi Gao, Yunde Jia, and Mehrtash Harandi
--  AAAI 2022 [[PDF](../paper/AAAI2022_Fan.pdf)] [[Project](https://github.com/XiaomengFanmcislab/I-RMM)]
+- AAAI 2022
+
+  [[PDF](../paper/AAAI2022_Fan.pdf)] [[Project](https://github.com/XiaomengFanmcislab/I-RMM)]
 
 </div>
 </div>
@@ -239,7 +266,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing**
 
 - Chenchen Jing, Yunde Jia, **Yuwei Wu**, Chuanhao Li, and Qi Wu
-- AAAI 2022 [[PDF](../paper/AAAI2022_.Jing.pdf)]
+- AAAI 2022
+
+  [[PDF](../paper/AAAI2022_.Jing.pdf)]
 
 </div>
 </div>
@@ -251,7 +280,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Infinite-dimensional feature aggregation via a factorized bilinear model**
 
 - Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
-- PR 2022 [[PDF](../paper/PR2022_Dai.pdf)] 
+- PR 2022
+
+  [[PDF](../paper/PR2022_Dai.pdf)] 
 
 </div>
 </div>
@@ -263,7 +294,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Adversarial 3D Convolutional Auto-Encoder for Abnormal Event Detection in Videos**
 
 - Che Sun, Yunde Jia, Hao Song, and **Yuwei Wu**
-- T-MM 2021 [[PDF](../paper/TMM2021_Sun.pdf)]
+- T-MM 2021
+
+  [[PDF](../paper/TMM2021_Sun.pdf)]
 
 </div>
 </div>
@@ -275,7 +308,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Curvature Generation in Hyperbolic Spaces for Few-Shot Learning**
 
 - Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
-- ICCV 2021 [[pdf](../paper/ICCV2021_Gao.pdf)] [[Project](https://github.com/zhigao2017/CurvatureGeneration_FSL)]
+- ICCV 2021
+
+  [[pdf](../paper/ICCV2021_Gao.pdf)] [[Project](https://github.com/zhigao2017/CurvatureGeneration_FSL)]
 
 </div>
 </div>
@@ -286,7 +321,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **A Hyperbolic-to-Hyperbolic Graph Convolutional Network**
 
 - Jindou Dai, **Yuwei Wu**, Zhi Gao, and Yunde Jia
-- CVPR 2021 [[PDF](../paper/CVPR2021_Dai.pdf)]
+- CVPR 2021
+
+  [[PDF](../paper/CVPR2021_Dai.pdf)]
 
 </div>
 </div>
@@ -297,7 +334,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **A Decomposition Model for Stereo Matching**
 
 - Chengtang Yao, Yunde Jia, Huijun Di, Pengxiang Li, and **Yuwei Wu**
-- CVPR 2021 [[PDF](../paper/CVPR2021_Yao.pdf)] [[Project](https://github.com/YaoChengTang/DecNet)]
+- CVPR 2021
+
+  [[PDF](../paper/CVPR2021_Yao.pdf)] [[Project](https://github.com/YaoChengTang/DecNet)]
 
 </div>
 </div>
@@ -308,7 +347,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Learning a Gradient-free Riemannian Optimizer on Tangent Spaces**
 
 - Xiaomeng Fan, Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
-- AAAI 2021 [[PDF](../paper/AAAI2021_Fan.pdf)] [[Project](https://github.com/XiaomengFanmcislab/Learning-a-Gradient-free-Riemannian-Optimizer-on-Tangent-Spaces)]
+- AAAI 2021
+
+  [[PDF](../paper/AAAI2021_Fan.pdf)] [[Project](https://github.com/XiaomengFanmcislab/Learning-a-Gradient-free-Riemannian-Optimizer-on-Tangent-Spaces)]
 
 </div>
 </div>
@@ -320,7 +361,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Scene-Aware Context Reasoning for Unsupervised Abnormal Event Detection in Videos**
 
 - Che Sun, Yunde Jia, Yao Hu, and **Yuwei Wu**
-- ACM MM 2020 [[PDF](../paper/ACM_MM2020_Sun.pdf)]
+- ACM MM 2020
+
+  [[PDF](../paper/ACM_MM2020_Sun.pdf)]
 
 </div>
 </div>
@@ -331,7 +374,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Visual-Semantic Graph Matching for Visual Grounding**
 
 - Chenchen Jing, **Yuwei Wu**, Yao Hu, Yunde Jia, and Qi Wu
-- ACM MM 2020 [[PDF](../paper/ACM_MM2020_Jing.pdf)]
+- ACM MM 2020
+
+  [[PDF](../paper/ACM_MM2020_Jing.pdf)]
 
 </div>
 </div>
@@ -343,7 +388,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Learning to Optimize on SPD Manifolds**
 
 - Zhi Gao, **Yuwei Wu**, Yunde Jia, and Mehrtash Harandi
-- CVPR 2020 [[PDF](../paper/CVPR2020_Gao.pdf)] [[Project](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
+- CVPR 2020
+
+  [[PDF](../paper/CVPR2020_Gao.pdf)] [[Project](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
 
 </div>
 </div>
@@ -354,7 +401,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Revisiting Bilinear Pooling: A Coding Perspective**
 
 - Zhi Gao, **Yuwei Wu**, XiaoxunZhang, Jindou Dai,Yunde Jia, and Mehrtash Harandi
-- AAAI 2020 [[PDF](../paper/AAAI2020_Gao.pdf)] [[Project](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
+- AAAI 2020
+
+  [[PDF](../paper/AAAI2020_Gao.pdf)] [[Project](https://github.com/zhigao2017/Learning-to-optimize-on-SPD-manifolds)]
 
 </div>
 </div>
@@ -365,7 +414,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Overcoming Language Priors in VQA via Decomposed Linguistic Representations**
 
 - Chenchen Jing, **Yuwei Wu**, XiaoxunZhang, Yunde Jia, and Qi Wu
-- AAAI 2020 [[PDF](../paper/AAAI2020_Jing.pdf)]
+- AAAI 2020
+
+  [[PDF](../paper/AAAI2020_Jing.pdf)]
 
 </div>
 </div>
@@ -377,7 +428,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **A Robust Metric for Similarity-based Classification on the SPD Manifold**
 
 - Zhi Gao, **Yuwei Wu**, Mehrtash Harandi, and Yunde Jia
-- T-NNLS 2020 [[PDF](../paper/TNNLS2020.pdf)] [[Project](https://github.com/zhigao2017/PSSSD)]
+- T-NNLS 2020
+
+  [[PDF](../paper/TNNLS2020.pdf)] [[Project](https://github.com/zhigao2017/PSSSD)]
 
 </div>
 </div>
@@ -388,7 +441,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Face Spoofing Detection Using Relativity Representation on Riemannian Manifold**
 
 - Chengtang Yao, Yunde Jia, Huijun Di, and **Yuwei Wu**
-- T-IFS 2020 [[PDF](../paper/TIFS2020_Yao.pdf)]
+- T-IFS 2020
+
+  [[PDF](../paper/TIFS2020_Yao.pdf)]
 
 </div>
 </div>
@@ -400,7 +455,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **3D Shape Reconstruction from Images in the Frequency Domain**
 
 - Weichao Shen, **Yuwei Wu**, and Yunde Jia
-- CVPR 2019 **(Oral)** [[PDF](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf)]
+- CVPR 2019 **(Oral)**
+
+  [[PDF](../paper/CVPR2019_3D_Shape_Reconstruction_from_Images_in_the_Frequency_Domain.pdf)]
 
 </div>
 </div>
@@ -411,7 +468,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Robust Distracter-Resistive Tracker via Learning A Multi-component Discriminative Dictionary**
 
 - Weichao Shen, **Yuwei Wu**, Junsong Yuan, Ling-Yu Duan, Jian Zhang, and Yunde  Jia
-- T-CSVT 2019 [[PDF](../paper/TCSVT2019_Shen.pdf)]
+- T-CSVT 2019
+
+  [[PDF](../paper/TCSVT2019_Shen.pdf)]
 
 </div>
 </div>
@@ -429,7 +488,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Deep Convolutional Network with Locality and Sparsity Constraints Texture Classification**
   
   - Xingyuan Bu, **Yuwei Wu**, Zhi Gao, and Yunde Jia
-  - PR 2019 [[PDF](../paper/PR2019_Xingyuan.pdf)] 
+  - PR 2019
+
+    [[PDF](../paper/PR2019_Xingyuan.pdf)] 
 
   </div>
 </div>
@@ -446,7 +507,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds**
   
   - Zhi Gao, **Yuwei Wu**, Xingyuan Bu, Tan Yu, Junsong Yuan, and Yunde Jia
-  - PR 2019 [[PDF](../paper/PR2019_Gaozhi.pdf)] [[Project](https://github.com/zhigao2017/Kernel-SPD-Pooling)]
+  - PR 2019
+
+    [[PDF](../paper/PR2019_Gaozhi.pdf)] [[Project](https://github.com/zhigao2017/Kernel-SPD-Pooling)]
 
   </div>
 </div>
@@ -463,7 +526,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **A Codebook-free Compact Descriptor via Dual Selection for Visual Search**
   
   - **Yuwei Wu**, Feng Gao, Yicheng Huang, Jie Lin, Vijay Chandrasekhar, Junsong Yuan, and Ling-Yu Duan
-  - T-MM 2019 [[PDF](../paper/TMM2019_Codebook-free_Compact_Descriptor_for_Scalable_Visual_Search.pdf)]
+  - T-MM 2019
+
+    [[PDF](../paper/TMM2019_Codebook-free_Compact_Descriptor_for_Scalable_Visual_Search.pdf)]
 
   </div>
 </div>
@@ -480,7 +545,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Temporal Action Localization in Untrimmed Videos using Action Pattern Trees**
   
   - Hao Song, Xinxiao Wu, Bing Zhu, **Yuwei Wu**, Mei Chen, and Yunde Jia
-  - T-MM 2019 [[PDF](../paper/TMM2019_Temporal_Action_Localization.pdf)]
+  - T-MM 2019
+
+    [[PDF](../paper/TMM2019_Temporal_Action_Localization.pdf)]
 
   </div>
 </div>
@@ -497,7 +564,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Person-following for Telepresence Robots Using Web Cameras**
   
   - Xianda Cheng, Yunde Jia, Jingyu Su, and **Yuwei Wu**
-  - IROS 2019 [[PDF](../paper/IROS2019.pdf)]
+  - IROS 2019
+
+    [[PDF](../paper/IROS2019.pdf)]
 
   </div>
 </div>
@@ -514,7 +583,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Minimizing Reconstruction Bias Hashing via Joint Projection and Quantization**
   
   - Ling-Yu Duan, **Yuwei Wu**, Yicheng Huang, Zhe Wang, Junsong Yuan, and Wen Gao
-  - T-IP 2018 [[PDF](../paper/TIP2018_Minimizing_Reconstruction_Bias_Hashing.pdf)]
+  - T-IP 2018
+
+    [[PDF](../paper/TIP2018_Minimizing_Reconstruction_Bias_Hashing.pdf)]
 
   </div>
 </div>
@@ -531,7 +602,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Group Sensitive Triplet Embedding for Vehicle Re-identification**
   
   - Yan Bai, Yihang Lou, Feng Gao, Shiqi Wang, **Yuwei Wu**, and Ling-Yu Duan
-  - T-MM 2018 [[PDF](../paper/TMM2018_Group-Sensitive_Triplet_Embedding.pdf)]
+  - T-MM 2018
+
+    [[PDF](../paper/TMM2018_Group-Sensitive_Triplet_Embedding.pdf)]
 
   </div>
 </div>
@@ -548,7 +621,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **Deep Stereo Matching with Explicit Cost Aggregation Sub-Architecture**
   
   - Lidong Yu, Yucheng Wang, **Yuwei Wu**, and Yunde Jia
-  - AAAI 2018 [[PDF](../paper/AAAI2018_Deep_Stereo_Matching_with_Explicit.pdf)]
+  - AAAI 2018
+
+    [[PDF](../paper/AAAI2018_Deep_Stereo_Matching_with_Explicit.pdf)]
 
   </div>
 </div>
@@ -565,7 +640,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   **A Hybrid Data Association Framework for Robust Online Multi-Object Tracking**
   
   - Min Yang, **Yuwei Wu**, and Yunde Jia
-  - T-IP 2017 [[PDF](../paper/TIP2017_A_Hybrid_Data_Association_Framework.pdf)]
+  - T-IP 2017
+  
+    [[PDF](../paper/TIP2017_A_Hybrid_Data_Association_Framework.pdf)]
 
   </div>
 </div>
@@ -576,7 +653,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **HOPE: Hierarchical Object Prototype Encoding for Efficient Object Instance Search in Videos**
 
 - Tan Yu, **Yuwei Wu**, Junsong Yuan
-- CVPR 2017 [[PDF](../paper/CVPR2017_HOPE_Hierarchical_Object_Prototype_Encoding_.pdf)]
+- CVPR 2017
+
+  [[PDF](../paper/CVPR2017_HOPE_Hierarchical_Object_Prototype_Encoding_.pdf)]
 
 </div>
 </div>
@@ -587,7 +666,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Efficient Object Instance Search Using Fuzzy Objects Matching**
 
 - Tan Yu, **Yuwei Wu**, Sreyasee Das Bhattacharjee, Junsong Yuan
-- AAAI 2017 [[PDF](https://cse.buffalo.edu/~jsyuan/papers/2017/Efficient%20Object%20Instance%20Search%20Using%20Fuzzy%20Objects%20Matching.pdf)]
+- AAAI 2017
+
+  [[PDF](https://cse.buffalo.edu/~jsyuan/papers/2017/Efficient%20Object%20Instance%20Search%20Using%20Fuzzy%20Objects%20Matching.pdf)]
 
 </div>
 </div>
@@ -598,7 +679,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Deep Manifold Learning of Symmetric Positive Definite Matrices with Application to Face Recognition**
 
 - Zhen Dong, Su Jia, Chi Zhang, Mingtao Pei, **Yuwei Wu**
-- AAAI 2017 [[PDF](../paper/AAAI2017_Deep_Manifold_Learning_of_Symmetric_Positive_Definite_Matrices.pdf)]
+- AAAI 2017
+
+  [[PDF](../paper/AAAI2017_Deep_Manifold_Learning_of_Symmetric_Positive_Definite_Matrices.pdf)]
 
 </div>
 </div>
@@ -609,7 +692,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Online Discriminative Tracking with Active Example Selection**
 
 - Min Yang, **Yuwei Wu**, Mingtao Pei, Bo Ma, and Yunde Jia
-- T-CSVT 2016 [[PDF](https://drive.google.com/file/d/1H1TPSrGWo-mOXqj9CwPZLvHCrd7O7_nd/view)]
+- T-CSVT 2016
+
+  [[PDF](https://drive.google.com/file/d/1H1TPSrGWo-mOXqj9CwPZLvHCrd7O7_nd/view)]
 
 </div>
 </div>
@@ -620,7 +705,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Robust Discriminative Tracking via Landmark-based Label Propagation**
 
 - **Yuwei Wu**, Mingtao Pei, Min Yang, Junsong Yuan, and Yunde Jia
-- T-IP 2015 [[PDF](../paper/TIP2015_Robust_Discriminative_Tracking_via_Landmark-based_Label_Propagation.pdf)]
+- T-IP 2015
+
+  [[PDF](../paper/TIP2015_Robust_Discriminative_Tracking_via_Landmark-based_Label_Propagation.pdf)]
 
 </div>
 </div>
@@ -631,7 +718,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Manifold kernel Sparse Representation of Symmetric Positive Definite Matrices and Its Applications**
 
 - **Yuwei Wu**, Yunde Jia, Peihua Li, Jian Zhang, and Junsong Yuan
-- T-IP 2015 [[PDF](../paper/TIP2015_Manifold_Kernel_Sparse_Representation_of_Symmetric_Positive-Definite_Matrices_and_Its_Applications.pdf)]
+- T-IP 2015
+
+  [[PDF](../paper/TIP2015_Manifold_Kernel_Sparse_Representation_of_Symmetric_Positive-Definite_Matrices_and_Its_Applications.pdf)]
 
 </div>
 </div>
@@ -642,7 +731,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Vehicle Type Classification Using Semi-Supervised Convolutional Neural Network**
 
 - Zhen Dong, **Yuwei Wu**, Mingtao Pei, and Yunde Jia
-- T-ITS 2015 [[PDF](../paper/TITS2015_Vehicle_Type_Classification_Using_a_Semisupervised.pdf)]
+- T-ITS 2015
+
+  [[PDF](../paper/TITS2015_Vehicle_Type_Classification_Using_a_Semisupervised.pdf)]
 
 </div>
 </div>
@@ -653,7 +744,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Metric learning based Structural Appearance Model for Robust Visual Tracking**
 
 - **Yuwei Wu**, Bo Ma, Min Yang, Yunde Jia, and Jian Zhang
-- T-CSVT 2014 [[PDF](https://drive.google.com/file/d/1Sgnz99TFyvrDeOyYN5FISIiMNngNlTBr/view)]
+- T-CSVT 2014
+
+  [[PDF](https://drive.google.com/file/d/1Sgnz99TFyvrDeOyYN5FISIiMNngNlTBr/view)]
 
 </div>
 </div>
