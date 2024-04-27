@@ -994,19 +994,25 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <br>
 
 <strong>Dr.Zhi GAO (高志)</strong> 
+
 Ph.D. student of BIT,2023
+
 now: Postdoc Research Fellow, Peking University, Beijing, China
 
 <br>
 
 <strong>Dr.Che SUN (孙澈)</strong>
+
 Ph.D. student of BIT,2023 (co-supervise with Prof. Yunde Jia) 
+
 now: Postdoc Research Fellow, Tsinghua University, Beijing, China 
 
 <br>
 
-<strong>Dr. Chenchen JING (景宸琛)</strong></center>
+<strong>Dr. Chenchen JING (景宸琛)</strong>
+
 Ph.D. student of BIT, 2022 (co-supervise with Prof. Yunde Jia) 
+
 now: Postdoc Research Fellow, Zhejiang University, Hangzhou, China
 
 
@@ -1014,13 +1020,17 @@ now: Postdoc Research Fellow, Zhejiang University, Hangzhou, China
 
 
 <strong>Dr. Weichao SHEN (沈伟超)</strong>
+
 Ph.D. student of BIT, 2021 (co-supervise with Prof. Yunde Jia) 
+
 now: Alibaba DAMO Academy for Discovery, Beijing, China 
 
 <br>
 
 <strong>Wei JIANG (姜玮)</strong>
+
 Master student of BIT, 2020
+
 now: Alibaba, Beijing, China
 
 
@@ -1028,7 +1038,9 @@ now: Alibaba, Beijing, China
 
 
 <strong>Jindou DAI (戴金豆)</strong>
+
 Master student of BIT, 2022
+
 now: Alibaba, Beijing, China
 
 
@@ -1036,7 +1048,9 @@ now: Alibaba, Beijing, China
 
 
 <strong>Jingyu SU (苏静宇)</strong>
+
 Master student of BIT, 2022
+
 now: Putian University, Putian, China
 
 
@@ -1044,14 +1058,18 @@ now: Putian University, Putian, China
 
 
 <strong>Xiangjun GAO (高祥君)</strong>
+
 Master student of BIT, 2023
+
 now: Ph.D. student of HKUST, Hong Kong, China
 
 <br>
 
 
 <strong>Tianshuo MA (马天朔)</strong>
+
 Master student of BIT, 2023
+
 now: CASIC No.3, Beijing, China
 
 
