@@ -993,65 +993,65 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 <br>
 
-<center><strong>Dr.Zhi GAO (高志)</strong></center> 
-<center>Ph.D. student of BIT,2023</center>
-<center>now: Postdoc Research Fellow, Peking University, Beijing, China</center>
+<strong>Dr.Zhi GAO (高志)</strong> 
+Ph.D. student of BIT,2023
+now: Postdoc Research Fellow, Peking University, Beijing, China
 
 <br>
 
-<center><strong>Dr.Che SUN (孙澈)</strong></center>
-<center>Ph.D. student of BIT,2023 (co-supervise with Prof. Yunde Jia)</center> 
-<center>now: Postdoc Research Fellow, Tsinghua University, Beijing, China </center> 
+<strong>Dr.Che SUN (孙澈)</strong>
+Ph.D. student of BIT,2023 (co-supervise with Prof. Yunde Jia) 
+now: Postdoc Research Fellow, Tsinghua University, Beijing, China 
 
 <br>
 
-<center><strong>Dr. Chenchen JING (景宸琛)</strong></center>
-<center>Ph.D. student of BIT, 2022 (co-supervise with Prof. Yunde Jia)</center> 
-<center>now: Postdoc Research Fellow, Zhejiang University, Hangzhou, China </center>
-
-
-<br>
-
-
-<center><strong>Dr. Weichao SHEN (沈伟超)</strong></center>
-<center>Ph.D. student of BIT, 2021 (co-supervise with Prof. Yunde Jia)</center> 
-<center>now: Alibaba DAMO Academy for Discovery, Beijing, China </center> 
-
-<br>
-
-<center><strong>Wei JIANG (姜玮)</strong></center>
-<center>Master student of BIT, 2020</center>
-<center>now: Alibaba, Beijing, China</center>
+<strong>Dr. Chenchen JING (景宸琛)</strong></center>
+Ph.D. student of BIT, 2022 (co-supervise with Prof. Yunde Jia) 
+now: Postdoc Research Fellow, Zhejiang University, Hangzhou, China
 
 
 <br>
 
 
-<center><strong>Jindou DAI (戴金豆)</strong></center>
-<center>Master student of BIT, 2022</center>
-<center>now: Alibaba, Beijing, China</center>
+<strong>Dr. Weichao SHEN (沈伟超)</strong>
+Ph.D. student of BIT, 2021 (co-supervise with Prof. Yunde Jia) 
+now: Alibaba DAMO Academy for Discovery, Beijing, China 
+
+<br>
+
+<strong>Wei JIANG (姜玮)</strong>
+Master student of BIT, 2020
+now: Alibaba, Beijing, China
 
 
 <br>
 
 
-<center><strong>Jingyu SU (苏静宇)</strong></center>
-<center>Master student of BIT, 2022</center>
-<center>now: Putian University, Putian, China</center>
+<strong>Jindou DAI (戴金豆)</strong>
+Master student of BIT, 2022
+now: Alibaba, Beijing, China
 
 
 <br>
 
 
-<center><strong>Xiangjun GAO (高祥君)</strong></center>
-<center>Master student of BIT, 2023</center>
-<center>now: Ph.D. student of HKUST, Hong Kong, China</center>
+<strong>Jingyu SU (苏静宇)</strong>
+Master student of BIT, 2022
+now: Putian University, Putian, China
+
 
 <br>
 
 
-<center><strong>Tianshuo MA (马天朔)</strong></center>
-<center>Master student of BIT, 2023</center>
-<center>now: CASIC No.3, Beijing, China</center>
+<strong>Xiangjun GAO (高祥君)</strong>
+Master student of BIT, 2023
+now: Ph.D. student of HKUST, Hong Kong, China
+
+<br>
+
+
+<strong>Tianshuo MA (马天朔)</strong>
+Master student of BIT, 2023
+now: CASIC No.3, Beijing, China
 
 
