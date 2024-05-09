@@ -89,7 +89,6 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
-        flex-grow: 1;
     }
     
     @include breakpoint($medium) {
