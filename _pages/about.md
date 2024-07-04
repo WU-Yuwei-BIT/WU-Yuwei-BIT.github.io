@@ -28,6 +28,7 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与机器智能课题组招生V3.pdf))
 
 # News
+- *2024.07*: &nbsp;🎉🎉 Two papers are accepted by ECCV2024, congratulations to Jiaxi ZENG and Chuanhao LI.
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2024, congratulations to Yangkai XUE. 
 - *2023.10*: &nbsp;🎉🎉 Zhi GAO received Distinguished Dissertation Award from SIGAICHINA, congratulations!
 - *2023.06*: &nbsp;🎉🎉 Three papers are accepted by ICCV2023, congratulations to Chenrui SHI, Jiaxi ZENG and Chengtang YAO.
@@ -65,6 +66,28 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - *2019.02*: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.
 
 # Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/pipeline/ECCV2024_ZENG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Temporally Consistent Stereo Matching**
+- Jiaxi Zeng, Chengtang Yao, **Yuwei Wu**, and Yunde Jia.
+- ECCV 2024 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/pipeline/ECCV2024_LI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
+- Chuanhao Li, Zhen Li, Chenchen Jing, **Yuwei Wu**, Mingliang Zhai, and Yunde Jia.
+- ECCV 2024 
+  
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/pipeline/AAAI2024_Xue.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
