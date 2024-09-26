@@ -1049,7 +1049,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
      <div class="team-member">
         <img src="../group/chenquan.jpg" alt="" class="team-member-photo">
         <div><strong>Quan CHEN (陈全)</strong></div>
-        <div>Prospective master student of BIT</div>
+        <div>Master student of BIT</div>
         <div>2024--</div>
     </div>
     
@@ -1057,7 +1057,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
      <div class="team-member">
         <img src="../group/wuwei.jpg" alt="" class="team-member-photo">
         <div><strong>Wei WU (吴为)</strong></div>
-        <div>Prospective master student of BIT</div>
+        <div>Master student of BIT</div>
         <div>2024--</div>
     </div>
 </div>
