@@ -28,6 +28,8 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与机器智能课题组招生V3.pdf))
 
 # News
+- *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2024, and one paper is accepted by EMNLP 2024, congratulations to Chuanhao LI and Pengxiang LI.
+- *2024.08*: &nbsp;🎉🎉 One paper concerning stereo mathching is accepted by IEEE T-CSVT, congratulations to Pengxiang LI.
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by ECCV2024, congratulations to Jiaxi ZENG and Chuanhao LI.
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2024, congratulations to Yangkai XUE. 
 - *2023.10*: &nbsp;🎉🎉 Zhi GAO received Distinguished Dissertation Award from SIGAICHINA, congratulations!
@@ -67,13 +69,68 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 # Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pipeline/NIPS2024_CHUANHAO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**
+- Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, **Yuwei Wu**, Ping Luo, Yu Qiao, and Kaipeng Zhang.
+- NeurIPS 2024
+  
+ [[PDF](../paper/NIPS2024_CHUANHAO.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pipeline/NIPS2024_PENGXIANG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models**
+- Pengxiang Li, Zhi Gao, Bofei Zhang, Tao Yuan, **Yuwei Wu**, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, and Qing Li.
+- NeurIPS 2024
+  
+ [[PDF](../paper/NIPS2024_PENGXIANG.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2024</div><img src='images/pipeline/TCSVT2024_PENGXIANG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/pipeline/EMNLP2024_CHUANHAO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**In-Context Compositional Generalization for Large Vision-Language Models**
+- Chuanhao Li, Chenchen Jing, Zhen Li, Mingliang Zhai, **Yuwei Wu**, and Yunde Jia.
+- EMNLP 2024
+  
+ [[PDF](../paper/EMNLP2024_CHUANHAO.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2024</div><img src='images/pipeline/TCSVT2024_PENGXIANG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Inter-Scale Similarity Guided Cost Aggregation for Stereo Matching**
+- Pengxiang Li, Chengtang Yao, and Yunde Jia.
+- T-CSVT 2024
+  
+ [[PDF](../paper/TCSVT2024_PENGXIANG.pdf)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/pipeline/ECCV2024_LI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/pipeline/ECCV2024_ZENG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Temporally Consistent Stereo Matching**
 - Jiaxi Zeng, Chengtang Yao, **Yuwei Wu**, and Yunde Jia.
-- ECCV 2024 
-
+- ECCV 2024
+  
+ [[PDF](../paper/ECCV2024_JIAXI.pdf)] [[Project](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)]
 </div>
 </div>
 
@@ -84,7 +141,8 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
 - Chuanhao Li, Zhen Li, Chenchen Jing, **Yuwei Wu**, Mingliang Zhai, and Yunde Jia.
 - ECCV 2024 
-  
+
+  [[PDF](../paper/ECCV2024_CHUANHAO.pdf)] [[Project](https://github.com/NeverMoreLCH/CG-SPS)]
 </div>
 </div>
 
