@@ -80,6 +80,8 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pipeline/NIPS2024_PENGXIANG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,8 +93,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2024</div><img src='images/pipeline/TCSVT2024_PENGXIANG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/pipeline/EMNLP2024_CHUANHAO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,6 +106,8 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT 2024</div><img src='images/pipeline/TCSVT2024_PENGXIANG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -115,11 +118,6 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
  [[PDF](../paper/TCSVT2024_PENGXIANG.pdf)]
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/pipeline/ECCV2024_LI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 
 
