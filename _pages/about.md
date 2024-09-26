@@ -112,7 +112,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box-text' markdown="1">
 
 **Inter-Scale Similarity Guided Cost Aggregation for Stereo Matching**
-- Pengxiang Li, Chengtang Yao, and Yunde Jia.
+- Pengxiang Li, Chengtang Yao, **Yuwei Wu**, and Yunde Jia.
 - T-CSVT 2024
   
   [[PDF](../paper/TCSVT2024_PENGXIANG.pdf)]
