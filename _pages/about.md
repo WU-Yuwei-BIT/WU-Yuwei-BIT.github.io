@@ -76,7 +76,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, **Yuwei Wu**, Ping Luo, Yu Qiao, and Kaipeng Zhang.
 - NeurIPS 2024
   
- [[PDF](../paper/NIPS2024_CHUANHAO.pdf)]
+  [[PDF](../paper/NIPS2024_CHUANHAO.pdf)]
 </div>
 </div>
 
@@ -89,7 +89,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Pengxiang Li, Zhi Gao, Bofei Zhang, Tao Yuan, **Yuwei Wu**, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, and Qing Li.
 - NeurIPS 2024
   
- [[PDF](../paper/NIPS2024_PENGXIANG.pdf)]
+  [[PDF](../paper/NIPS2024_PENGXIANG.pdf)]
 </div>
 </div>
 
@@ -102,7 +102,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Chuanhao Li, Chenchen Jing, Zhen Li, Mingliang Zhai, **Yuwei Wu**, and Yunde Jia.
 - EMNLP 2024
   
- [[PDF](../paper/EMNLP2024_CHUANHAO.pdf)]
+  [[PDF](../paper/EMNLP2024_CHUANHAO.pdf)]
 </div>
 </div>
 
@@ -115,7 +115,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Pengxiang Li, Chengtang Yao, and Yunde Jia.
 - T-CSVT 2024
   
- [[PDF](../paper/TCSVT2024_PENGXIANG.pdf)]
+  [[PDF](../paper/TCSVT2024_PENGXIANG.pdf)]
 </div>
 </div>
 
@@ -128,7 +128,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Jiaxi Zeng, Chengtang Yao, **Yuwei Wu**, and Yunde Jia.
 - ECCV 2024
   
- [[PDF](../paper/ECCV2024_JIAXI.pdf)] [[Project](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)]
+  [[PDF](../paper/ECCV2024_JIAXI.pdf)] [[Project](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)]
 </div>
 </div>
 
