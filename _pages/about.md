@@ -937,7 +937,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     </div>
 
     <div class="team-member">
-        <img src="../group/lishishen.jpg" alt="" class="team-member-photo">
+        <img src="../group/lishishen.png" alt="" class="team-member-photo">
         <div><strong>Shishen LI (李世珅)</strong></div>
         <div>>Ph.D. student of BIT</div>
         <div>2024--</div>
