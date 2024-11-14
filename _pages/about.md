@@ -932,14 +932,14 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     <div class="team-member">
         <img src="../group/zhangxintong.jpg" alt="" class="team-member-photo">
         <div><strong>Xintong ZHANG (张欣桐)</strong></div>
-        <div>>Ph.D. student of BIT</div>
+        <div>Ph.D. student of BIT</div>
         <div>2024--</div>
     </div>
 
     <div class="team-member">
         <img src="../group/lishishen.png" alt="" class="team-member-photo">
         <div><strong>Shishen LI (李世珅)</strong></div>
-        <div>>Ph.D. student of BIT</div>
+        <div>Ph.D. student of BIT</div>
         <div>2024--</div>
     </div>
     
