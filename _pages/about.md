@@ -930,10 +930,17 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class="team-members-row">
     <!-- 第一个成员 -->
     <div class="team-member">
-        <img src="../group/yanzhiyu.jpg" alt="" class="team-member-photo">
-        <div><strong>Zhiyu YAN (晏直誉)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2021--</div>
+        <img src="../group/zhangxintong.jpg" alt="" class="team-member-photo">
+        <div><strong>Xintong ZHANG (张欣桐)</strong></div>
+        <div>>Ph.D. student of BIT</div>
+        <div>2024--</div>
+    </div>
+
+    <div class="team-member">
+        <img src="../group/lishishen.jpg" alt="" class="team-member-photo">
+        <div><strong>Shishen LI (李世珅)</strong></div>
+        <div>>Ph.D. student of BIT</div>
+        <div>2024--</div>
     </div>
     
     <!-- 第二个成员 -->
@@ -944,13 +951,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
         <div>2022--</div>
     </div>
     
-    <!-- 第三个成员 -->
-     <div class="team-member">
-        <img src="../group/xueyangkai.jpg" alt="" class="team-member-photo">
-        <div><strong>Yangkai XUE (薛阳凯)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2022--</div>
-    </div>
+
 </div>
 
 
@@ -974,10 +975,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     
     <!-- 第三个成员 -->
      <div class="team-member">
-        <img src="../group/lizhaoyi.jpg" alt="" class="team-member-photo">
-        <div><strong>Zhaoyi LI (李昭驿)</strong></div>
+        <img src="../group/xueyangkai.jpg" alt="" class="team-member-photo">
+        <div><strong>Yangkai XUE (薛阳凯)</strong></div>
         <div>Master student of BIT</div>
-        <div>2023--</div>
+        <div>2022--</div>
     </div>
 </div>
 
@@ -1010,37 +1011,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 <!-- 第六行 -->
 <div class="team-members-row">
-    <!-- 第一个成员 -->
-    <div class="team-member">
-        <img src="../group/gaorui.jpg" alt="" class="team-member-photo">
-        <div><strong>Rui GAO (高瑞)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2023--</div>
-    </div>
-    
-    <!-- 第二个成员 -->
-     <div class="team-member">
-        <img src="../group/fanyimeng.jpg" alt="" class="team-member-photo">
-        <div><strong>Yimeng FAN (范忆萌)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2023--</div>
-    </div>
-    
     <!-- 第三个成员 -->
      <div class="team-member">
-        <img src="../group/zhanghanwen.jpg" alt="" class="team-member-photo">
-        <div><strong>Hanwen ZHANG (张瀚文)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2023--</div>
-    </div>
-</div>
-
-<!-- 第七行 -->
-<div class="team-members-row">
-    <!-- 第一个成员 -->
-    <div class="team-member">
-        <img src="../group/yewenbo.jpg" alt="" class="team-member-photo">
-        <div><strong>Wenbo YE (叶文博)</strong></div>
+        <img src="../group/lizhaoyi.jpg" alt="" class="team-member-photo">
+        <div><strong>Zhaoyi LI (李昭驿)</strong></div>
         <div>Master student of BIT</div>
         <div>2023--</div>
     </div>
@@ -1151,4 +1125,7 @@ Master student of BIT, 2023
 
 now: CASIC No.3, Beijing, China
 
+<strong>Zhiyu YAN (晏直誉)</strong>
+Master student of BIT, 2024
 
+now: Bank of Communications Co., Ltd. Shanghai, China
