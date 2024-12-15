@@ -73,11 +73,11 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pipeline/NIPS2024_CHUANHAO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**
+**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**
 - Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, **Yuwei Wu**, Ping Luo, Yu Qiao, and Kaipeng Zhang.
 - NeurIPS 2024
   
-  [[PDF](../paper/NIPS2024_CHUANHAO.pdf)]
+  [[PDF](../paper/24_NIPS_LI.pdf)]
 </div>
 </div>
 
@@ -103,7 +103,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Chuanhao Li, Chenchen Jing, Zhen Li, Mingliang Zhai, **Yuwei Wu**, and Yunde Jia.
 - EMNLP 2024
   
-  [[PDF](../paper/EMNLP2024_CHUANHAO.pdf)]
+  [[PDF](../paper/24_EMNLP_LI.pdf)]
 </div>
 </div>
 
