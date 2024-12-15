@@ -70,7 +70,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 # Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pipeline/NIPS2024_CHUANHAO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pipeline/24_NIPS_LI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**
