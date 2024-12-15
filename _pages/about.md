@@ -28,6 +28,7 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与机器智能课题组招生V3.pdf))
 
 # News
+- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025, congratulations to Chuanhao LI and Mingliang ZHAI.
 - *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2024, and one paper is accepted by EMNLP 2024, congratulations to Chuanhao LI and Pengxiang LI.
 - *2024.08*: &nbsp;🎉🎉 One paper concerning stereo mathching is accepted by IEEE T-CSVT, congratulations to Pengxiang LI.
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by ECCV2024, congratulations to Jiaxi ZENG and Chuanhao LI.
