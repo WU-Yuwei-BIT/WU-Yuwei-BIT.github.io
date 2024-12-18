@@ -90,7 +90,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Pengxiang Li, Zhi Gao, Bofei Zhang, Tao Yuan, **Yuwei Wu**, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, and Qing Li.
 - NeurIPS 2024
   
-  [[PDF](../paper/NIPS2024_PENGXIANG.pdf)]
+  [[PDF](../paper/24_NIPS_PENGXIANG.pdf)]
 </div>
 </div>
 
