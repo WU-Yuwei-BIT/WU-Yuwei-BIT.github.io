@@ -77,7 +77,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, **Yuwei Wu**, Ping Luo, Yu Qiao, and Kaipeng Zhang.
 - NeurIPS 2024
   
-  [[PDF](../paper/24_NIPS_LI.pdf)] [[Project](SearchLVLMs.github.io)]
+  [[PDF](../paper/24_NIPS_LI.pdf)] [[Project](https://nevermorelch.github.io/SearchLVLMs.github.io)]
 </div>
 </div>
 
@@ -90,7 +90,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Pengxiang Li, Zhi Gao, Bofei Zhang, Tao Yuan, **Yuwei Wu**, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, and Qing Li.
 - NeurIPS 2024
   
-  [[PDF](../paper/24_NIPS_PENGXIANG.pdf)] [[Project](mm-fire.github.io)]
+  [[PDF](../paper/24_NIPS_PENGXIANG.pdf)] [[Project](https://mm-fire.github.io/)]
 </div>
 </div>
 
