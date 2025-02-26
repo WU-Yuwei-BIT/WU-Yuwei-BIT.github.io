@@ -156,7 +156,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Pengxiang Li, Chengtang Yao, **Yuwei Wu**, and Yunde Jia.
 - T-CSVT 2024
   
-  [[PDF](../paper/TCSVT2024_PENGXIANG.pdf)]
+  [[PDF](../paper/TCSVT2024_LI.pdf)]
 </div>
 </div>
 
