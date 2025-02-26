@@ -78,7 +78,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaojian Ma, Tao Yuan, Yue Fan, **Yuwei Wu**, Yunde Jia, Song-Chun Zhu, and Qing Li.
 - ICLR 2025
   
-  [[PDF](../paper/ICLR2025_GAO.pdf)] [[Project](https://mat-agent.github.io/)]
+  [[PDF](../paper/ICLR25_GAO.pdf)] [[Project](https://mat-agent.github.io/)]
 </div>
 </div>
 
