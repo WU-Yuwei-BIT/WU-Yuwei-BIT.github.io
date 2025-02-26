@@ -88,7 +88,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box-text' markdown="1">
 
 **Consistency of Compositional Generalization Across Multiple Levels**
-- Chuanhao Li, Zhen Li, Chenchen Jing, Xiaomeng Fan, Wenbo Ye, **Yuwei Wu**, Yunde Jia.
+- Chuanhao Li, Zhen Li, Chenchen Jing, Xiaomeng Fan, Wenbo Ye, **Yuwei Wu**, and Yunde Jia.
 - AAAI 2025
   
   [[PDF](../paper/AAAI25_LI.pdf)] [[Project](https://github.com/NeverMoreLCH/CCG)]
@@ -101,7 +101,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box-text' markdown="1">
 
 **World Knowledge-Enhanced Reasoning Using Instruction-Guided Interactor in Autonomous Driving**
-- Mingliang Zhai, Cheng Li, Zengyuan Guo, Ningrui Yang, Xiameng Qin, Sanyuan Zhao, Junyu Han, Ji Tao, **Yuwei Wu**, Yunde Jia.
+- Mingliang Zhai, Cheng Li, Zengyuan Guo, Ningrui Yang, Xiameng Qin, Sanyuan Zhao, Junyu Han, Ji Tao, **Yuwei Wu**, and Yunde Jia.
 - AAAI 2025
   
   [[PDF](../paper/AAAI25_ZHAI.pdf)] [[Project](https://github.com/zmling22/KAD)]
