@@ -28,6 +28,7 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与智能系统实验室招生说明V4.pdf))
 
 # News
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, congratulations to Pengxiang LI and Zhi GAO.
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025, congratulations to Chuanhao LI and Mingliang ZHAI.
 - *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2024, and one paper is accepted by EMNLP 2024, congratulations to Chuanhao LI and Pengxiang LI.
 - *2024.08*: &nbsp;🎉🎉 One paper concerning stereo mathching is accepted by IEEE T-CSVT, congratulations to Pengxiang LI.
@@ -70,6 +71,45 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 # Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/pipeline/ICLR2025_GAO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage**
+- Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaojian Ma, Tao Yuan, Yue Fan, **Yuwei Wu**, Yunde Jia, Song-Chun Zhu, and Qing Li.
+- ICLR 2025
+  
+  [[PDF](../paper/ICLR2025_GAO.pdf)] [[Project](https://mat-agent.github.io/)]
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/pipeline/AAAI2025_LI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Consistency of Compositional Generalization Across Multiple Levels**
+- Chuanhao Li, Zhen Li, Chenchen Jing, Xiaomeng Fan, Wenbo Ye, **Yuwei Wu**, Yunde Jia.
+- AAAI 2025
+  
+  [[PDF](../paper/AAAI25_LI.pdf)] [[Project](https://github.com/NeverMoreLCH/CCG)]
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/pipeline/AAAI2025_ZHAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**World Knowledge-Enhanced Reasoning Using Instruction-Guided Interactor in Autonomous Driving**
+- Mingliang Zhai, Cheng Li, Zengyuan Guo, Ningrui Yang, Xiameng Qin, Sanyuan Zhao, Junyu Han, Ji Tao, **Yuwei Wu**, Yunde Jia.
+- AAAI 2025
+  
+  [[PDF](../paper/AAAI25_ZHAI.pdf)] [[Project](https://github.com/zmling22/KAD)]
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/pipeline/24_NIPS_LI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,7 +130,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Pengxiang Li, Zhi Gao, Bofei Zhang, Tao Yuan, **Yuwei Wu**, Mehrtash Harandi, Yunde Jia, Song-Chun Zhu, and Qing Li.
 - NeurIPS 2024
   
-  [[PDF](../paper/24_NIPS_PENGXIANG.pdf)] [[Project](https://mm-fire.github.io/)]
+  [[PDF](../paper/TCSVT2024_LI.pdf)] [[Project](https://mm-fire.github.io/)]
 </div>
 </div>
 
