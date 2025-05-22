@@ -25,9 +25,10 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 **Machine Learning**: Riemannian Optimization, Deep Learning, etc. 
 
 # Recruitment
-I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与智能系统实验室招生说明V4.pdf))
+I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与智能系统实验室招生说明V5.pdf))
 
 # News
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025, congratulations to Chuanhao LI.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, congratulations to Pengxiang LI and Zhi GAO.
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025, congratulations to Chuanhao LI and Mingliang ZHAI.
 - *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2024, and one paper is accepted by EMNLP 2024, congratulations to Chuanhao LI and Pengxiang LI.
@@ -70,6 +71,16 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - *2019.02*: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.
 
 # Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/pipeline/IJCAI25_Li.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-Sourced Compositional Generalization in Visual Question Answering**
+- Chuanhao Li, Wenbo Ye, Zhen Li, **Yuwei Wu**, Yunde Jia.
+- IJCAI 2025
+  
+  [[PDF](../paper/IJCAI25_Li.pdf)] [[Project](https://github.com/NeverMoreLCH/MSCG/)]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/pipeline/ICLR2025_GAO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
