@@ -9,27 +9,23 @@ redirect_from:
 ---
 
 <style>
+/* 原有 badge 样式（保持不变） */
+
+/* 关键修复 */
+.paper-box-image {
+  position: relative;  /* 让 badge 相对于此容器定位 */
+}
+
+.paper-box-image > div {
+  overflow: visible !important;  /* 防止 badge 被裁剪 */
+}
+
+/* 滚动框样式 */
 .publications-scrollbox {
   max-height: 600px;
   overflow-y: auto;
   padding: 10px;
   border: 1px solid #eee;
-}
-
-.paper-box-image {
-  position: relative;
-  overflow: visible;
-}
-
-.badge {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  z-index: 2;
-  background: #ff4757;
-  color: white;
-  padding: 4px 8px;
-  border-radius: 4px;
 }
 </style>
 
@@ -99,9 +95,10 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - *2019.02*: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.
 
 
+# Selected Publications 
+
 <div class="publications-scrollbox">
 
-# Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/pipeline/IJCAI25_Li.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
