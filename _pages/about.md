@@ -8,6 +8,41 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* 滚动框样式 */
+.publications-scrollbox {
+  max-height: 600px;  /* 限制高度，超过则滚动 */
+  overflow-y: auto;    /* 垂直滚动 */
+  padding: 10px;
+  border: 1px solid #eee; /* 可选：边框 */
+  border-radius: 8px;     /* 可选：圆角 */
+}
+
+/* 滚动条样式（仅 WebKit 浏览器支持） */
+.publications-scrollbox::-webkit-scrollbar {
+  width: 8px;
+}
+.publications-scrollbox::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+.publications-scrollbox::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+.publications-scrollbox::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* 保持原有 paper-box 样式不变 */
+.paper-box {
+  margin-bottom: 20px; /* 每个论文条目之间的间距 */
+}
+</style>
+
+
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -69,6 +104,9 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - *2019.06*: &nbsp;🎉🎉 Weichao SHEN’s work on 3D shape reconstruction is presented at CVPR'19 as an oral paper.
 - *2019.03*: &nbsp;🎉🎉 One paper is accepted by CVPR'19 as an oral paper, congratulations to Weichao SHEN.
 - *2019.02*: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.
+
+
+<div class="publications-scrollbox">
 
 # Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/pipeline/IJCAI25_Li.png' alt="sym" width="100%"></div></div>
@@ -882,6 +920,8 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 </div>
 </div>
 
+
+</div>
  
 
 
