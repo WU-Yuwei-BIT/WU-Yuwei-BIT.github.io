@@ -17,7 +17,21 @@ redirect_from:
   border: 1px solid #eee; /* 可选：边框 */
   border-radius: 8px;     /* 可选：圆角 */
 }
+.paper-box-image {
+  position: relative;
+  overflow: visible;
+}
 
+.badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  background: #ff4757;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
 /* 滚动条样式（仅 WebKit 浏览器支持） */
 .publications-scrollbox::-webkit-scrollbar {
   width: 8px;
