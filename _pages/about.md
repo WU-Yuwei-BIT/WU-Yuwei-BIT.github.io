@@ -9,14 +9,13 @@ redirect_from:
 ---
 
 <style>
-/* 滚动框样式 */
 .publications-scrollbox {
-  max-height: 600px;  /* 限制高度，超过则滚动 */
-  overflow-y: auto;    /* 垂直滚动 */
+  max-height: 600px;
+  overflow-y: auto;
   padding: 10px;
-  border: 1px solid #eee; /* 可选：边框 */
-  border-radius: 8px;     /* 可选：圆角 */
+  border: 1px solid #eee;
 }
+
 .paper-box-image {
   position: relative;
   overflow: visible;
@@ -31,26 +30,6 @@ redirect_from:
   color: white;
   padding: 4px 8px;
   border-radius: 4px;
-}
-/* 滚动条样式（仅 WebKit 浏览器支持） */
-.publications-scrollbox::-webkit-scrollbar {
-  width: 8px;
-}
-.publications-scrollbox::-webkit-scrollbar-track {
-  background: #f1f1f1;
-  border-radius: 4px;
-}
-.publications-scrollbox::-webkit-scrollbar-thumb {
-  background: #888;
-  border-radius: 4px;
-}
-.publications-scrollbox::-webkit-scrollbar-thumb:hover {
-  background: #555;
-}
-
-/* 保持原有 paper-box 样式不变 */
-.paper-box {
-  margin-bottom: 20px; /* 每个论文条目之间的间距 */
 }
 </style>
 
