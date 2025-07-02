@@ -981,23 +981,11 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <!-- 第一行 -->
 <div class="team-members-container">
     <div class="team-member">
-        <img src="../group/lichuanhao.jpg" alt="" class="team-member-photo">
-        <div><strong>Chuanhao LI (李川皓)</strong></div>
-        <div>Ph.D. student of BIT</div>
-        <div>2020--</div>
-    </div>  
-    <div class="team-member">
         <img src="../group/chenxu.jpg" alt="" class="team-member-photo">
         <div><strong>Xu CHEN (陈旭)</strong></div>
         <div>Ph.D. student of BIT</div>
         <div>2020--</div>
     </div>  
-    <div class="team-member">
-        <img src="../group/yaochengtang.jpg" alt="" class="team-member-photo">
-        <div><strong>Chengtang YAO (姚承唐)</strong></div>
-        <div>Ph.D. student of BIT</div>
-        <div>2021--</div>
-    </div>
     <div class="team-member">
         <img src="../group/huangguichen.png" alt="" class="team-member-photo">
         <div><strong>Guichen HUANG (黄贵宸)</strong></div>
@@ -1046,30 +1034,6 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
         <div>Ph.D. student of BIT</div>
         <div>2024--</div>
     </div>
-     <div class="team-member">
-        <img src="../group/yupeilin.jpg" alt="" class="team-member-photo">
-        <div><strong>Peilin YU (余沛霖)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2022--</div>
-    </div>
-    <div class="team-member">
-        <img src="../group/liuxinyu.png" alt="" class="team-member-photo">
-        <div><strong>Xinyu LIU (刘新宇)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2022--</div>
-    </div>
-     <div class="team-member">
-        <img src="../group/zengjiaxi.png" alt="" class="team-member-photo">
-        <div><strong>Jiaxi ZENG (曾嘉禧)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2022--</div>
-    </div>
-     <div class="team-member">
-        <img src="../group/xueyangkai.jpg" alt="" class="team-member-photo">
-        <div><strong>Yangkai XUE (薛阳凯)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2022--</div>
-    </div>
     <div class="team-member">
         <img src="../group/lizhen.jpg" alt="" class="team-member-photo">
         <div><strong>Zhen LI (李祯)</strong></div>
@@ -1079,12 +1043,6 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
      <div class="team-member">
         <img src="../group/liuzhidan.jpg" alt="" class="team-member-photo">
         <div><strong>Zhidan LIU (刘志丹)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2023--</div>
-    </div>
-     <div class="team-member">
-        <img src="../group/maoyuchuan.jpg" alt="" class="team-member-photo">
-        <div><strong>Yuchuan MAO (毛禹川)</strong></div>
         <div>Master student of BIT</div>
         <div>2023--</div>
     </div>
@@ -1115,6 +1073,66 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <br>
 
 ## Previous Graduate Students
+
+<br>
+
+
+
+<strong> Peilin YU (余沛霖) ​</strong>
+
+​​Master student of BIT, 2025​​
+
+now: Assistant Engineer, Institute of Software, Chinese Academy of Sciences, Beijing, China
+
+<br>
+
+<strong>  Yangkai XUE (薛阳凯)​​</strong>
+
+​​Master student of BIT, 2025​​
+
+​​now: Algorithm Engineer, ByteDance, Beijing, China
+
+<br>
+
+
+<strong> Xinyu LIU (刘新宇)</strong>
+
+Master student of BIT, 2025
+
+now: Nanrui Group Co., Ltd, Nanjing, China
+
+<br>
+
+<strong> Yuchuan MAO (毛禹川) </strong>
+
+Master student of BIT, 2025
+
+now: Ph.D. student, Nanjing University, Nanjing, China
+
+<br>
+
+<strong> Jiaxi ZENG（曾嘉禧）</strong> 
+
+Master student of BIT, 2025
+
+now: Algorithm engineer, Weride, Shenzhen, China
+
+<br>
+
+<strong> Dr. Chengtang YAO（姚承唐）</strong> 
+
+Ph.D. student of BlT, 2025
+
+now: Researcher, Microsoft Research Asia, Beijing, China
+
+<br>
+
+
+<strong> Dr. Chuanhao LI（李川皓）</strong> 
+
+Ph.D. student of BlT, 2025
+
+now: Researcher, Shanghai AI Laboratory, Shanghai, China
 
 <br>
 
