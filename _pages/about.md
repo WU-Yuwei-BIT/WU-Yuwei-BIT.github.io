@@ -930,13 +930,15 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 
 
+
 <style>
 .team-members-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(3, 1fr); /* 固定三列 */
     gap: 20px;
     margin: 0 auto;
     max-width: 1200px;
+    width: 100%;
 }
 
 .team-member {
@@ -947,6 +949,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     padding: 15px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     border-radius: 8px;
+    width: 100%; /* 确保占满网格单元格 */
 }
 
 .team-member-photo {
@@ -957,15 +960,17 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
     margin-bottom: 10px;
 }
 
-@media (max-width: 1000px) {
+/* 响应式设计 - 小屏幕调整为2列 */
+@media (max-width: 900px) {
     .team-members-container {
-        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
-@media (max-width: 768px) {
+/* 响应式设计 - 更小屏幕调整为1列 */
+@media (max-width: 600px) {
     .team-members-container {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        grid-template-columns: 1fr;
     }
 }
 </style>
