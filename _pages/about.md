@@ -52,6 +52,7 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与智能系统实验室招生说明V5.pdf))
 
 # News
+- *2025.06*, &nbsp;🎉🎉 One paper is accepted by ICCV2025, congratulations to Chengtang Yao.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025, congratulations to Chuanhao LI.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, congratulations to Pengxiang LI and Zhi GAO.
 - *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025, congratulations to Chuanhao LI and Mingliang ZHAI.
@@ -98,6 +99,19 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 # Selected Publications 
 
 <div class="publications-scrollbox">
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/ICCV25_YAO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-Sourced Compositional Generalization in Visual Question Answering**
+- Chengtang Yao, Lidong Yu, Zhidan Liu, Jiaxi Zeng, **Yuwei Wu**, Yunde Jia.
+- ICCV 2025
+  
+  [[PDF](../paper/ICCV25_YAO.pdf)] [[Project](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)]
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/pipeline/IJCAI25_Li.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -1077,7 +1091,26 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <br>
 
 
+<style>
+.student-scrollbox {
+    height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.student-scrollbox::-webkit-scrollbar {
+    width: 8px;
+}
+.student-scrollbox::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 4px;
+}
+</style>
 
+<div class = "student-scrollbox">
 <strong> Peilin YU (余沛霖) ​</strong>
 
 ​​Master student of BIT, 2025​​
@@ -1223,3 +1256,6 @@ now: CASIC No.3, Beijing, China
 Master student of BIT, 2024
 
 now: Bank of Communications Co., Ltd., Shanghai, China
+
+
+</div>
