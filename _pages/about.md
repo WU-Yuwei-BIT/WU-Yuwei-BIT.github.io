@@ -1093,169 +1093,193 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 <style>
 .student-scrollbox {
-    height: 400px;
+    height: 500px;
     overflow-y: auto;
-    border: 1px solid #ddd;
     padding: 15px;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
+
+.student-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.student-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.student-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+.student-info {
+    font-size: 14px;
+    color: #34495e;
+    line-height: 1.5;
+}
+
+.student-info strong {
+    color: #2c3e50;
+}
+
 .student-scrollbox::-webkit-scrollbar {
     width: 8px;
 }
+
 .student-scrollbox::-webkit-scrollbar-thumb {
-    background: #ccc;
+    background: #bdc3c7;
     border-radius: 4px;
+}
+
+.student-scrollbox::-webkit-scrollbar-thumb:hover {
+    background: #95a5a6;
 }
 </style>
 
-<div class = "student-scrollbox">
-<strong> Peilin YU (余沛霖) ​</strong>
-
-​​Master student of BIT, 2025​​
-
-now: Assistant Engineer, Institute of Software, Chinese Academy of Sciences, Beijing, China
-
-<br>
-
-<strong>  Yangkai XUE (薛阳凯)​​</strong>
-
-​​Master student of BIT, 2025​​
-
-​​now: Algorithm Engineer, ByteDance, Beijing, China
-
-<br>
-
-
-<strong> Xinyu LIU (刘新宇)</strong>
-
-Master student of BIT, 2025
-
-now: Nanrui Group Co., Ltd, Nanjing, China
-
-<br>
-
-<strong> Yuchuan MAO (毛禹川) </strong>
-
-Master student of BIT, 2025
-
-now: Ph.D. student, Nanjing University, Nanjing, China
-
-<br>
-
-<strong> Jiaxi ZENG（曾嘉禧）</strong> 
-
-Master student of BIT, 2025
-
-now: Algorithm engineer, Weride, Shenzhen, China
-
-<br>
-
-<strong> Dr. Chengtang YAO（姚承唐）</strong> 
-
-Ph.D. student of BlT, 2025
-
-now: Researcher, Microsoft Research Asia, Beijing, China
-
-<br>
-
-
-<strong> Dr. Chuanhao LI（李川皓）</strong> 
-
-Ph.D. student of BlT, 2025
-
-now: Researcher, Shanghai AI Laboratory, Shanghai, China
-
-<br>
-
-<strong>Dr.Zhi GAO (高志)</strong> 
-
-Ph.D. student of BIT,2023
-
-now: Postdoc Research Fellow, Peking University, Beijing, China
-
-<br>
-
-<strong>Dr.Che SUN (孙澈)</strong>
-
-Ph.D. student of BIT,2023 (co-supervise with Prof. Yunde Jia) 
-
-now: Postdoc Research Fellow, Tsinghua University, Beijing, China 
-
-<br>
-
-<strong>Dr. Chenchen JING (景宸琛)</strong>
-
-Ph.D. student of BIT, 2022 (co-supervise with Prof. Yunde Jia) 
-
-now: Postdoc Research Fellow, Zhejiang University, Hangzhou, China
-
-
-<br>
-
-
-<strong>Dr. Weichao SHEN (沈伟超)</strong>
-
-Ph.D. student of BIT, 2021 (co-supervise with Prof. Yunde Jia) 
-
-now: Alibaba DAMO Academy for Discovery, Beijing, China 
-
-<br>
-
-<strong>Wei JIANG (姜玮)</strong>
-
-Master student of BIT, 2020
-
-now: Alibaba, Beijing, China
-
-
-<br>
-
-
-<strong>Jindou DAI (戴金豆)</strong>
-
-Master student of BIT, 2022
-
-now: Alibaba, Beijing, China
-
-
-<br>
-
-
-<strong>Jingyu SU (苏静宇)</strong>
-
-Master student of BIT, 2022
-
-now: Putian University, Putian, China
-
-
-<br>
-
-
-<strong>Xiangjun GAO (高祥君)</strong>
-
-Master student of BIT, 2023
-
-now: Ph.D. student of HKUST, Hong Kong, China
-
-<br>
-
-
-<strong>Tianshuo MA (马天朔)</strong>
-
-Master student of BIT, 2023
-
-now: CASIC No.3, Beijing, China
-
-<br>
-
-
-<strong>Zhiyu YAN (晏直誉)</strong>
-
-Master student of BIT, 2024
-
-now: Bank of Communications Co., Ltd., Shanghai, China
-
-
+<div class="student-scrollbox">
+    <div class="student-card">
+        <div class="student-name">Peilin YU (余沛霖)</div>
+        <div class="student-info">
+            Master student of BIT, 2025<br>
+            <strong>Now:</strong> Assistant Engineer, Institute of Software, Chinese Academy of Sciences, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Yangkai XUE (薛阳凯)</div>
+        <div class="student-info">
+            Master student of BIT, 2025<br>
+            <strong>Now:</strong> Algorithm Engineer, ByteDance, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Xinyu LIU (刘新宇)</div>
+        <div class="student-info">
+            Master student of BIT, 2025<br>
+            <strong>Now:</strong> Nanrui Group Co., Ltd, Nanjing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Yuchuan MAO (毛禹川)</div>
+        <div class="student-info">
+            Master student of BIT, 2025<br>
+            <strong>Now:</strong> Ph.D. student, Nanjing University, Nanjing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Jiaxi ZENG (曾嘉禧)</div>
+        <div class="student-info">
+            Master student of BIT, 2025<br>
+            <strong>Now:</strong> Algorithm engineer, Weride, Shenzhen, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Dr. Chengtang YAO (姚承唐)</div>
+        <div class="student-info">
+            Ph.D. student of BIT, 2025<br>
+            <strong>Now:</strong> Researcher, Microsoft Research Asia, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Dr. Chuanhao LI (李川皓)</div>
+        <div class="student-info">
+            Ph.D. student of BIT, 2025<br>
+            <strong>Now:</strong> Researcher, Shanghai AI Laboratory, Shanghai, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Dr. Zhi GAO (高志)</div>
+        <div class="student-info">
+            Ph.D. student of BIT, 2023<br>
+            <strong>Now:</strong> Postdoc Research Fellow, Peking University, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Dr. Che SUN (孙澈)</div>
+        <div class="student-info">
+            Ph.D. student of BIT, 2023 (co-supervised with Prof. Yunde Jia)<br>
+            <strong>Now:</strong> Postdoc Research Fellow, Tsinghua University, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Dr. Chenchen JING (景宸琛)</div>
+        <div class="student-info">
+            Ph.D. student of BIT, 2022 (co-supervised with Prof. Yunde Jia)<br>
+            <strong>Now:</strong> Postdoc Research Fellow, Zhejiang University, Hangzhou, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Dr. Weichao SHEN (沈伟超)</div>
+        <div class="student-info">
+            Ph.D. student of BIT, 2021 (co-supervised with Prof. Yunde Jia)<br>
+            <strong>Now:</strong> Alibaba DAMO Academy for Discovery, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Wei JIANG (姜玮)</div>
+        <div class="student-info">
+            Master student of BIT, 2020<br>
+            <strong>Now:</strong> Alibaba, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Jindou DAI (戴金豆)</div>
+        <div class="student-info">
+            Master student of BIT, 2022<br>
+            <strong>Now:</strong> Alibaba, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Jingyu SU (苏静宇)</div>
+        <div class="student-info">
+            Master student of BIT, 2022<br>
+            <strong>Now:</strong> Putian University, Putian, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Xiangjun GAO (高祥君)</div>
+        <div class="student-info">
+            Master student of BIT, 2023<br>
+            <strong>Now:</strong> Ph.D. student of HKUST, Hong Kong, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Tianshuo MA (马天朔)</div>
+        <div class="student-info">
+            Master student of BIT, 2023<br>
+            <strong>Now:</strong> CASIC No.3, Beijing, China
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Zhiyu YAN (晏直誉)</div>
+        <div class="student-info">
+            Master student of BIT, 2024<br>
+            <strong>Now:</strong> Bank of Communications Co., Ltd., Shanghai, China
+        </div>
+    </div>
 </div>
