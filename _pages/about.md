@@ -104,7 +104,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/ICCV25_YAO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Multi-Sourced Compositional Generalization in Visual Question Answering**
+**Diving into the Fusion of Monocular Priors for Generalized Stereo Matching**
 - Chengtang Yao, Lidong Yu, Zhidan Liu, Jiaxi Zeng, **Yuwei Wu**, Yunde Jia.
 - ICCV 2025
   
