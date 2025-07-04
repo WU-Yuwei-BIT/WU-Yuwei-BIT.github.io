@@ -52,7 +52,7 @@ Yuwei WU received the Ph.D. degree in computer science from Beijing Institute of
 I am always looking for highly motivated Master and Ph.D. students who have excellent mathematic and programming skills to work on 3D vision, vision and language modeling, and Riemannian manifold analytics. Please do not hesitate to send me your CV, if you are interested in our group. (每年计划招收博士生2-3名，硕士生2名，欢迎对计算机视觉、多媒体分析、机器学习等领域研究有兴趣的同学加入课题组：[详细招生信息](../recruitment/媒体计算与智能系统实验室招生说明V5.pdf))
 
 # News
-<div style="height: 300px; overflow-y: auto; border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; background-color: #f6f8fa; line-height: 1.6;">
+<div style="height: 300px; overflow-y: auto; padding: 10px; background-color: white; color: black; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; line-height: 1.8;">
 - *2025.06*, &nbsp;🎉🎉 One paper is accepted by ICCV2025, congratulations to Chengtang Yao.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025, congratulations to Chuanhao LI.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, congratulations to Pengxiang LI and Zhi GAO.
