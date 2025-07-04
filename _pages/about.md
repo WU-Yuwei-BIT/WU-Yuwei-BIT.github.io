@@ -53,48 +53,48 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 # News
 <div style="height: 300px; overflow-y: auto; padding: 10px; background-color: white; color: black; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; line-height: 1.8;">
-- *2025.06*, &nbsp;🎉🎉 One paper is accepted by ICCV2025, congratulations to Chengtang Yao.
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025, congratulations to Chuanhao LI.
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, congratulations to Pengxiang LI and Zhi GAO.
-- *2024.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025, congratulations to Chuanhao LI and Mingliang ZHAI.
-- *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2024, and one paper is accepted by EMNLP 2024, congratulations to Chuanhao LI and Pengxiang LI.
-- *2024.08*: &nbsp;🎉🎉 One paper concerning stereo mathching is accepted by IEEE T-CSVT, congratulations to Pengxiang LI.
-- *2024.07*: &nbsp;🎉🎉 Two papers are accepted by ECCV2024, congratulations to Jiaxi ZENG and Chuanhao LI.
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2024, congratulations to Yangkai XUE. 
-- *2023.10*: &nbsp;🎉🎉 Zhi GAO received Distinguished Dissertation Award from SIGAICHINA, congratulations!
-- *2023.06*: &nbsp;🎉🎉 Three papers are accepted by ICCV2023, congratulations to Chenrui SHI, Jiaxi ZENG and Chengtang YAO.
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI2023, congratulations to Mingliang ZHAI.
-- *2023.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR2023, congratulations to Zhi GAO and Chuanhao LI.
-- *2023.01*: &nbsp;🎉🎉 Chuanhao LI and Mingliang ZHAI received the second prize in the multi-modal technology innovation competition of the first "Xingzhi Cup" National Artificial Intelligence Innovation Application Competition.
-- *2022.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2023, congratulations to Che SUN.
-- *2022.12*: &nbsp;🎉🎉 Che SUN successfully defended his Ph.D. thesis, congratulations Dr. SUN.
-- *2022.10*: &nbsp;🎉🎉 Our "Learning to Optimize on Riemannian Manifolds" paper is accepted by T-PAMI, congratulations to Zhi GAO.
-- *2022.09*: &nbsp;🎉🎉 Guangdong Provincial Key Laboratory of Machine Perception and Intelligent Computing was approved. Our team has another base in Shenzhen.
-- *2022.08*: &nbsp;🎉🎉 One paper is accepted by NeurIPS2022, congratulations to Zhi GAO.
-- *2022.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM2022, congratulations to Che SUN.
-- *2022.07*: &nbsp;🎉🎉 Chenchen JING received outstanding Ph.D. Thesis award from BIT, congratulations.
-- *2022.07*: &nbsp;🎉🎉 Jindou DAI received outstanding Master Thesis award from BIT, congratulations.
-- *2022.06*: &nbsp;🎉🎉 Chenchen JING successfully defended his Ph.D. thesis, congratulations Dr. JING.
-- *2022.04*: &nbsp;🎉🎉 Our "Curvature-Adaptive Meta-Learning" paper is accepted by T-PAMI, congratulations to Zhi GAO.
-- *2022.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR2022, congratulations to Che SUN and Chenchen JING.
-- *2021.12*: &nbsp;🎉🎉 Two papers are accepted by AAAI2022, congratulations to Chenchen JING and Xiaomeng FAN.
-- *2021.07*: &nbsp;🎉🎉 Weichao SHEN received outstanding Ph.D. Thesis award from BIT, congratulations.
-- *2021.06*: &nbsp;🎉🎉 Weichao SHEN successfully defended his Ph.D. thesis, congratulations Dr. SHEN.
-- *2021.06*: &nbsp;🎉🎉 One paper is accepted by ICCV2021, congratulations to Zhi GAO.
-- *2021.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR2021, including one oral, congratulations to Chentang YAO and Jindou DAI.
-- *2020.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2021, congratulations to Xiaomeng FAN.
-- *2020.07*: &nbsp;🎉🎉 Two papers are accepted by ACM MM2020, congratulations to Che SUN and Chenchen JING.
-- *2020.07*: &nbsp;🎉🎉 Our paper about abnormal event detection is accepted by IEEE T-MM, congratulations to Che SUN.
-- *2020.06*: &nbsp;🎉🎉 Yanmei DONG successfully defended her Ph.D. thesis, congratulations Dr. DONG!
-- *2020.05*: &nbsp;🎉🎉 Our paper about face spoofing detection is accepted by IEEE T-IFS, congratulations to Chengtang YAO.
-- *2020.02*: &nbsp;🎉🎉 One paper concerning SPD Riemannian optimization is accepted by CVPR2020, congratulations to Zhi GAO.
-- *2019.11*: &nbsp;🎉🎉 Two papers are accepted by AAAI2020, congratulations to Zhi GAO and Chenchen JING.
-- *2019.11*: &nbsp;🎉🎉 Zhi GAO’s work on the SPD Manifold is accepted by IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), congratulations!
-- *2019.07*: &nbsp;🎉🎉 Lidong YU received outstanding Master Thesis award from BIT, congratulations!
-- *2019.06*: &nbsp;🎉🎉 Lidong YU, Lijia ZHANG, and Wenji WANG successfully defended their Master thesis, congratulations!
-- *2019.06*: &nbsp;🎉🎉 Weichao SHEN’s work on 3D shape reconstruction is presented at CVPR'19 as an oral paper.
-- *2019.03*: &nbsp;🎉🎉 One paper is accepted by CVPR'19 as an oral paper, congratulations to Weichao SHEN.
-- *2019.02*: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.
+<p>- <strong>2025.06</strong>, &nbsp;🎉🎉 One paper is accepted by ICCV2025, congratulations to Chengtang Yao.</p>
+<p>- <strong>2025.05</strong>: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025, congratulations to Chuanhao LI.</p>
+<p>- <strong>2025.01</strong>: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, congratulations to Pengxiang LI and Zhi GAO.</p>
+<p>- <strong>2024.12</strong>: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025, congratulations to Chuanhao LI and Mingliang ZHAI.</p>
+<p>- <strong>2024.09</strong>: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2024, and one paper is accepted by EMNLP 2024, congratulations to Chuanhao LI and Pengxiang LI.</p>
+<p>- <strong>2024.08</strong>: &nbsp;🎉🎉 One paper concerning stereo mathching is accepted by IEEE T-CSVT, congratulations to Pengxiang LI.</p>
+<p>- <strong>2024.07</strong>: &nbsp;🎉🎉 Two papers are accepted by ECCV2024, congratulations to Jiaxi ZENG and Chuanhao LI.</p>
+<p>- <strong>2023.12</strong>: &nbsp;🎉🎉 One paper is accepted by AAAI2024, congratulations to Yangkai XUE. </p>
+<p>- <strong>2023.10</strong>: &nbsp;🎉🎉 Zhi GAO received Distinguished Dissertation Award from SIGAICHINA, congratulations!</p>
+<p>- <strong>2023.06</strong>: &nbsp;🎉🎉 Three papers are accepted by ICCV2023, congratulations to Chenrui SHI, Jiaxi ZENG and Chengtang YAO.</p>
+<p>- <strong>2023.04</strong>: &nbsp;🎉🎉 One paper is accepted by IJCAI2023, congratulations to Mingliang ZHAI.</p>
+<p>- <strong>2023.03</strong>: &nbsp;🎉🎉 Two papers are accepted by CVPR2023, congratulations to Zhi GAO and Chuanhao LI.</p>
+<p>- <strong>2023.01</strong>: &nbsp;🎉🎉 Chuanhao LI and Mingliang ZHAI received the second prize in the multi-modal technology innovation competition of the first "Xingzhi Cup" National Artificial Intelligence Innovation Application Competition.</p>
+<p>- <strong>2022.12</strong>: &nbsp;🎉🎉 One paper is accepted by AAAI2023, congratulations to Che SUN.</p>
+<p>- <strong>2022.12</strong>: &nbsp;🎉🎉 Che SUN successfully defended his Ph.D. thesis, congratulations Dr. SUN.</p>
+<p>- <strong>2022.10</strong>: &nbsp;🎉🎉 Our "Learning to Optimize on Riemannian Manifolds" paper is accepted by T-PAMI, congratulations to Zhi GAO.</p>
+<p>- <strong>2022.09</strong>: &nbsp;🎉🎉 Guangdong Provincial Key Laboratory of Machine Perception and Intelligent Computing was approved. Our team has another base in Shenzhen.</p>
+<p>- <strong>2022.08</strong>: &nbsp;🎉🎉 One paper is accepted by NeurIPS2022, congratulations to Zhi GAO.</p>
+<p>- <strong>2022.07</strong>: &nbsp;🎉🎉 One paper is accepted by ACM MM2022, congratulations to Che SUN.</p>
+<p>- <strong>2022.07</strong>: &nbsp;🎉🎉 Chenchen JING received outstanding Ph.D. Thesis award from BIT, congratulations.</p>
+<p>- <strong>2022.07</strong>: &nbsp;🎉🎉 Jindou DAI received outstanding Master Thesis award from BIT, congratulations.</p>
+<p>- <strong>2022.06</strong>: &nbsp;🎉🎉 Chenchen JING successfully defended his Ph.D. thesis, congratulations Dr. JING.</p>
+<p>- <strong>2022.04</strong>: &nbsp;🎉🎉 Our "Curvature-Adaptive Meta-Learning" paper is accepted by T-PAMI, congratulations to Zhi GAO.</p>
+<p>- <strong>2022.03</strong>: &nbsp;🎉🎉 Two papers are accepted by CVPR2022, congratulations to Che SUN and Chenchen JING.</p>
+<p>- <strong>2021.12</strong>: &nbsp;🎉🎉 Two papers are accepted by AAAI2022, congratulations to Chenchen JING and Xiaomeng FAN.</p>
+<p>- <strong>2021.07</strong>: &nbsp;🎉🎉 Weichao SHEN received outstanding Ph.D. Thesis award from BIT, congratulations.</p>
+<p>- <strong>2021.06</strong>: &nbsp;🎉🎉 Weichao SHEN successfully defended his Ph.D. thesis, congratulations Dr. SHEN.</p>
+<p>- <strong>2021.06</strong>: &nbsp;🎉🎉 One paper is accepted by ICCV2021, congratulations to Zhi GAO.</p>
+<p>- <strong>2021.03</strong>: &nbsp;🎉🎉 Two papers are accepted by CVPR2021, including one oral, congratulations to Chentang YAO and Jindou DAI.</p>
+<p>- <strong>2020.12</strong>: &nbsp;🎉🎉 One paper is accepted by AAAI2021, congratulations to Xiaomeng FAN.</p>
+<p>- <strong>2020.07</strong>: &nbsp;🎉🎉 Two papers are accepted by ACM MM2020, congratulations to Che SUN and Chenchen JING.</p>
+<p>- <strong>2020.07</strong>: &nbsp;🎉🎉 Our paper about abnormal event detection is accepted by IEEE T-MM, congratulations to Che SUN.</p>
+<p>- <strong>2020.06</strong>: &nbsp;🎉🎉 Yanmei DONG successfully defended her Ph.D. thesis, congratulations Dr. DONG!</p>
+<p>- <strong>2020.05</strong>: &nbsp;🎉🎉 Our paper about face spoofing detection is accepted by IEEE T-IFS, congratulations to Chengtang YAO.</p>
+<p>- <strong>2020.02</strong>: &nbsp;🎉🎉 One paper concerning SPD Riemannian optimization is accepted by CVPR2020, congratulations to Zhi GAO.</p>
+<p>- <strong>2019.11</strong>: &nbsp;🎉🎉 Two papers are accepted by AAAI2020, congratulations to Zhi GAO and Chenchen JING.</p>
+<p>- <strong>2019.11</strong>: &nbsp;🎉🎉 Zhi GAO’s work on the SPD Manifold is accepted by IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), congratulations!</p>
+<p>- <strong>2019.07</strong>: &nbsp;🎉🎉 Lidong YU received outstanding Master Thesis award from BIT, congratulations!</p>
+<p>- <strong>2019.06</strong>: &nbsp;🎉🎉 Lidong YU, Lijia ZHANG, and Wenji WANG successfully defended their Master thesis, congratulations!</p>
+<p>- <strong>2019.06</strong>: &nbsp;🎉🎉 Weichao SHEN’s work on 3D shape reconstruction is presented at CVPR'19 as an oral paper.</p>
+<p>- <strong>2019.03</strong>: &nbsp;🎉🎉 One paper is accepted by CVPR'19 as an oral paper, congratulations to Weichao SHEN.</p>
+<p>- <strong>2019.02</strong>: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.</p>
 </div>
 # Selected Publications 
 
