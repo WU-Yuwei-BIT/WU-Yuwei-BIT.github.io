@@ -53,8 +53,11 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 # News
 <div style="height: 300px; overflow-y: auto; padding: 10px; background-color: white; color: black; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; line-height: 1.8;">
+<p>- <strong>2025.06</strong>: &nbsp;🎉🎉 Chengtang Yao and Chuanhao Li received outstanding Ph.D. Thesis award from BIT, congratulations.</p>
+<p>- <strong>2025.06</strong>: &nbsp;🎉🎉 Chengtang Yao successfully defended his Ph.D. thesis, congratulations Dr. Yao.</p>
 <p>- <strong>2025.06</strong>, &nbsp;🎉🎉 One paper is accepted by ICCV2025, congratulations to Chengtang Yao.</p>
 <p>- <strong>2025.05</strong>: &nbsp;🎉🎉 One paper is accepted by IJCAI 2025, congratulations to Chuanhao LI.</p>
+<p>- <strong>2025.03</strong>: &nbsp;🎉🎉 Chuanhao Li successfully defended his Ph.D. thesis, congratulations Dr. Li.</p>
 <p>- <strong>2025.01</strong>: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, congratulations to Pengxiang LI and Zhi GAO.</p>
 <p>- <strong>2024.12</strong>: &nbsp;🎉🎉 Two papers are accepted by AAAI 2025, congratulations to Chuanhao LI and Mingliang ZHAI.</p>
 <p>- <strong>2024.09</strong>: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2024, and one paper is accepted by EMNLP 2024, congratulations to Chuanhao LI and Pengxiang LI.</p>
