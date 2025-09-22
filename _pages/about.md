@@ -1054,14 +1054,26 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
         <div>2024--</div>
     </div>
     <div class="team-member">
-        <img src="../group/lizhen.jpg" alt="" class="team-member-photo">
-        <div><strong>Zhen LI (李祯)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2023--</div>
+        <img src="../group/zhanghaoyu.jpg" alt="" class="team-member-photo">
+        <div><strong>Haoyu ZHANG (张皓禹)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2025--</div>
     </div>
-     <div class="team-member">
+    <div class="team-member">
+        <img src="../group/gaorui.jpg" alt="" class="team-member-photo">
+        <div><strong>Rui GAO (高瑞)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2025--</div>
+    </div>
+    <div class="team-member">
         <img src="../group/liuzhidan.jpg" alt="" class="team-member-photo">
         <div><strong>Zhidan LIU (刘志丹)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2025--</div>
+    </div>
+    <div class="team-member">
+        <img src="../group/lizhen.jpg" alt="" class="team-member-photo">
+        <div><strong>Zhen LI (李祯)</strong></div>
         <div>Master student of BIT</div>
         <div>2023--</div>
     </div>
@@ -1082,6 +1094,36 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
         <div><strong>Wei WU (吴为)</strong></div>
         <div>Master student of BIT</div>
         <div>2024--</div>
+    </div>
+     <div class="team-member">
+        <img src="../group/liubingzhen.jpg" alt="" class="team-member-photo">
+        <div><strong>Bingzhen LIU (刘炳臻)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2025--</div>
+    </div>
+     <div class="team-member">
+        <img src="../group/youboshi.jpg" alt="" class="team-member-photo">
+        <div><strong>Boshi YOU (由博什)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2025--</div>
+    </div>
+     <div class="team-member">
+        <img src="../group/chenqi.jpg" alt="" class="team-member-photo">
+        <div><strong>Qi CHEN (陈齐)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2025--</div>
+    </div>
+     <div class="team-member">
+        <img src="../group/zhangxinjie.jpg" alt="" class="team-member-photo">
+        <div><strong>Xinjie ZHANG (张欣杰)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2025--</div>
+    </div>
+     <div class="team-member">
+        <img src="../group/yanghaobo.jpg" alt="" class="team-member-photo">
+        <div><strong>Haobo YANG (杨浩博)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2025--</div>
     </div>
 </div>
 
