@@ -106,6 +106,52 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class="publications-scrollbox">
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/pipeline/neurips2025_lz.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Sekai: A Video Dataset towards World Exploration**
+- Zhen Li, Chuanhao Li, Xiaofeng Mao, Shaoheng Lin, Ming Li, Shitian Zhao, Zhaopan Xu, Xinyue Li, Yukang Feng, Jianwen Sun, Zizhen Li, Fanrui Zhang, Jiaxin Ai, ZhixiangWang,**Yuwei Wu**, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, Kaipeng Zhang.
+- NeurIPS 2025
+  
+  [[PDF](../paper/neurips2025_lz.pdf)] [[Project](https://lixsp11.github.io/sekai-project/)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/pipeline/neurips2025_fxm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond the Seen: Bounded Distribution Estimation for Open-Vocabulary Learning**
+- Xiaomeng Fan, Yuchuan Mao, Zhi Gao,**Yuwei Wu**, Jin Chen, Yunde Jia.
+- NeurIPS 2025
+  
+  [[PDF](../paper/neurips2025_fxm.pdf)] [[Project](https://github.com/Beyond-the-Seen-NeurIPS)]
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/pipeline/neurips2025_lpx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning**
+- Pengxiang Li, Zhi Gao, Bofei Zhang, Yapeng Mi, Xiaojian Ma, Chenrui Shi, Tao Yuan, **Yuwei Wu**, Yunde Jia, Song-Chun Zhu, Qing Li.
+- NeurIPS 2025
+
+  [[PDF](../paper/neurips2025_lpx.pdf)] [[Project](https://sport-agents.github.io/)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/pipeline/neurips2025_yao.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**3D Visual Illusion Depth Estimation**
+- Chengtang Yao, Zhidan Liu, Jiaxi Zeng, Lidong Yu, **Yuwei Wu**, Yunde Jia.
+- NeurIPS 2025
+  
+  [[PDF](../paper/neurips2025_yao.pdf)] [[Project](https://github.com/YaoChengTang/3D-Visual-Illusion-Depth-Estimation)]
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/ICCV25_YAO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -1126,7 +1172,6 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
         <div>2025--</div>
     </div>
 </div>
-
 
 
 
