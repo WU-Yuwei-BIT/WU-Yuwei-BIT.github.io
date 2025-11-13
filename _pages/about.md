@@ -102,8 +102,11 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <p>- <strong>2019.06</strong>: &nbsp;🎉🎉 Weichao SHEN’s work on 3D shape reconstruction is presented at CVPR'19 as an oral paper.</p>
 <p>- <strong>2019.03</strong>: &nbsp;🎉🎉 One paper is accepted by CVPR'19 as an oral paper, congratulations to Weichao SHEN.</p>
 <p>- <strong>2019.02</strong>: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.</p>
+
 </div>
+
 # Selected Publications 
+
 
 <div class="publications-scrollbox">
 
