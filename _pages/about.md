@@ -53,8 +53,6 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 # News
 <div style="height: 300px; overflow-y: auto; padding: 10px; background-color: white; color: black; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; line-height: 1.8;">
-<p>- <strong>2025.11</strong>: &nbsp;🎉🎉 Two papers are accepted by AAAI2026, congratulations to Guichen HUANG and Zhen LI.
-<p>- <strong>2025.10</strong>: &nbsp;🎉🎉 One paper is accepted by IEEE T-NNLS, congratulations to Xiaomeng FAN.
 <p>- <strong>2025.09</strong>: &nbsp;🎉🎉 Four papers are accepted by NeurIPS2025, congratulations to Chengtang YAO, Xiaomeng FAN, Pengxiang LI, and Zhen LI.</p>
 <p>- <strong>2025.08</strong>: &nbsp;🎉🎉 One paper is accepted by IJCV, congratulations to Xiaomeng FAN.</p>
 <p>- <strong>2025.06</strong>: &nbsp;🎉🎉 Chengtang Yao and Chuanhao Li received outstanding Ph.D. Thesis award from BIT, congratulations.</p>
@@ -102,11 +100,8 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <p>- <strong>2019.06</strong>: &nbsp;🎉🎉 Weichao SHEN’s work on 3D shape reconstruction is presented at CVPR'19 as an oral paper.</p>
 <p>- <strong>2019.03</strong>: &nbsp;🎉🎉 One paper is accepted by CVPR'19 as an oral paper, congratulations to Weichao SHEN.</p>
 <p>- <strong>2019.02</strong>: &nbsp;🎉🎉 Two papers are published on Patter Recognition (PR), congratulations to Xingyuan BU and Zhi GAO.</p>
-
 </div>
-
 # Selected Publications 
-
 
 <div class="publications-scrollbox">
 
