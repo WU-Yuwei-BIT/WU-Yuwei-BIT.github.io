@@ -108,6 +108,20 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div class="publications-scrollbox">
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/pipeline/TNNLS2025_Fan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Riemannian Implicit Differentiation via a Fixed-Point Equation for Riemannian Bilevel Optimization**
+- Xiaomeng Fan,**Yuwei Wu**, Zhi Gao, Zhipeng Lu, Feng Li, Mehrtash Harandi, Yunde Jia.
+- TNNLS 2025
+  
+  [[PDF](../paper/TNNLS2025_Fan.pdf)] [[Project](https://github.com/XiaomengFanmcislab/Riemannian-implicit-differentiation)]
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/pipeline/neurips2025_lz.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -152,6 +166,19 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
   [[PDF](../paper/neurips2025_yao.pdf)] [[Project](https://github.com/YaoChengTang/3D-Visual-Illusion-Depth-Estimation)]
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/pipeline/IJCV2025_Fan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Curvature Learning for Generalization of Hyperbolic Neural Networks**
+- Xiaomeng Fan,**Yuwei Wu**, Zhi Gao, Mehrtash Harandi, Yunde Jia.
+- IJCV 2025
+  
+  [[PDF](../paper/IJCV2025_Fan.pdf)] [[Project](https://github.com/XiaomengFanmcislab/ijcv_curvature_learning_for_generalization/)]
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline/ICCV25_YAO.png' alt="sym" width="100%"></div></div>
