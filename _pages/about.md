@@ -54,6 +54,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 # News
 <div style="height: 300px; overflow-y: auto; padding: 10px; background-color: white; color: black; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; line-height: 1.8;">
 
+<p>- <strong>2026.06</strong>: &nbsp;🎉🎉 One paper is accepted by  2026, congratulations to  Zhen LI. </p>
 <p>- <strong>2026.01</strong>: &nbsp;🎉🎉 One paper is accepted by ICLR 2026, congratulations to  Wei WU. </p>
 <p>- <strong>2025.11</strong>: &nbsp;🎉🎉 Two papers are accepted by AAAI2026, congratulations to Guichen HUANG and Zhen LI.</p>
 <p>- <strong>2025.10</strong>: &nbsp;🎉🎉 One paper is accepted by IEEE T-NNLS, congratulations to Xiaomeng FAN.</p>
@@ -109,6 +110,18 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 <div class="publications-scrollbox">
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/pipeline/ECCV2026_Li.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Large-Scale Game Video Dataset with Action and State Annotations**
+- Zhen Li, Zian Meng, Shuwei Shi, Wenshuo Peng, Bo Zheng, Yunde Jia, **Yuwei Wu**, Chuanhao Li, and Kaipeng Zhang
+- ECCV 2026
+  
+  [[PDF](../paper/ECCV2026_Li.pdf)] [[Project](https://alaya-studio.github.io/wildworld-project/)]
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/pipeline/ICLR2026_Wu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
