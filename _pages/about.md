@@ -54,7 +54,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 # News
 <div style="height: 300px; overflow-y: auto; padding: 10px; background-color: white; color: black; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; line-height: 1.8;">
 
-<p>- <strong>2026.06</strong>: &nbsp;🎉🎉 One paper is accepted by  2026, congratulations to  Zhen LI. </p>
+<p>- <strong>2026.06</strong>: &nbsp;🎉🎉 One paper is accepted by  ECCV 2026, congratulations to  Zhen LI. </p>
 <p>- <strong>2026.01</strong>: &nbsp;🎉🎉 One paper is accepted by ICLR 2026, congratulations to  Wei WU. </p>
 <p>- <strong>2025.11</strong>: &nbsp;🎉🎉 Two papers are accepted by AAAI2026, congratulations to Guichen HUANG and Zhen LI.</p>
 <p>- <strong>2025.10</strong>: &nbsp;🎉🎉 One paper is accepted by IEEE T-NNLS, congratulations to Xiaomeng FAN.</p>
