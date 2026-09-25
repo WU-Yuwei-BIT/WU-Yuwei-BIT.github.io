@@ -117,6 +117,30 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/pipeline/ACM_MM2026_Chenrui.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Human-Preference Aligned Listener Facial Expression Generation in Natural Dyadic Interaction**
+- Xu Chen, Rui Gao, Che Sun, Xinjie Zhang, Haoyu Zhang, Zhi Gao, **Yuwei Wu**, and Yunde Jia
+- ACM MM 2026
+
+  [[PDF](../paper/ACM_MM2026_Chenrui.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/pipeline/2026RAL_Chenquan.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Video-Grounded Verification for Long-Horizon Visual Imitation Learning**
+- Quan Chen, Chenrui Shi, Qi Chen, **Yuwei Wu**, Xintong Zhang, Rui Gao, Haoyu Zhang, Zhi Gao, Che Sun, Kun Wu, and
+Yunde Jia
+- IEEE Robotics and Automation Letters (RA-L), 2026
+
+  [[PDF](../paper/2026RAL_Chenquan.pdf)]
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/pipeline/ECCV2026_Li.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
