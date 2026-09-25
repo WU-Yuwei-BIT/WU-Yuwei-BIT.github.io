@@ -117,6 +117,39 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/pipeline/EMNLP2026_ZhangXintong.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process**
+- Xintong Zhang, Xiaowen Zhang, Jingrong Wu, Zhi Gao, Shilin Yan, Zhenxin Diao, Kunpeng Gao, Xuanyan Chen, **Yuwei Wu**, Yunde Jia, and Qing Li
+- EMNLP 2026
+
+  [[PDF](../paper/EMNLP2026_ZhangXintong.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/pipeline/EMNLP2026_ZhangHaoyu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bridging Modality Disconnect in Self-Reflection via Closed-Loop Visually Grounded Verification**
+- Haoyu Zhang, **Yuwei Wu**, Pengxiang Li, Xintong Zhang, Zhi Gao, Rui Gao, Mingyang Gao, Che Sun, and Yunde Jia
+- EMNLP 2026
+
+  [[PDF](../paper/EMNLP2026_ZhangHaoyu.pdf)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/pipeline/EMNLP2026_LiPengxiang.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Efficient Multi-turn RL for GUI Agents via Decoupled Training and Adaptive Data Curation**
+- Pengxiang Li, Zechen Hu, Zirui Shang, Jingrong Wu, Yang Liu, Hui Liu, Zhi Gao, Chenrui Shi, Bofei Zhang, Zihao Zhang, Xiaochuan Shi, Zedong Yu, **Yuwei Wu**, Xinxiao Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, and Qing Li
+- EMNLP 2026
+
+  [[PDF](../paper/EMNLP2026_LiPengxiang.pdf)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/pipeline/ACM_MM2026_Chenrui.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
