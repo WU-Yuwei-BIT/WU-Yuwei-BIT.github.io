@@ -117,6 +117,17 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/pipeline/EMNLP2026_FanXiaomeng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reliability-Prioritized Fine-Grained Generation in Multimodal Large Language Models**
+- Xiaomeng Fan, Wei Wu, **Yuwei Wu**, Zhi Gao, Shiyu Luo, Mingyang Gao, Haoyu Zhao, Zhenxin Diao, Yuxuan Ba, Lijia Feng, Yunde Jia, and Mehrtash Harandi
+- EMNLP 2026
+
+  [[PDF](../paper/EMNLP2026_FanXiaomegn.pdf)] [[Project](https://github.com/WeiWu2025/GranFact)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/pipeline/EMNLP2026_ZhangXintong.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -124,7 +135,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Xintong Zhang, Xiaowen Zhang, Jingrong Wu, Zhi Gao, Shilin Yan, Zhenxin Diao, Kunpeng Gao, Xuanyan Chen, **Yuwei Wu**, Yunde Jia, and Qing Li
 - EMNLP 2026
 
-  [[PDF](../paper/EMNLP2026_ZhangXintong.pdf)]
+  [[PDF](../paper/EMNLP2026_ZhangXintong.pdf)] [[Project](https://adaptmmbench.github.io/)]
 </div>
 </div>
 
@@ -146,7 +157,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 - Pengxiang Li, Zechen Hu, Zirui Shang, Jingrong Wu, Yang Liu, Hui Liu, Zhi Gao, Chenrui Shi, Bofei Zhang, Zihao Zhang, Xiaochuan Shi, Zedong Yu, **Yuwei Wu**, Xinxiao Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, and Qing Li
 - EMNLP 2026
 
-  [[PDF](../paper/EMNLP2026_LiPengxiang.pdf)]
+  [[PDF](../paper/EMNLP2026_LiPengxiang.pdf)] [[Project](https://computer-use-agents.github.io/dart-gui/)]
 </div>
 </div>
 
@@ -169,7 +180,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 Yunde Jia
 - IEEE Robotics and Automation Letters (RA-L), 2026
 
-  [[PDF](../paper/2026RAL_Chenquan.pdf)]
+  [[PDF](../paper/2026RAL_Chenquan.pdf)] [[Project](https://longvil-agent.github.io/)]
 </div>
 </div>
 
