@@ -1269,18 +1269,6 @@ Yunde Jia
         <div>Ph.D. student of BIT</div>
         <div>2025--</div>
     </div>
-    <div class="team-member">
-        <img src="../group/lizhen.jpg" alt="" class="team-member-photo">
-        <div><strong>Zhen LI (李祯)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2023--</div>
-    </div>
-     <div class="team-member">
-        <img src="../group/lizhaoyi.jpg" alt="" class="team-member-photo">
-        <div><strong>Zhaoyi LI (李昭驿)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2023--</div>
-    </div>
      <div class="team-member">
         <img src="../group/chenquan.jpg" alt="" class="team-member-photo">
         <div><strong>Quan CHEN (陈全)</strong></div>
@@ -1320,6 +1308,36 @@ Yunde Jia
      <div class="team-member">
         <img src="../group/yanghaobo.jpg" alt="" class="team-member-photo">
         <div><strong>Haobo YANG (杨浩博)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2025--</div>
+    </div>
+    <div class="team-member">
+        <img src="../group/luoshiyu.jpg" alt="" class="team-member-photo">
+        <div><strong>Shiyu LUO (罗诗雨)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2026--</div>
+    </div>
+    <div class="team-member">
+        <img src="../group/panmatao.jpg" alt="" class="team-member-photo">
+        <div><strong>Matao PAN (潘马涛)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2026--</div>
+    </div>
+    <div class="team-member">
+        <img src="../group/gaomingyang.jpg" alt="" class="team-member-photo">
+        <div><strong>Mingyang GAO (高铭阳)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2025--</div>
+    </div>
+        <div class="team-member">
+        <img src="../group/tanjiaming.jpg" alt="" class="team-member-photo">
+        <div><strong>Jiaming TAN (谭佳明)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2025--</div>
+    </div>
+        <div class="team-member">
+        <img src="../group/kesiyuan.jpg" alt="" class="team-member-photo">
+        <div><strong>Siyuan KE (柯思源)</strong></div>
         <div>Master student of BIT</div>
         <div>2025--</div>
     </div>
