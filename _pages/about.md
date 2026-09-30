@@ -55,7 +55,7 @@ I am always looking for highly motivated Master and Ph.D. students who have exce
 <div style="height: 300px; overflow-y: auto; padding: 10px; background-color: white; color: black; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; line-height: 1.8;">
 
 
-<p>- <strong>2026.08</strong>: &nbsp;🎉🎉 One paper is accepted by RA-L, congratulations to Haoyu ZHANG.</p>
+
 <p>- <strong>2026.08</strong>: &nbsp;🎉🎉 Four papers are accepted by EMNLP, congratulations to Haoyu ZHANG, Xintong ZHANG, Xiaomeng FAN and Pengxiang LI.</p>
 <p>- <strong>2026.07</strong>: &nbsp;🎉🎉 One paper is accepted by ACM MM, congratulations to Xu CHEN & Rui GAO.</p>
 <p>- <strong>2026.06</strong>: &nbsp;🎉🎉 One paper is accepted by RA-L, congratulations to Quan CHEN.</p>
