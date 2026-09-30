@@ -1327,19 +1327,19 @@ Yunde Jia
         <img src="../group/gaomingyang.jpg" alt="" class="team-member-photo">
         <div><strong>Mingyang GAO (高铭阳)</strong></div>
         <div>Master student of BIT</div>
-        <div>2025--</div>
+        <div>2026--</div>
     </div>
         <div class="team-member">
         <img src="../group/tanjiaming.jpg" alt="" class="team-member-photo">
         <div><strong>Jiaming TAN (谭佳明)</strong></div>
         <div>Master student of BIT</div>
-        <div>2025--</div>
+        <div>2026--</div>
     </div>
         <div class="team-member">
         <img src="../group/kesiyuan.jpg" alt="" class="team-member-photo">
         <div><strong>Siyuan KE (柯思源)</strong></div>
         <div>Master student of BIT</div>
-        <div>2025--</div>
+        <div>2026--</div>
     </div>
 </div>
 
