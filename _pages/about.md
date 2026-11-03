@@ -1341,6 +1341,13 @@ Yunde Jia
         <div>Master student of BIT</div>
         <div>2026--</div>
     </div>
+    </div>
+        <div class="team-member">
+        <img src="../group/xiamengfei.jpg" alt="" class="team-member-photo">
+        <div><strong>Mengfei Xia (夏梦飞)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2026--</div>
+    </div>
 </div>
 
 
@@ -1409,6 +1416,15 @@ Yunde Jia
 </style>
 
 <div class="student-scrollbox">
+
+    <div class="student-card">
+        <div class="student-name">Zhen Li (李祯)</div>
+        <div class="student-info">
+            Master student of BIT, 2026<br>
+            <strong>Now:</strong> Ph.D. student of The University of Tokyo, Japan
+        </div>
+    </div>
+
     <div class="student-card">
         <div class="student-name">Peilin YU (余沛霖)</div>
         <div class="student-info">
