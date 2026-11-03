@@ -1269,15 +1269,15 @@ Yunde Jia
         <div>Ph.D. student of BIT</div>
         <div>2025--</div>
     </div>
+    <div class="team-member">
+        <img src="../group/wuwei.jpg" alt="" class="team-member-photo">
+        <div><strong>Wei WU (吴为)</strong></div>
+        <div>Ph.D. student of BIT</div>
+        <div>2026--</div>
+    </div>
      <div class="team-member">
         <img src="../group/chenquan.jpg" alt="" class="team-member-photo">
         <div><strong>Quan CHEN (陈全)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2024--</div>
-    </div>
-     <div class="team-member">
-        <img src="../group/wuwei.jpg" alt="" class="team-member-photo">
-        <div><strong>Wei WU (吴为)</strong></div>
         <div>Master student of BIT</div>
         <div>2024--</div>
     </div>
@@ -1338,6 +1338,12 @@ Yunde Jia
         <div class="team-member">
         <img src="../group/kesiyuan.jpg" alt="" class="team-member-photo">
         <div><strong>Siyuan KE (柯思源)</strong></div>
+        <div>Master student of BIT</div>
+        <div>2026--</div>
+    </div>
+        <div class="team-member">
+        <img src="../group/xiamengfe.jpg" alt="" class="team-member-photo">
+        <div><strong>Mengfei Xia (夏梦飞)</strong></div>
         <div>Master student of BIT</div>
         <div>2026--</div>
     </div>
