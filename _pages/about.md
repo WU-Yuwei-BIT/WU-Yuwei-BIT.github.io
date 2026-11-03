@@ -1341,13 +1341,6 @@ Yunde Jia
         <div>Master student of BIT</div>
         <div>2026--</div>
     </div>
-    </div>
-        <div class="team-member">
-        <img src="../group/xiamengfei.jpg" alt="" class="team-member-photo">
-        <div><strong>Mengfei Xia (夏梦飞)</strong></div>
-        <div>Master student of BIT</div>
-        <div>2026--</div>
-    </div>
 </div>
 
 
