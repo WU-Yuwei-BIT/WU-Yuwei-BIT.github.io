@@ -1410,11 +1410,20 @@ Yunde Jia
 
 <div class="student-scrollbox">
 
+
     <div class="student-card">
         <div class="student-name">Zhen Li (李祯)</div>
         <div class="student-info">
             Master student of BIT, 2026<br>
             <strong>Now:</strong> Ph.D. student of The University of Tokyo, Japan
+        </div>
+    </div>
+
+    <div class="student-card">
+        <div class="student-name">Zhaoyi Li (李昭驿)</div>
+        <div class="student-info">
+            Master student of BIT, 2026<br>
+            <strong>Now:</strong> Algorithm Engineer, Beijing, China
         </div>
     </div>
 
